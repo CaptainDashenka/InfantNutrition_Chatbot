@@ -5,7 +5,7 @@ from llama_index.core import VectorStoreIndex, SimpleDirectoryReader, Settings
 
 st.set_page_config(page_title="Infant Nutrition Chatbot", page_icon="🍼", layout="centered", initial_sidebar_state="auto", menu_items=None)
 openai.api_key = st.secrets["OpenAi_Api_key"]
-st.title("Infant Nutrtion Cahatbot 👶💬")
+st.title("Infant Nutrtion Chatbot 👶💬")
 st.info("Use this RAG extended LLM to get information about infant nutrition recommendations.", icon="📃")
 
 if "messages" not in st.session_state.keys():  # Initialize the chat messages history

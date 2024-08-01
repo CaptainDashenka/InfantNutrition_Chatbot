@@ -1,8 +1,16 @@
-# 💬 Chatbot template
+# 💬 Baby Nutrition Advisor Chatbot
 
-A simple Streamlit app that shows how to build a chatbot using OpenAI's GPT-3.5.
+A simple app that provides answers regarding baby / infant nutrition.
 
-[![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://chatbot-template.streamlit.app/)
+The app is built on Streamlit, uses Langchain and OpenAi's ChatGPT 4o-mini model
+
+The data is scraped from public goverment websites: 
+-NHS.uk
+-myplate.gov
+-cdc.gov
+-mayoclinic.org
+
+[![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://infantnutritionchatbot.streamlit.app/)
 
 ### How to run it on your own machine
 
