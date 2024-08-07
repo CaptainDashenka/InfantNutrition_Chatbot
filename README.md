@@ -23,5 +23,7 @@ The data is scraped from public goverment websites:
 2. Run the app
 
    ```
-   $ streamlit run streamlit_app.py
+   $ streamlit run main.py
    ```
+
+3. Running the supporting functions; question generation and evaluation, requires the openAi_API key to be set up as an environment variable.
