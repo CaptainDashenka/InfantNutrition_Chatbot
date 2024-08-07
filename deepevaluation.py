@@ -63,8 +63,8 @@ with open(file_path, mode='r', newline='') as file:
 
 answer_relevancy_metric = AnswerRelevancyMetric(threshold=0.5)
 faithfullness_metric = FaithfulnessMetric()
-contextual_relevancy_metric = ContextualRelevancyMetric()
-result = dataset.evaluate([answer_relevancy_metric, faithfullness_metric, contextual_relevancy_metric])
+contextual_relevancy_metric = ContextualRelevancyMetric(threshold=0.7)
+dataset.evaluate([answer_relevancy_metric, faithfullness_metric, contextual_relevancy_metric])
 
 
 '''
