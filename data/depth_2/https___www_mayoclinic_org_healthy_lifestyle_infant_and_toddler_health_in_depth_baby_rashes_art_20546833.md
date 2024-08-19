@@ -1,8 +1,10 @@
 
 
 
-
- Common baby rashes \- Mayo Clinic
+
+
+ Common baby rashes \- Mayo Clinic
+
 
 
 
@@ -463,8 +465,10 @@ Check out these best\-sellers and special offers on books and newsletters from [
 
 
 
-
- .
+
+
+ .
+
  
 
 
@@ -473,171 +477,5 @@ ART\-20546833
 2. [Infant and toddler health](/healthy-lifestyle/infant-and-toddler-health/basics/infant-and-toddler-health/hlv-20049400)
 3. [In\-Depth](/healthy-lifestyle/infant-and-toddler-health/in-depth/hlv-20049400)
 4. Common baby rashes
-
-
-
-
-
-
-
-![](https://assets.mayoclinic.org/content/dam/media/global/images/2024/04/12/cancer-ribbon.svg)Double your impact on fighting cancer
--------------------------------------
-
- [Give Now](https://philanthropy.mayoclinic.org/page.aspx?pid=1830&sourcecode=24R071WC1MWV90Z24B&utm_source=devorgtilead&utm_medium=devweb&utm_campaign=devsummerdigitalonly)Make a gift before July 31 and it can go twice as far to fight cancer.
-
-
- [Give Now](https://philanthropy.mayoclinic.org/page.aspx?pid=1830&sourcecode=24R071WC1MWV90Z24B&utm_source=devorgtilead&utm_medium=devweb&utm_campaign=devsummerdigitalonly)
-
-* [Find a doctor](/appointments/find-a-doctor)
-* [Explore careers](https://jobs.mayoclinic.org)
-* [Sign up for free e\-newsletters](https://links.e.response.mayoclinic.org/preferencecenter)
-
-[About Mayo Clinic](/about-mayo-clinic)
----------------------------------------
-
-* [About this Site](/about-this-site)
-* [Contact Us](/about-mayo-clinic/contact)
-* [Locations](/locations)
-* [Health Information Policy](/about-this-site/health-information-policy)
-* [Medicare Accountable Care Organization (ACO)](/about-mayo-clinic/aco)
-* [Media Requests](https://newsnetwork.mayoclinic.org/newsroom/)
-* [News Network](https://newsnetwork.mayoclinic.org/)
-* [Price Transparency](/patient-visitor-guide/billing-insurance/price-estimates/chargemaster)
-
-[Medical Professionals](/medical-professionals)
------------------------------------------------
-
-* [AskMayoExpert](https://askmayoexpert.mayoclinic.org/)
-* [Clinical Trials](https://www.mayo.edu/research/clinical-trials)
-* [Mayo Clinic Alumni Association](https://alumniassociation.mayo.edu)
-* [Refer a Patient](/medical-professionals/provider-relations/refer-patient)
-
-[Businesses](https://businessdevelopment.mayoclinic.org)
---------------------------------------------------------
-
-* [Executive Health Program](/departments-centers/mayo-clinic-executive-health-program/sections/overview/ovc-20253196)
-* [International Business Collaborations](/departments-centers/international/international-business-collaborations)
-* [Facilities \& Real Estate](/about-mayo-clinic/facilities-and-real-estate)
-* [Supplier Information](/about-mayo-clinic/supplier-information)
-
-[Medical Professionals](/medical-professionals)
------------------------------------------------
-
-* [AskMayoExpert](https://askmayoexpert.mayoclinic.org/)
-* [Clinical Trials](https://www.mayo.edu/research/clinical-trials)
-* [Mayo Clinic Alumni Association](https://alumniassociation.mayo.edu)
-* [Refer a Patient](/medical-professionals/provider-relations/refer-patient)
-
-[Businesses](https://businessdevelopment.mayoclinic.org)
---------------------------------------------------------
-
-* [Executive Health Program](/departments-centers/mayo-clinic-executive-health-program/sections/overview/ovc-20253196)
-* [International Business Collaborations](/departments-centers/international/international-business-collaborations)
-* [Facilities \& Real Estate](/about-mayo-clinic/facilities-and-real-estate)
-* [Supplier Information](/about-mayo-clinic/supplier-information)
-
-[Students](https://college.mayo.edu)
-------------------------------------
-
-* [Admissions Requirements](https://college.mayo.edu/admissions-and-tuition/)
-* [Degree Programs](https://college.mayo.edu/academics/)
-* [Student \& Faculty Portal](https://login.edlink.mayo.edu/authenticationendpoint/login.do?commonAuthCallerPath=/samlsso&forceAuth=false&passiveAuth=false&tenantDomain=carbon.super&sessionDataKey=5575b8c9-06e5-4e99-bee0-0681c7a12289&relyingParty=LUM6P_LuminisPortal&type=samlsso&sp=LUM6P_LuminisPortal&isSaaSApp=false&authenticators=BasicAuthenticator:LOCAL)
-
-[Students](https://college.mayo.edu)
-------------------------------------
-
-* [Degree Programs](https://college.mayo.edu)
-* [Admissions Requirements](https://college.mayo.edu/admissions-and-tuition/)
-* [Student \& Faculty Portal](https://login.edlink.mayo.edu/authenticationendpoint/login.do?commonAuthCallerPath=/samlsso&forceAuth=false&passiveAuth=false&tenantDomain=carbon.super&sessionDataKey=5575b8c9-06e5-4e99-bee0-0681c7a12289&relyingParty=LUM6P_LuminisPortal&type=samlsso&sp=LUM6P_LuminisPortal&isSaaSApp=false&authenticators=BasicAuthenticator:LOCAL)
-
-[Researchers](https://www.mayo.edu/research)
---------------------------------------------
-
-* [Research Faculty](https://www.mayo.edu/research/faculty)
-* [Laboratories](https://www.mayo.edu/research/labs)
-
-[International Patients](/departments-centers/international)
-------------------------------------------------------------
-
-* [Appointments](/departments-centers/international/appointments)
-* [Financial Services](/departments-centers/international/financial-services)
-* [International Locations \& Offices](/departments-centers/international/locations)
-
-[Charitable Care \& Financial Assistance](/patient-visitor-guide/billing-insurance/financial-assistance)
---------------------------------------------------------------------------------------------------------
-
- [Community Health Needs Assessment](https://www.communityengagement.mayoclinic.org/community-health-needs-assessment)* [Financial Assistance Documents – Arizona](/patient-visitor-guide/billing-insurance/financial-assistance/arizona-documents)
-* [Financial Assistance Documents – Florida](/patient-visitor-guide/billing-insurance/financial-assistance/florida-documents)
-* [Financial Assistance Documents – Minnesota](/patient-visitor-guide/billing-insurance/financial-assistance/minnesota-documents)
-
-
-
----
-
-Follow Mayo Clinic
-------------------
-
-* [X](https://twitter.com/mayoclinic)
-* [Youtube](https://www.youtube.com/user/mayoclinic)
-* [Facebook](https://www.facebook.com/MayoClinic)
-* [Linkedin](https://www.linkedin.com/company/mayo-clinic)
-* [Instagram](https://www.instagram.com/mayoclinic/)
-
-Get the Mayo Clinic app
------------------------
-
-* [![Android App on Google Play](https://assets.mayoclinic.org/content/dam/mayoclinic/badges/Google_Play_Store_badge_EN.svg)](https://play.google.com/store/apps/details?id=com.mayoclinic.patient&hl=en')
-* [![Apple Download on the App Store](https://assets.mayoclinic.org/content/dam/mayoclinic/badges/App_Store_Badge_EN.svg)](https://apps.apple.com/us/app/mayo-clinic/id523220194)
-
-
-
-* [Terms \& Conditions](/about-this-site/terms-conditions-use-policy)
-* [Privacy Policy](/about-this-site/privacy-policy)
-* [Notice of Privacy Practices](https://mcforms.mayo.edu/mc5200-mc5299/mc5256-01.pdf)
-* [Notice of Nondiscrimination](https://mcforms.mayo.edu/mc2500-mc2599/mc2570-61.pdf)
-* [Accessibility Statement](/about-this-site/accessibility-statement)
-* [Advertising \& Sponsorship Policy](/about-this-site/advertising-sponsorship-policy)
-* [Site Map](/site-help/site-map)
-* [Manage Cookies](/#)
-
-* [Terms and Conditions](/about-this-site/terms-conditions-use-policy)
-* [Privacy Policy](/about-this-site/privacy-policy)
-* [Notice of Privacy Practices](https://mcforms.mayo.edu/mc5200-mc5299/mc5256-01.pdf)
-* [Notice of Nondiscrimination](https://mcforms.mayo.edu/mc2500-mc2599/mc2570-61.pdf)
-* [Accessibility Statement](/about-this-site/accessibility-statement)
-* [Advertising and Sponsorship Policy](/about-this-site/advertising-sponsorship-policy)
-* [Site Map](/site-help/site-map)
-* [Manage Cookies](/#)
-
-
-
----
-
-Language:English* [English](/healthy-lifestyle/infant-and-toddler-health/in-depth/baby-rashes/art-20546833)
-* [Español](/es/healthy-lifestyle/infant-and-toddler-health/in-depth/baby-rashes/art-20546833)
-* [العربية](/ar/healthy-lifestyle/infant-and-toddler-health/in-depth/baby-rashes/art-20546833)
-* [简体中文](/zh-hans/healthy-lifestyle/infant-and-toddler-health/in-depth/baby-rashes/art-20546833)
-
-© 1998\-2024 Mayo Foundation for Medical Education and Research (MFMER). All rights reserved.
-
-
-Language:English* [English](/healthy-lifestyle/infant-and-toddler-health/in-depth/baby-rashes/art-20546833)
-* [Español](/es/healthy-lifestyle/infant-and-toddler-health/in-depth/baby-rashes/art-20546833)
-* [العربية](/ar/healthy-lifestyle/infant-and-toddler-health/in-depth/baby-rashes/art-20546833)
-* [简体中文](/zh-hans/healthy-lifestyle/infant-and-toddler-health/in-depth/baby-rashes/art-20546833)
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 

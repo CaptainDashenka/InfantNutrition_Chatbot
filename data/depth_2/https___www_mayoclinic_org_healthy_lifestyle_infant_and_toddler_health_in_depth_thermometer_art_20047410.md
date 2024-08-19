@@ -1,8 +1,10 @@
 
 
 
-
- Thermometer basics: Taking your child's temperature \- Mayo Clinic
+
+
+ Thermometer basics: Taking your child's temperature \- Mayo Clinic
+
 
 
 
@@ -155,10 +157,10 @@ Request Appointment](/appointments)
 Thermometer basics: Taking your child's temperature
 ---------------------------------------------------
 
-*Thermometer choices got you baffled? Understand the options — and when to seek medical help for a fever.*[By Mayo Clinic Staff](/about-this-site/meet-our-medical-editors)
+*Thermometer choices got you baffled? Understand the options � and when to seek medical help for a fever.*[By Mayo Clinic Staff](/about-this-site/meet-our-medical-editors)
 
 
-If your child feels warm or seems under the weather, it's probably time to take his or her temperature. Sounds simple enough — but if you're new to it, you might have questions. Which type of thermometer is best? Are thermometer guidelines different for babies and older children? Here's what you need to know to take your child's temperature.
+If your child feels warm or seems under the weather, it's probably time to take his or her temperature. Sounds simple enough � but if you're new to it, you might have questions. Which type of thermometer is best? Are thermometer guidelines different for babies and older children? Here's what you need to know to take your child's temperature.
 
 
 
@@ -187,7 +189,7 @@ Digital pacifier thermometers and fever strips are not recommended.
 Carefully read the instructions that come with the thermometer. Before and after each use, clean the tip of the thermometer following the instructions for your particular thermometer. If you plan to use a digital thermometer to take a rectal temperature, get another digital thermometer for oral use. Label each thermometer, and don't use the same thermometer in both places.
 
 
-For safety — and to make sure the thermometer stays in place — never leave your child unattended while you're taking his or her temperature.
+For safety � and to make sure the thermometer stays in place � never leave your child unattended while you're taking his or her temperature.
 
 
 
@@ -196,7 +198,7 @@ For safety — and to make sure the thermometer stays in place — never leave y
 
 
 
-The best type of thermometer — or the best place to insert the thermometer, in some cases — depends on your child's age.
+The best type of thermometer � or the best place to insert the thermometer, in some cases � depends on your child's age.
 
 
 * **Birth to 3 months.** Use a regular digital thermometer to take a rectal temperature. New research suggests that a temporal artery thermometer might also provide accurate readings in newborns.
@@ -215,7 +217,7 @@ The best type of thermometer — or the best place to insert the thermometer, in
 
 Never try to force a rectal thermometer past any resistance. Hold the thermometer in place until the thermometer signals that it's done. Remove the thermometer and read the number.
 * **Oral temperature.** Turn on the digital thermometer. Place the tip of the thermometer under your child's tongue toward the back of the mouth and ask your child to keep his or her lips closed. Remove the thermometer when it signals that it's done and read the number. If your child has been eating or drinking, wait 15 minutes to take his or her temperature by mouth.
-* **Armpit temperature.** Turn on the digital thermometer. When you place the thermometer under your child's armpit, make sure it touches skin — not clothing. While the device reads your child's temperature, hug your child, keeping the side holding the thermometer against your chest. Keep the thermometer tightly in place until the thermometer signals that it's done. Remove the thermometer and read the number.
+* **Armpit temperature.** Turn on the digital thermometer. When you place the thermometer under your child's armpit, make sure it touches skin � not clothing. While the device reads your child's temperature, hug your child, keeping the side holding the thermometer against your chest. Keep the thermometer tightly in place until the thermometer signals that it's done. Remove the thermometer and read the number.
 * **Ear temperature.** Turn on the thermometer. Gently place the thermometer in your child's ear. Follow the directions that come with the thermometer to ensure you insert the thermometer the proper distance into the ear canal. Hold the thermometer tightly in place until the thermometer signals that it's done. Remove the thermometer and read the number.
 * **Temporal artery temperature.** Turn on the thermometer. Gently sweep the thermometer across your child's forehead. Remove the thermometer and read the number.
 
@@ -264,387 +266,9 @@ In general, contact your child's doctor if:
 
 
 
- 
+�
 
 
 
 
-There is a problem with information submitted for this request. Review/update the information highlighted below and resubmit the form.
-
-
-
-Children’s health information and parenting tips to your inbox.
----------------------------------------------------------------
-
-
-Sign\-up to get Mayo Clinic’s trusted health content sent to your email. Receive a bonus guide on ways to manage your child’s health just for subscribing. [Click here for an email preview.](https://links.e.response.mayoclinic.org/EmailPreview-Parenting)
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Email
-
-
-
-
-Infant's First Year (0\-1\)
-
-Toddler (2\-4\)
- 
-
-Elementary Children (5\-10\)
- 
-
-Tween \& Teen (11\-17\)
- 
-
-
- Address 1
-
-
-
-ErrorEmail field is required
-
-
-ErrorInclude a valid email address
-
-
-
-
-Subscribe
-
-Learn more about Mayo Clinic’s use of data.
-
-To provide you with the most relevant and helpful information, and understand which information is beneficial, we may combine your email and website usage information with other information we have about you. If you are a Mayo Clinic patient, this could include protected health information. If we combine this information with your protected health information, we will treat all of that information as protected health information and will only use or disclose that information as set forth in our notice of privacy practices. You may opt\-out of email communications at any time by clicking on the unsubscribe link in the e\-mail.
-
-
-
-
-
-
-### Thank you for subscribing
-
-
-Our e\-newsletter will keep you up\-to\-date on the latest health information.
-
-
-
-
-### Something went wrong with your subscription.
-
-
-Please try again in a couple of minutes
-
-
-
-Retry
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-* [Share](https://www.facebook.com/sharer.php?u=https://www.mayoclinic.org/healthy-lifestyle/infant-and-toddler-health/in-depth/thermometer/art-20047410)
-* [Tweet](http://twitter.com/intent/tweet?url=https://www.mayoclinic.org/healthy-lifestyle/infant-and-toddler-health/in-depth/thermometer/art-20047410&text=How+to+take+your+child%27s+temperature+the+right+way)
-
-Nov. 11, 2022
-Show references
-1. Schmitt BD. Fever. In: Pediatric Telephone Protocols: Office Version. 16th ed. Itasca, Ill.: American Academy of Pediatrics; 2018\.
-2. Ward M, et al. Fever in infants and children: Pathophysiology and management. https://www.uptodate.com/contents/search. Accessed Dec. 12, 2018\.
-3. Syrkin\-Nikolau ME, et al. Temporal artery temperature measurement in the neonate. American Journal of Perinatology. 2017;34:1026\.
-4. Fever. American Academy of Pediatrics. https://patiented.solutions.aap.org/handout.aspx?gbosid\=166295\. Accessed March 7, 2019\.
-5. How to take your child's temperature. American Academy of Pediatrics. https://patiented.solutions.aap.org/handout.aspx?resultClick\=1\&gbosid\=166297\. Accessed March 7, 2019\.
-6. Cherry JD, et al, eds. Fever: Pathogenesis and management. In: Feigin and Cherry's Textbook of Pediatric Infectious Diseases. 8th ed. Philadelphia, Pa.: Elsevier, Inc.; 2019\. http://www.clinicalkey.com. Accessed March 19, 2019\.
-
-
-
-
-[See more In\-depth](/healthy-lifestyle/infant-and-toddler-health/basics/infant-and-toddler-health/hlv-20049400)
-
-Products and Services
----------------------
-
-1. [Newsletter: Mayo Clinic Health Letter — Digital Edition](https://order.store.mayoclinic.com/flex/mmv/HLDIGAR/?altkey=HLEMORG)
-2. [A Book: Mayo Clinic Family Health Book](https://order.store.mayoclinic.com/flex/mmv/FHBLC01/?altkey=FHBORG&utm_source=MC-DotOrg-PS&utm_medium=Link&utm_campaign=FamilyHealth-Book&utm_content=FHB)
-3. [A Book: A Practical Guide to Help Kids of All Ages Thrive](https://order.store.mayoclinic.com/flex/mmv/BACTR01/?altkey=BOTORG)
-
-
-
-See also
---------
-
-1. [Car seat safety](/healthy-lifestyle/infant-and-toddler-health/in-depth/car-seat-safety/art-20043939)
-2. [Car sickness in children](/healthy-lifestyle/childrens-health/expert-answers/car-sickness-in-children/faq-20057876)
-3. [Childhood vaccines](/healthy-lifestyle/infant-and-toddler-health/in-depth/vaccines/art-20048334)
-4. [COVID\-19 in babies and children](/diseases-conditions/coronavirus/in-depth/coronavirus-in-babies-and-children/art-20484405)
-5. [COVID\-19 vaccines for kids: What you need to know](/diseases-conditions/coronavirus/in-depth/covid-19-vaccines-for-kids/art-20513332)
-6. [Enterovirus D68 and parechovirus: How can I protect my child?](/diseases-conditions/infectious-diseases/expert-answers/protecting-my-child-from-enterovirus/faq-20113868)
-7. [Flu shots for kids](/healthy-lifestyle/infant-and-toddler-health/expert-answers/flu-shots/faq-20058448)
-8. [Hand\-washing tips](/healthy-lifestyle/adult-health/in-depth/hand-washing/art-20046253)
-9. [Iron deficiency in children](/healthy-lifestyle/childrens-health/in-depth/iron-deficiency/art-20045634)
-10. [Language development](/healthy-lifestyle/infant-and-toddler-health/in-depth/language-development/art-20045163)
-11. [Mayo Clinic Minute: Are you keeping your child as safe as possible in the car?](/healthy-lifestyle/infant-and-toddler-health/multimedia/rear-facing-car-seat/vid-20452639)
-12. [Mayo Clinic Minute: Why getting vaccinated for the flu is doubly important this season](/diseases-conditions/flu/multimedia/vid-20502769)
-13. [Thermometers: Understand the options](/diseases-conditions/fever/in-depth/thermometers/art-20046737)
-14. [Vaccine guidance from Mayo Clinic](/diseases-conditions/infectious-diseases/in-depth/vaccine-guidance/art-20536857)
-15. [Vital Vaccinations](/healthy-lifestyle/infant-and-toddler-health/multimedia/vid-20078294)
-16. [When to Take Your Child to the E.D.](/healthy-lifestyle/childrens-health/multimedia/when-to-take-child-to-emergency-department/vid-20097418)
-
-Show more related content
-
-
-
-
-
-
-Advertisement
-
-
-
-Mayo Clinic does not endorse companies or products. Advertising revenue supports our not\-for\-profit mission.
-
-
-**Advertising \& Sponsorship**
-* [Policy](/about-this-site/advertising-sponsorship-policy)
-* [Opportunities](/about-this-site/advertising-sponsorship)
-* [Ad Choices](https://optout.aboutads.info/)
-
-
-
-
-
-### Mayo Clinic Press
-
-
-Check out these best\-sellers and special offers on books and newsletters from [Mayo Clinic Press](https://mcpress.mayoclinic.org/?utm_source=MC-DotOrg-Text&utm_medium=Link&utm_campaign=MC-Press&utm_content=MCPRESS).
-
-
-* [Mayo Clinic on Incontinence \- Mayo Clinic PressMayo Clinic on Incontinence](https://order.store.mayoclinic.com/flex/mmv/incon01/?altkey=INMCPRC&utm_source=MC-DotOrg-Text&utm_medium=Link&utm_campaign=Incontinence-Book&utm_content=INC)
-* [The Essential Diabetes Book \- Mayo Clinic PressThe Essential Diabetes Book](https://order.store.mayoclinic.com/flex/mmv/ESDIAB1/?altkey=ESMCPRC&utm_source=MC-DotOrg-Text&utm_medium=Link&utm_campaign=Diabetes-Book&utm_content=EDIAB)
-* [Mayo Clinic on Hearing and Balance \- Mayo Clinic PressMayo Clinic on Hearing and Balance](https://order.store.mayoclinic.com/flex/mmv/HRBAL02/?altkey=HRMCPRC&utm_source=MC-DotOrg-Text&utm_medium=Link&utm_campaign=Hearing-Book&utm_content=HEAR)
-* [FREE Mayo Clinic Diet Assessment \- Mayo Clinic PressFREE Mayo Clinic Diet Assessment](https://diet.mayoclinic.org/us/diet-assessment/diet-assessment/?profile=true&promo=65-qtr&utm_source=Mayo&utm_medium=Display&utm_campaign=text_link)
-* [Mayo Clinic Health Letter \- FREE book \- Mayo Clinic PressMayo Clinic Health Letter \- FREE book](https://order.store.mayoclinic.com/hl/HLFREEB?utm_source=MC-DotOrg-Text&utm_medium=Link&utm_campaign=HealthLetter-Digital&utm_content=HL_FREEBOOK)
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
- .
- 
-
-
-ART\-20047410
-1. [Healthy Lifestyle](/healthy-lifestyle)
-2. [Infant and toddler health](/healthy-lifestyle/infant-and-toddler-health/basics/infant-and-toddler-health/hlv-20049400)
-3. [In\-Depth](/healthy-lifestyle/infant-and-toddler-health/in-depth/hlv-20049400)
-4. Thermometer basics \- Taking your childs temperature
-
-
-
-
-
-
-
-![](https://assets.mayoclinic.org/content/dam/media/global/images/2024/04/12/cancer-ribbon.svg)Double your impact on fighting cancer
--------------------------------------
-
- [Give Now](https://philanthropy.mayoclinic.org/page.aspx?pid=1830&sourcecode=24R071WC1MWV90Z24B&utm_source=devorgtilead&utm_medium=devweb&utm_campaign=devsummerdigitalonly)Make a gift before July 31 and it can go twice as far to fight cancer.
-
-
- [Give Now](https://philanthropy.mayoclinic.org/page.aspx?pid=1830&sourcecode=24R071WC1MWV90Z24B&utm_source=devorgtilead&utm_medium=devweb&utm_campaign=devsummerdigitalonly)
-
-* [Find a doctor](/appointments/find-a-doctor)
-* [Explore careers](https://jobs.mayoclinic.org)
-* [Sign up for free e\-newsletters](https://links.e.response.mayoclinic.org/preferencecenter)
-
-[About Mayo Clinic](/about-mayo-clinic)
----------------------------------------
-
-* [About this Site](/about-this-site)
-* [Contact Us](/about-mayo-clinic/contact)
-* [Locations](/locations)
-* [Health Information Policy](/about-this-site/health-information-policy)
-* [Medicare Accountable Care Organization (ACO)](/about-mayo-clinic/aco)
-* [Media Requests](https://newsnetwork.mayoclinic.org/newsroom/)
-* [News Network](https://newsnetwork.mayoclinic.org/)
-* [Price Transparency](/patient-visitor-guide/billing-insurance/price-estimates/chargemaster)
-
-[Medical Professionals](/medical-professionals)
------------------------------------------------
-
-* [AskMayoExpert](https://askmayoexpert.mayoclinic.org/)
-* [Clinical Trials](https://www.mayo.edu/research/clinical-trials)
-* [Mayo Clinic Alumni Association](https://alumniassociation.mayo.edu)
-* [Refer a Patient](/medical-professionals/provider-relations/refer-patient)
-
-[Businesses](https://businessdevelopment.mayoclinic.org)
---------------------------------------------------------
-
-* [Executive Health Program](/departments-centers/mayo-clinic-executive-health-program/sections/overview/ovc-20253196)
-* [International Business Collaborations](/departments-centers/international/international-business-collaborations)
-* [Facilities \& Real Estate](/about-mayo-clinic/facilities-and-real-estate)
-* [Supplier Information](/about-mayo-clinic/supplier-information)
-
-[Medical Professionals](/medical-professionals)
------------------------------------------------
-
-* [AskMayoExpert](https://askmayoexpert.mayoclinic.org/)
-* [Clinical Trials](https://www.mayo.edu/research/clinical-trials)
-* [Mayo Clinic Alumni Association](https://alumniassociation.mayo.edu)
-* [Refer a Patient](/medical-professionals/provider-relations/refer-patient)
-
-[Businesses](https://businessdevelopment.mayoclinic.org)
---------------------------------------------------------
-
-* [Executive Health Program](/departments-centers/mayo-clinic-executive-health-program/sections/overview/ovc-20253196)
-* [International Business Collaborations](/departments-centers/international/international-business-collaborations)
-* [Facilities \& Real Estate](/about-mayo-clinic/facilities-and-real-estate)
-* [Supplier Information](/about-mayo-clinic/supplier-information)
-
-[Students](https://college.mayo.edu)
-------------------------------------
-
-* [Admissions Requirements](https://college.mayo.edu/admissions-and-tuition/)
-* [Degree Programs](https://college.mayo.edu/academics/)
-* [Student \& Faculty Portal](https://login.edlink.mayo.edu/authenticationendpoint/login.do?commonAuthCallerPath=/samlsso&forceAuth=false&passiveAuth=false&tenantDomain=carbon.super&sessionDataKey=5575b8c9-06e5-4e99-bee0-0681c7a12289&relyingParty=LUM6P_LuminisPortal&type=samlsso&sp=LUM6P_LuminisPortal&isSaaSApp=false&authenticators=BasicAuthenticator:LOCAL)
-
-[Students](https://college.mayo.edu)
-------------------------------------
-
-* [Degree Programs](https://college.mayo.edu)
-* [Admissions Requirements](https://college.mayo.edu/admissions-and-tuition/)
-* [Student \& Faculty Portal](https://login.edlink.mayo.edu/authenticationendpoint/login.do?commonAuthCallerPath=/samlsso&forceAuth=false&passiveAuth=false&tenantDomain=carbon.super&sessionDataKey=5575b8c9-06e5-4e99-bee0-0681c7a12289&relyingParty=LUM6P_LuminisPortal&type=samlsso&sp=LUM6P_LuminisPortal&isSaaSApp=false&authenticators=BasicAuthenticator:LOCAL)
-
-[Researchers](https://www.mayo.edu/research)
---------------------------------------------
-
-* [Research Faculty](https://www.mayo.edu/research/faculty)
-* [Laboratories](https://www.mayo.edu/research/labs)
-
-[International Patients](/departments-centers/international)
-------------------------------------------------------------
-
-* [Appointments](/departments-centers/international/appointments)
-* [Financial Services](/departments-centers/international/financial-services)
-* [International Locations \& Offices](/departments-centers/international/locations)
-
-[Charitable Care \& Financial Assistance](/patient-visitor-guide/billing-insurance/financial-assistance)
---------------------------------------------------------------------------------------------------------
-
- [Community Health Needs Assessment](https://www.communityengagement.mayoclinic.org/community-health-needs-assessment)* [Financial Assistance Documents – Arizona](/patient-visitor-guide/billing-insurance/financial-assistance/arizona-documents)
-* [Financial Assistance Documents – Florida](/patient-visitor-guide/billing-insurance/financial-assistance/florida-documents)
-* [Financial Assistance Documents – Minnesota](/patient-visitor-guide/billing-insurance/financial-assistance/minnesota-documents)
-
-
-
----
-
-Follow Mayo Clinic
-------------------
-
-* [X](https://twitter.com/mayoclinic)
-* [Youtube](https://www.youtube.com/user/mayoclinic)
-* [Facebook](https://www.facebook.com/MayoClinic)
-* [Linkedin](https://www.linkedin.com/company/mayo-clinic)
-* [Instagram](https://www.instagram.com/mayoclinic/)
-
-Get the Mayo Clinic app
------------------------
-
-* [![Android App on Google Play](https://assets.mayoclinic.org/content/dam/mayoclinic/badges/Google_Play_Store_badge_EN.svg)](https://play.google.com/store/apps/details?id=com.mayoclinic.patient&hl=en')
-* [![Apple Download on the App Store](https://assets.mayoclinic.org/content/dam/mayoclinic/badges/App_Store_Badge_EN.svg)](https://apps.apple.com/us/app/mayo-clinic/id523220194)
-
-
-
-* [Terms \& Conditions](/about-this-site/terms-conditions-use-policy)
-* [Privacy Policy](/about-this-site/privacy-policy)
-* [Notice of Privacy Practices](https://mcforms.mayo.edu/mc5200-mc5299/mc5256-01.pdf)
-* [Notice of Nondiscrimination](https://mcforms.mayo.edu/mc2500-mc2599/mc2570-61.pdf)
-* [Accessibility Statement](/about-this-site/accessibility-statement)
-* [Advertising \& Sponsorship Policy](/about-this-site/advertising-sponsorship-policy)
-* [Site Map](/site-help/site-map)
-* [Manage Cookies](/#)
-
-* [Terms and Conditions](/about-this-site/terms-conditions-use-policy)
-* [Privacy Policy](/about-this-site/privacy-policy)
-* [Notice of Privacy Practices](https://mcforms.mayo.edu/mc5200-mc5299/mc5256-01.pdf)
-* [Notice of Nondiscrimination](https://mcforms.mayo.edu/mc2500-mc2599/mc2570-61.pdf)
-* [Accessibility Statement](/about-this-site/accessibility-statement)
-* [Advertising and Sponsorship Policy](/about-this-site/advertising-sponsorship-policy)
-* [Site Map](/site-help/site-map)
-* [Manage Cookies](/#)
-
-
-
----
-
-Language:English* [English](/healthy-lifestyle/infant-and-toddler-health/in-depth/thermometer/art-20047410)
-* [Español](/es/healthy-lifestyle/infant-and-toddler-health/in-depth/thermometer/art-20047410)
-* [العربية](/ar/healthy-lifestyle/infant-and-toddler-health/in-depth/thermometer/art-20047410)
-* [简体中文](/zh-hans/healthy-lifestyle/infant-and-toddler-health/in-depth/thermometer/art-20047410)
-
-© 1998\-2024 Mayo Foundation for Medical Education and Research (MFMER). All rights reserved.
-
-
-Language:English* [English](/healthy-lifestyle/infant-and-toddler-health/in-depth/thermometer/art-20047410)
-* [Español](/es/healthy-lifestyle/infant-and-toddler-health/in-depth/thermometer/art-20047410)
-* [العربية](/ar/healthy-lifestyle/infant-and-toddler-health/in-depth/thermometer/art-20047410)
-* [简体中文](/zh-hans/healthy-lifestyle/infant-and-toddler-health/in-depth/thermometer/art-20047410)
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+There is a problem with information submitted for this request
