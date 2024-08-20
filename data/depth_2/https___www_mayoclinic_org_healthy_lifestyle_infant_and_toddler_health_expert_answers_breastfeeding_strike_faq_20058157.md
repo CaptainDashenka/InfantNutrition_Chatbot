@@ -170,7 +170,7 @@ Why would a baby go on a breastfeeding strike?
  Answer From Melissa A. Kurke, R.N., I.B.C.L.C.
 
 
-Many factors can trigger a breastfeeding strike � a baby's sudden refusal to breastfeed for a period of time after breastfeeding well for months. Typically, the baby is trying to tell you that something isn't quite right.
+Many factors can trigger a breastfeeding strike aIÌ€â€šaÌ‚â€šÂ¬aÌ‚â‚¬ï¿1⁄2 a baby's sudden refusal to breastfeed for a period of time after breastfeeding well for months. Typically, the baby is trying to tell you that something isn't quite right.
 
 
 But a breastfeeding strike doesn't necessarily mean that your baby is ready to wean. Breastfeeding strikes are often short\-lived.
@@ -185,14 +185,14 @@ Common causes of a breastfeeding strike include:
 * **Pain or discomfort.** Teething, thrush or a cold sore can cause mouth pain during breastfeeding. An ear infection can cause pain during sucking or lying on one side. And an injury or soreness from a vaccination might cause discomfort in a certain breastfeeding position.
 * **Illness.** A cold or stuffy nose can make it difficult for your baby to breathe during breastfeeding.
 * **Stress or distraction.** Overstimulation, delayed feedings or a long separation from you might cause fussiness and difficulty nursing. A strong reaction from you to being bitten during breastfeeding might have the same effect. Sometimes a baby is simply too distracted to breastfeed.
-* **Unusual scents or tastes.** Changes in your smell due to a new soap, perfume, lotion or deodorant might cause your baby to lose interest in breastfeeding. Changes in the taste of breast milk � triggered by the food you eat, medication, your period or getting pregnant again � also can trigger a breastfeeding strike.
+* **Unusual scents or tastes.** Changes in your smell due to a new soap, perfume, lotion or deodorant might cause your baby to lose interest in breastfeeding. Changes in the taste of breast milk aIÌ€â€šaÌ‚â€šÂ¬aÌ‚â‚¬ï¿1⁄2 triggered by the food you eat, medication, your period or getting pregnant again aIÌ€â€šaÌ‚â€šÂ¬aÌ‚â‚¬ï¿1⁄2 also can trigger a breastfeeding strike.
 * **Reduced milk supply.** Supplementing with formula or using a pacifier too much might reduce your milk supply.
 
 
 ### Managing a breastfeeding strike
 
 
-A breastfeeding strike can be uncomfortable for you and your baby. You might feel rejected and frustrated. Don't feel guilty, though � it's not your fault.
+A breastfeeding strike can be uncomfortable for you and your baby. You might feel rejected and frustrated. Don't feel guilty, though aIÌ€â€šaÌ‚â€šÂ¬aÌ‚â‚¬ï¿1⁄2 it's not your fault.
 
 
 To prevent engorgement and maintain your milk supply, pump milk as often as your baby used to breastfeed. You can feed the expressed milk to your baby with a spoon, dropper or bottle. You might also:
@@ -226,7 +226,7 @@ With
 
 
 
-�
+ 
 
 
 

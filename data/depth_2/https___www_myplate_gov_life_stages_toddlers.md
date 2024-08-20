@@ -163,7 +163,7 @@ Menu
 	+ [Print Materials](/resources/print-materials)
 	+ [Graphics](/resources/graphics)
 	+ [Videos](/resources/videos)
-	+ [En Español](/resources/en-espanol)
+	+ [En Español](/resources/en-espanol)
 	+ [Multiple Languages](/myplate-multiple-languages)
 	+ [Partner Resources](/partner-resources)
 * Professionals
@@ -269,7 +269,7 @@ Give your toddler healthy choices as they explore new foods and flavors.
 ------------------------------------------------------------------------
 
 
-Toddlers are learning to feed themselves and to eat new foods during this important time of growth and development. Young children have small stomachs and are learning what foods they like and dislike. So, make every bite count!
+Toddlers are learning to feed themselves and to eat new foods during this important time of growth and development. Young children have small stomachs and are learning what foods they like and dislike. So, make every bite count!
 
 
 
@@ -593,7 +593,7 @@ Unpasteurized foods are not safe for your little one as some unpasteurized produ
 ### Beverages
 
 
-Did you know that "toddler milks" and "toddler drinks" come with a lot of sugar? Experts recommend avoiding these and focusing on giving your baby healthy foods and beverages throughout the day. After your baby's first birthday, infant formula is no longer recommended. Instead, offer cow's milk, water, and if available, breastmilk.
+Did you know that "toddler milks" and "toddler drinks" come with a lot of sugar? Experts recommend avoiding these and focusing on giving your baby healthy foods and beverages throughout the day. After your baby's first birthday, infant formula is no longer recommended. Instead, offer cow's milk, water, and if available, breastmilk.
 
 
 
@@ -633,7 +633,7 @@ Nut butters like peanut butter are a great option to offer your toddler. To prev
 ### Repeated Exposure
 
 
-Did you know that it may take 8 to 10 times before your child likes a new food? So, for example, offering your little one fruits and vegetables repeatedly will increase the likelihood that they will eventually like them. So, keep up the good work and one day it will pay off!
+Did you know that it may take 8 to 10 times before your child likes a new food? So, for example, offering your little one fruits and vegetables repeatedly will increase the likelihood that they will eventually like them. So, keep up the good work and one day it will pay off!
 
 
 
@@ -643,7 +643,7 @@ Did you know that it may take 8 to 10 times before your child likes a new food? 
 ### Variety \- Foods, Flavor, Texture
 
 
-It is important to offer your toddler a variety of foods from all of the five food groups \-\- fruits, vegetables, grains, protein foods, and dairy foods. Offer healthy foods and a variety of flavors and textures. You can try adding the same spices and seasonings that the rest of the family enjoys. Research indicates children may have to try foods many times before they like it.
+It is important to offer your toddler a variety of foods from all of the five food groups \-\- fruits, vegetables, grains, protein foods, and dairy foods. Offer healthy foods and a variety of flavors and textures. You can try adding the same spices and seasonings that the rest of the family enjoys. Research indicates children may have to try foods many times before they like it.
 
 
 
@@ -686,7 +686,7 @@ Image
 **Healthy Eating for Toddlers Tip Sheet**
 
 
-**[English](/sites/default/files/2024-05/TipSheet-15-Healthy-Eating-For-Toddlers.pdf "Healthy Eating for Toddlers Tip Sheet")    [Spanish](/sites/default/files/2024-05/Spanish-TipSheet-15-Healthy-Eating-For-Toddlers.pdf "Alimentación Saludable para Niños Pequeños.")**
+**[English](/sites/default/files/2024-05/TipSheet-15-Healthy-Eating-For-Toddlers.pdf "Healthy Eating for Toddlers Tip Sheet")    [Spanish](/sites/default/files/2024-05/Spanish-TipSheet-15-Healthy-Eating-For-Toddlers.pdf "Alimentación Saludable para Niños Pequeños.")**
 
 
 
@@ -749,7 +749,7 @@ Image
 **Healthy Tips for Picky Eaters**
 
 
-**[English](/sites/default/files/2024-05/Healthy-Tips-for-Picky-Eaters.pdf "Healthy Tips for Picky Eaters")   [Spanish](/sites/default/files/2024-06/Healthy-Tips-for-Picky-Eaters-Spanish.pdf "Consejos Saludables para los Caprichosos con la Comida")**
+**[English](/sites/default/files/2024-05/Healthy-Tips-for-Picky-Eaters.pdf "Healthy Tips for Picky Eaters")   [Spanish](/sites/default/files/2024-06/Healthy-Tips-for-Picky-Eaters-Spanish.pdf "Consejos Saludables para los Caprichosos con la Comida")**
 
 
 
@@ -770,7 +770,7 @@ Image
 **Reducing the Risk of Choking in Young Children**
 
 
-**[English](https://wicworks.fns.usda.gov/resources/reducing-risk-choking-young-children-mealtimes "Reducing the Risk of Choking in Young Children at Mealtimes")   [Spanish](https://wicworks.fns.usda.gov/resources/reducing-risk-choking-young-children-mealtimes "Reduzca el riesgo de atragantamiento de los niños pequeños en las comidas")**
+**[English](https://wicworks.fns.usda.gov/resources/reducing-risk-choking-young-children-mealtimes "Reducing the Risk of Choking in Young Children at Mealtimes")   [Spanish](https://wicworks.fns.usda.gov/resources/reducing-risk-choking-young-children-mealtimes "Reduzca el riesgo de atragantamiento de los niños pequeños en las comidas")**
 
 
 
@@ -812,7 +812,7 @@ Image
 **Mealtimes with Toddlers – Family Handout**
 
 
-**[English](https://www.fns.usda.gov/tn/mealtimes-toddlers-family-handout "Mealtimes With Toddlers Family Handout")   [Spanish](https://www.fns.usda.gov/es/tn/mealtimes-toddlers-family-handout "La hora de la comida con los niños de 1 a 2 años Folleto familiar")**
+**[English](https://www.fns.usda.gov/tn/mealtimes-toddlers-family-handout "Mealtimes With Toddlers Family Handout")   [Spanish](https://www.fns.usda.gov/es/tn/mealtimes-toddlers-family-handout "La hora de la comida con los niños de 1 a 2 años Folleto familiar")**
 
 
 
@@ -833,7 +833,7 @@ Image
 **CDC’s Milestone Tracker App**
 
 
-**[English](https://www.cdc.gov/ncbddd/actearly/milestones-app.html "CDC’s Milestone Tracker App")    [Spanish](https://www.cdc.gov/ncbddd/spanish/actearly/spanish-milestones-app.html "La aplicación Sigamos el Desarrollo")**
+**[English](https://www.cdc.gov/ncbddd/actearly/milestones-app.html "CDC’s Milestone Tracker App")    [Spanish](https://www.cdc.gov/ncbddd/spanish/actearly/spanish-milestones-app.html "La aplicación Sigamos el Desarrollo")**
 
 
 
@@ -854,7 +854,7 @@ Image
 **Toddler Nutrition Quiz**
 
 
-**[English](https://www.fns.usda.gov/tn/quizzes/toddler-nutrition "Toddler Nutrition Quiz")   [Spanish](https://www.fns.usda.gov/es/tn/quizzes/toddler-nutrition "Cuestionario acerca de la nutrición para niños de 1 a 2 años")**
+**[English](https://www.fns.usda.gov/tn/quizzes/toddler-nutrition "Toddler Nutrition Quiz")   [Spanish](https://www.fns.usda.gov/es/tn/quizzes/toddler-nutrition "Cuestionario acerca de la nutrición para niños de 1 a 2 años")**
 
 
 
@@ -875,7 +875,7 @@ Image
 **MyPlate Tip Sheets**
 
 
-**[English](/myplate-tip-sheets "MyPlate Tip Sheets")    [Spanish](/es/resources/print-materials?f[0]=audience%3A1182&f[1]=resource_type%3A1181 "Hojas de consejos de MiPlato")**
+**[English](/myplate-tip-sheets "MyPlate Tip Sheets")    [Spanish](/es/resources/print-materials?f[0]=audience%3A1182&f[1]=resource_type%3A1181 "Hojas de consejos de MiPlato")**
 
 
 
@@ -896,7 +896,7 @@ Image
 **More Print Materials**
 
 
-**[English](/resources/print-materials "More Print Materials")   [Spanish](/resources/print-materials?f[0]=resource_type%3A1176 "Más materiales impresos")**
+**[English](/resources/print-materials "More Print Materials")   [Spanish](/resources/print-materials?f[0]=resource_type%3A1176 "Más materiales impresos")**
 
 
 
@@ -1007,7 +1007,7 @@ Image
 ### *Start Simple with MyPlate* App
 
 
-Build healthy eating habits one goal at a time! Download the *Start Simple with MyPlate* app today.
+Build healthy eating habits one goal at a time! Download the *Start Simple with MyPlate* app today.
 
 
 **[Learn more](/resources/tools/startsimple-myplate-app "Start Simple with MyPlate App")**

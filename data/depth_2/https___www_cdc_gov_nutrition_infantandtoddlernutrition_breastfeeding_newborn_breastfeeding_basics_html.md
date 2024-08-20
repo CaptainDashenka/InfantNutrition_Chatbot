@@ -60,7 +60,7 @@ Newborn Breastfeeding Basics \| Nutrition \| CDC
 [Skip directly to search](#headerSearch)
 
 
-[Español](/spanish/) \| 
+[EspanIÌ€Æ’ol](/spanish/) \| 
 [Other Languages](https://wwwn.cdc.gov/pubs/other-languages/)
 
 **Error processing SSI file**  
@@ -186,7 +186,7 @@ How do I know if my baby is getting enough to eat?
 --------------------------------------------------
 
 
-See CDC’s page [How Much and How Often to Breastfeed](/nutrition/infantandtoddlernutrition/breastfeeding/how-much-and-how-often.html) for more information on breastfeeding during the baby’s first days, weeks, and months of life.
+See CDCaÌ‚â‚¬TMs page [How Much and How Often to Breastfeed](/nutrition/infantandtoddlernutrition/breastfeeding/how-much-and-how-often.html) for more information on breastfeeding during the babyaÌ‚â‚¬TMs first days, weeks, and months of life.
 
 
 
@@ -216,7 +216,7 @@ Minimum number of wet diapers and poops by days 1\-7
 | Day 2 | 2 | 3 |
 | Day 3 | 5 | 3 |
 | Day 4 | 6 | 3 |
-| Day 5 – Day 7 | 6 | 3 |
+| Day 5 aÌ‚â‚¬â€œ Day 7 | 6 | 3 |
 
 
 
@@ -238,7 +238,7 @@ Signs that your baby might not be getting enough to eat are:
 * Your baby seems fussy after breastfeeding.
 * Your baby continues to lose weight after day 5\.
 * Your baby has fewer than 3 poops and fewer than 6 pees per day by 5 days old.
-* Your baby’s skin looks a bit yellow.
+* Your babyaÌ‚â‚¬TMs skin looks a bit yellow.
 
 
 
@@ -250,7 +250,7 @@ Signs that your baby might not be getting enough to eat are:
 IMPORTANT
 
 
- If you have any questions or concerns about your baby’s health or if you are worried that your baby is not getting enough to eat, speak to your baby’s healthcare provider right away. 
+ If you have any questions or concerns about your babyaÌ‚â‚¬TMs health or if you are worried that your baby is not getting enough to eat, speak to your babyaÌ‚â‚¬TMs healthcare provider right away. 
 
 
 
@@ -261,19 +261,19 @@ Am I breastfeeding correctly?
 -----------------------------
 
 
-For more information on what to expect while breastfeeding, visit CDC’s [What to Expect While Breastfeeding](/nutrition/InfantandToddlerNutrition/breastfeeding/what-to-expect.html).
+For more information on what to expect while breastfeeding, visit CDCaÌ‚â‚¬TMs [What to Expect While Breastfeeding](/nutrition/InfantandToddlerNutrition/breastfeeding/what-to-expect.html).
 
 
 
-Breastfeeding is a learning process. Each baby and mother’s experience with breastfeeding is different. It is important that your baby has a good latch. This helps your baby get enough breast milk. Below are signs of a good or bad latch.
+Breastfeeding is a learning process. Each baby and motheraÌ‚â‚¬TMs experience with breastfeeding is different. It is important that your baby has a good latch. This helps your baby get enough breast milk. Below are signs of a good or bad latch.
 
 
 ### Signs of a good latch
 
 
 ![A mother breastfeeding her newborn child](/nutrition/infantandtoddlernutrition/breastfeeding/images/newborn-breastfeeding-500px.jpg?_=86267)
-* Your baby’s mouth is open wide over the areola (the darker colored area around your nipple), with lips turned out.
-* Your baby’s chin is resting against the breast, baby’s chest and stomach are against your body, baby’s head is straight and not turned to the side.
+* Your babyaÌ‚â‚¬TMs mouth is open wide over the areola (the darker colored area around your nipple), with lips turned out.
+* Your babyaÌ‚â‚¬TMs chin is resting against the breast, babyaÌ‚â‚¬TMs chest and stomach are against your body, babyaÌ‚â‚¬TMs head is straight and not turned to the side.
 * You can see and hear your baby swallowing while breastfeeding.
 * Your baby is swallowing regularly.
 
@@ -282,7 +282,7 @@ Breastfeeding is a learning process. Each baby and mother’s experience with br
 
 
 * Your baby is only suckling on the nipple.
-* Your baby’s lips are curled inward.
+* Your babyaÌ‚â‚¬TMs lips are curled inward.
 * Breastfeeding hurts.
 * Your nipples are cracked or bleeding.
 * Your nipples look flat or misshapen after breastfeeding.
@@ -326,258 +326,11 @@ Learn more* [Responding to a low breast milk supply](https://wicbreastfeeding.fn
 
 
 
+**Error processing SSI file**  
 
 
 
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-SAS
-
-
-
-
-stats
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+ Last Reviewed:

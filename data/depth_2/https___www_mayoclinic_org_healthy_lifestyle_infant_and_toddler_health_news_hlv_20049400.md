@@ -158,8 +158,15 @@ News
 ----
 
 
+### August 2024
+
+* [Mayo Clinic expert explains parvovirus B19, a common childhood infection Aug. 16, 2024, 02:30 p.m. CDT](https://newsnetwork.mayoclinic.org/?p=372677)
+* [Mayo Clinic Press launches new consumer health and wellness podcast portfolio Aug. 05, 2024, 01:30 p.m. CDT](https://newsnetwork.mayoclinic.org/?p=392278)
+
 ### July 2024
 
+* [Mayo Clinic Minute: Tongue\-tie in babies July 30, 2024, 04:30 p.m. CDT](https://newsnetwork.mayoclinic.org/?p=360224)
+* [Preventing measles outbreaks in the US through vaccination July 26, 2024, 03:15 p.m. CDT](https://newsnetwork.mayoclinic.org/?p=372997)
 * [Mayo Clinic Minute: Keeping kids safe outside during summer play July 12, 2024, 04:15 p.m. CDT](https://newsnetwork.mayoclinic.org/?p=370517)
 
 ### May 2024
@@ -206,7 +213,6 @@ News
 
 ### October 2023
 
-* [Mayo Clinic expert explains parvovirus B19, a common childhood infection Oct. 20, 2023, 04:00 p.m. CDT](https://newsnetwork.mayoclinic.org/?p=372677)
 * [Mayo Clinic Minute: Why you and your family need a flu shot Oct. 11, 2023, 03:00 p.m. CDT](https://newsnetwork.mayoclinic.org/?p=373942)
 
 ### September 2023
@@ -218,7 +224,6 @@ News
 ### August 2023
 
 * [Mayo Clinic Minute: What you should know about enteroviruses and babies Aug. 28, 2023, 03:00 p.m. CDT](https://newsnetwork.mayoclinic.org/?p=372025)
-* [Preventing measles outbreaks in the US through vaccination Aug. 25, 2023, 03:00 p.m. CDT](https://newsnetwork.mayoclinic.org/?p=372997)
 * [FDA grants vaccine approval for moms\-to\-be to prevent RSV in newborns Aug. 24, 2023, 07:00 p.m. CDT](https://newsnetwork.mayoclinic.org/?p=373306)
 * [Mayo Clinic Minute: Childhood vaccines \- moving the needle up Aug. 08, 2023, 04:29 p.m. CDT](https://newsnetwork.mayoclinic.org/?p=370837)
 
@@ -240,7 +245,6 @@ News
 
 ### February 2023
 
-* [Mayo Clinic Minute: Tongue\-tie in babies Feb. 27, 2023, 05:00 p.m. CDT](https://newsnetwork.mayoclinic.org/?p=360224)
 * [Do you know who to talk to about your child's routine vaccinations? Feb. 09, 2023, 03:45 p.m. CDT](https://newsnetwork.mayoclinic.org/?p=359021)
 
 ### January 2023
@@ -277,8 +281,6 @@ News
 ### August 2022
 
 * [Mayo Clinic Minute: What to do and not do when your child has a viral fever Aug. 31, 2022, 01:53 p.m. CDT](https://newsnetwork.mayoclinic.org/?p=347339)
-* [What parents should know about parechovirus in children, babies Aug. 09, 2022, 03:00 p.m. CDT](https://newsnetwork.mayoclinic.org/?p=345491)
-* [Ask the Mayo Mom: Practical approaches to breastfeeding Aug. 05, 2022, 01:00 p.m. CDT](https://newsnetwork.mayoclinic.org/?p=345114)
 
 
 
@@ -287,7 +289,7 @@ News
 
 
 
- 
+ 
 
 
 

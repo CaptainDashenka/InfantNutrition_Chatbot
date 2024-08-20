@@ -126,9 +126,9 @@ Children, particularly those aged from 1 to 5, often put objects in their mouth.
 
 Some small objects, such as marbles, beads and button batteries, are just the right size to get stuck in a child's airway and cause choking.
 
-The best way to avoid this is to make sure that small objects like these are kept out of your child's reach.
+The best way to avoid this is to make sure that small objects like these are kept out of your child's reach.
 
-No matter how careful you are, your child may choke on something. In most cases, you or someone else will see your child swallow the object that causes choking. 
+No matter how careful you are, your child may choke on something. In most cases, you or someone else will see your child swallow the object that causes choking. 
 
 There can be other reasons why your child starts coughing. But if your child suddenly starts coughing, isn't ill and has a habit of putting small objects in their mouth, there's a good chance that they're choking.
 
@@ -143,17 +143,17 @@ Tips on helping a choking child
 * If your child's coughing isn't effective (it's silent or they can't breathe in properly), shout for help immediately and decide whether they're still conscious.
 * If your child's still conscious, but they're either not coughing or their coughing isn't effective, use back blows.
 
-### Back blows for babies under 1 year
+### Back blows for babies under 1 year
 
 * Sit down and lay your baby face down along your thigh or forearm, supporting their back and head with your hand.
 * Give up to 5 sharp back blows with the heel of 1 hand in the middle of the back between the shoulder blades.
 
 ### Back blows for children over 1 year
 
-* Lay a small child face down on your lap as you would a baby.
-* If this isn't possible, support your child in a forward\-leaning position and give 5 back blows from behind.
+* Lay a small child face down on your lap as you would a baby.
+* If this isn't possible, support your child in a forward\-leaning position and give 5 back blows from behind.
 
-If back blows don't relieve the choking and your baby or child is still conscious, give chest thrusts to infants under 1 year or abdominal thrusts to children over 1 year.
+If back blows don't relieve the choking and your baby or child is still conscious, give chest thrusts to infants under 1 year or abdominal thrusts to children over 1 year.
 
 This will create an artificial cough, increasing pressure in the chest and helping to dislodge the object.
 

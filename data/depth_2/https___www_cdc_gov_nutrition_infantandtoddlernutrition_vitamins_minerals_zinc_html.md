@@ -60,7 +60,7 @@ Zinc \| Nutrition \| CDC
 [Skip directly to search](#headerSearch)
 
 
-[Español](/spanish/) \| 
+[EspanIÌ€Æ’ol](/spanish/) \| 
 [Other Languages](https://wwwn.cdc.gov/pubs/other-languages/)
 
 **Error processing SSI file**  
@@ -169,7 +169,7 @@ Zinc
 ====
 
  
-[Español](/nutrition/infantandtoddlernutrition/vitamins-minerals/zinc_es.html) [Print](#print)
+[EspanIÌ€Æ’ol](/nutrition/infantandtoddlernutrition/vitamins-minerals/zinc_es.html) [Print](#print)
 
 
 
@@ -191,7 +191,7 @@ When Does My Child Need Zinc? And How Much?
 -------------------------------------------
 
 
-Zinc is important at all stages of your child’s development. When your child is about 6 months old, you can start giving solid foods with zinc to your child.  
+Zinc is important at all stages of your childaÌ‚â‚¬TMs development. When your child is about 6 months old, you can start giving solid foods with zinc to your child.  
 
 Children 7 to 24 months need 3 mg of zinc each day.
 
@@ -211,10 +211,20 @@ It is important to choose foods that contain zinc. Examples of foods with zinc i
 * Legumes (for example, beans)
 
 
-Foods with zinc are especially important for babies who are fed **only** **breast milk**. Levels of zinc in breast milk are high after birth and go down over the first 6 months. After 6 months, it is important to introduce foods with zinc to meet nutritional needs.
+Foods with zinc are especially important for babies who are fed **only** **breast milk**. Levels of zinc in breast milk are high after birth and go down over the first 6 months. After 6 months, it is important to introduce foods with zinc to meet nutritional needs.
 
 
 
 
 
 
+
+
+**Error processing SSI file**  
+
+
+
+
+
+
+ Last Reviewed:

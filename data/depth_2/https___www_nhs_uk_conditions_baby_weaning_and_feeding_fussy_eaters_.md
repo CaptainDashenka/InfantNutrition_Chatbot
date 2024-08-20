@@ -141,7 +141,7 @@ Keep offering a variety of foods – it may take lots of attempts before your ch
 **Tips for parents of fussy eaters**
 ------------------------------------
 
-* Give your child the same food as the rest of the family, but remember not to add salt to your child's food. Check the [food labels of any food product](/live-well/eat-well/food-guidelines-and-food-labels/how-to-read-food-labels/) you use to make family meals.
+* Give your child the same food as the rest of the family, but remember not to add salt to your child's food. Check the [food labels of any food product](/live-well/eat-well/food-guidelines-and-food-labels/how-to-read-food-labels/) you use to make family meals.
 * The best way for your child to learn to eat and enjoy new foods is to copy you. Try to eat with them as often as you can.
 * Give small portions and praise your child for eating, even if they only eat a little.
 * If your child rejects the food, do not force them to eat it. Just take the food away without saying anything. Try to stay calm, even if it's very frustrating. Try the food again another time.

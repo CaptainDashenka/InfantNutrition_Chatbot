@@ -60,7 +60,7 @@ Picky Eaters and What to Do \| Nutrition \| CDC
 [Skip directly to search](#headerSearch)
 
 
-[Español](/spanish/) \| 
+[EspanIÌ€Æ’ol](/spanish/) \| 
 [Other Languages](https://wwwn.cdc.gov/pubs/other-languages/)
 
 **Error processing SSI file**  
@@ -171,7 +171,7 @@ Picky Eaters and What to Do
 ===========================
 
  
-[Español (Spanish)](/nutrition/infantandtoddlernutrition/foods-and-drinks/los-ninos-quisquillosos-con-las-comidas-y-que-hacer.html) [Print](#print)
+[EspanIÌ€Æ’ol (Spanish)](/nutrition/infantandtoddlernutrition/foods-and-drinks/los-ninos-quisquillosos-con-las-comidas-y-que-hacer.html) [Print](#print)
 
 
 
@@ -194,7 +194,7 @@ Your child might not like every food you give him or her on the first try. Give 
 As your child gets older, he or she may start refusing foods he or she used to like or he or she may start showing signs of picky eating. Favoring just a couple of foods or not wanting foods to touch each other on the plate are normal behaviors. These behaviors often go away by the time your child is about 5 years old.
 
 
-To learn more about picky eaters and what to do, watch [Tips for Feeding Picky Eaters](https://www.youtube.com/watch?v=s1KvNv4Jxqw&feature=youtu.be) from the American Academy of Pediatrics.
+To learn more about picky eaters and what to do, watch [Tips for Feeding Picky Eaters](https://www.youtube.com/watch?v=s1KvNv4Jxqw&feature=youtu.be) from the American Academy of Pediatrics.
 
 
 Tips to Help
@@ -203,7 +203,7 @@ Tips to Help
 
 * **Try again**: Wait a couple of days before offering the food again. It can take more than 10 times before you toddler might like it.
 * **Mix it up**: Mix new foods with foods you know your child likes.
-* **Be silly**: Make funny faces with the foods on your child’s plate. It might help your child get excited to eat it.
+* **Be silly**: Make funny faces with the foods on your childaÌ‚â‚¬TMs plate. It might help your child get excited to eat it.
 * **Me too**: Try eating the food first to show your child you like it. Then, let your child try it.
 * **Choices**: Give your child a choice of different foods to try. Let your child decide which one to try today.
 
@@ -217,3 +217,15 @@ Learn More[Healthy Tips for Picky Eaters\-USDA \[PDF\-585KB]](https://myplate-pr
 
 
 
+
+
+
+
+**Error processing SSI file**  
+
+
+
+
+
+
+ Last Reviewed:

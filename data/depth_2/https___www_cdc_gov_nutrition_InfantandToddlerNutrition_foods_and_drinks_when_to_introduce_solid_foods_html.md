@@ -60,7 +60,7 @@ When, What, and How to Introduce Solid Foods \| Nutrition \| CDC
 [Skip directly to search](#headerSearch)
 
 
-[Español](/spanish/) \| 
+[EspanIÌ€Æ’ol](/spanish/) \| 
 [Other Languages](https://wwwn.cdc.gov/pubs/other-languages/)
 
 **Error processing SSI file**  
@@ -171,7 +171,7 @@ When, What, and How to Introduce Solid Foods
 ============================================
 
  
-[Español (Spanish)](/nutrition/infantandtoddlernutrition/foods-and-drinks/cuando-introducir-alimentos-solidos.html) [Print](#print)
+[EspanIÌ€Æ’ol (Spanish)](/nutrition/infantandtoddlernutrition/foods-and-drinks/cuando-introducir-alimentos-solidos.html) [Print](#print)
 
 
 
@@ -186,7 +186,7 @@ For more information about how to know if your baby is ready to starting eating 
 
 
 
-The Dietary Guidelines for Americans and the American Academy of Pediatrics recommend children be introduced to foods other than breast milk or infant formula when they are about 6 months old.  Introducing foods before 4 months old is not recommended. Every child is different. How do you know if your child is ready for foods other than breast milk or infant formula? You can look for these signs that your child is developmentally ready.
+The Dietary Guidelines for Americans and the American Academy of Pediatrics recommend children be introduced to foods other than breast milk or infant formula when they are about 6 months old.  Introducing foods before 4 months old is not recommended. Every child is different. How do you know if your child is ready for foods other than breast milk or infant formula? You can look for these signs that your child is developmentally ready.
 
 
 Your child:
@@ -208,7 +208,7 @@ What Foods Should I Introduce to My Child First?
 The American Academy of Pediatrics says that for most children, you do not need to give foods in a certain order. Your child can begin eating solid foods at about 6 months old. By the time he or she is 7 or 8 months old, your child can eat a variety of foods from different food groups. These foods include infant cereals, meat or other proteins, fruits, vegetables, grains, yogurts and cheeses, and more.
 
 
-If your child is eating infant cereals, it is important to offer a variety of [fortified](/nutrition/infantandtoddlernutrition/definitions.html#fortified) infant cereals such as oat, barley, and multi\-grain instead of only rice cereal.  Only providing infant rice cereal can increase the risk for children to be exposed to arsenic. Visit the [American Academy of Pediatrics’ Healthy Children website](https://www.healthychildren.org/English/ages-stages/baby/feeding-nutrition/Pages/reduce-arsenic.aspx) to learn more.
+If your child is eating infant cereals, it is important to offer a variety of [fortified](/nutrition/infantandtoddlernutrition/definitions.html#fortified) infant cereals such as oat, barley, and multi\-grain instead of only rice cereal.  Only providing infant rice cereal can increase the risk for children to be exposed to arsenic. Visit the [American Academy of PediatricsaÌ‚â‚¬TM Healthy Children website](https://www.healthychildren.org/English/ages-stages/baby/feeding-nutrition/Pages/reduce-arsenic.aspx) to learn more.
 
 
 How Should I Introduce My Child to Foods?
@@ -231,14 +231,14 @@ Let your child try one single\-ingredient food at a time at first. This helps yo
 Introduce potentially allergenic foods when other foods are introduced.
 
 
-Potentially allergenic foods include cow’s milk products, eggs, fish, shellfish, tree nuts, peanuts, wheat, soy, and sesame. Drinking cow’s milk or fortified soy beverages is not recommended until your child is older than 12 months, but other cow’s milk products, such as yogurt, can be introduced before 12 months. If your child has severe eczema and/or egg allergy, talk with your child’s doctor or nurse about when and how to safely introduce foods with peanuts.
+Potentially allergenic foods include cowaÌ‚â‚¬TMs milk products, eggs, fish, shellfish, tree nuts, peanuts, wheat, soy, and sesame. Drinking cowaÌ‚â‚¬TMs milk or fortified soy beverages is not recommended until your child is older than 12 months, but other cowaÌ‚â‚¬TMs milk products, such as yogurt, can be introduced before 12 months. If your child has severe eczema and/or egg allergy, talk with your childaÌ‚â‚¬TMs doctor or nurse about when and how to safely introduce foods with peanuts.
 
 
 How Should I Prepare Food for My Child to Eat?
 ----------------------------------------------
 
 
-At first, it’s easier for your child to eat foods that are mashed, pureed, or strained and very smooth in texture. It can take time for your child to adjust to new food textures. Your child might cough, gag, or spit up. As your baby’s oral skills develop, thicker and lumpier foods can be introduced.
+At first, itaÌ‚â‚¬TMs easier for your child to eat foods that are mashed, pureed, or strained and very smooth in texture. It can take time for your child to adjust to new food textures. Your child might cough, gag, or spit up. As your babyaÌ‚â‚¬TMs oral skills develop, thicker and lumpier foods can be introduced.
 
 
 Some foods are potential [choking hazards](/nutrition/InfantandToddlerNutrition/foods-and-drinks/choking-hazards.html), so it is important to feed your child foods that are the right texture for his or her development. To help prevent choking, prepare foods that can be easily dissolved with saliva and do not require chewing. Feed small portions and encourage your baby to eat slowly. Always watch your child while he or she is eating.
@@ -264,3 +264,16 @@ Learn more about potential [choking hazards and how to prevent your child from c
 
 [Top of Page](#)
 
+
+
+
+
+
+**Error processing SSI file**  
+
+
+
+
+
+
+ Last Reviewed:

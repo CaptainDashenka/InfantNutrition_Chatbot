@@ -64,6 +64,12 @@
 
 
 
+
+
+
+
+
+
 This content does not have an English version.
 This content does not have an Arabic version.
 
@@ -163,7 +169,7 @@ Request Appointment](/appointments)
 Pacifiers: Are they good for your baby?
 ---------------------------------------
 
-*The decision to use a pacifier � or not � is up to you. Consider the do's and don'ts of giving your baby a pacifier, and how to help him or her break the habit.*[By Mayo Clinic Staff](/about-this-site/meet-our-medical-editors)
+*The decision to use a pacifier aIÌ€â€šaÌ‚â€šÂ¬aÌ‚â‚¬ï¿1⁄2 or not aIÌ€â€šaÌ‚â€šÂ¬aÌ‚â‚¬ï¿1⁄2 is up to you. Consider the do's and don'ts of giving your baby a pacifier, and how to help him or her break the habit.*[By Mayo Clinic Staff](/about-this-site/meet-our-medical-editors)
 
 
 Most babies have a strong sucking reflex. Some babies even suck their thumbs or fingers before they're born. Beyond helping with nutrition, sucking often has a soothing effect. Are pacifiers really OK for your baby, though? Understand the benefits and risks of pacifier use, safety tips, and steps to wean your baby from the pacifier.
@@ -196,7 +202,7 @@ Of course, pacifiers have pitfalls as well. Consider the drawbacks:
 
 
 * **Your baby might become dependent on the pacifier.** If your baby uses a pacifier to sleep, you might face middle\-of\-the\-night crying spells when the pacifier falls out of your baby's mouth.
-* **Pacifier use might increase the risk of middle ear infections.** However, rates of middle ear infections are generally lowest from birth to age 6 months � when the risk of SIDS is the highest and your baby might be most interested in a pacifier.
+* **Pacifier use might increase the risk of middle ear infections.** However, rates of middle ear infections are generally lowest from birth to age 6 months aIÌ€â€šaÌ‚â€šÂ¬aÌ‚â‚¬ï¿1⁄2 when the risk of SIDS is the highest and your baby might be most interested in a pacifier.
 * **Prolonged pacifier use might lead to dental problems.** Normal pacifier use during the first few years of life generally doesn't cause long\-term dental problems. However, prolonged pacifier use might cause a child's teeth to be misaligned.
 * **Pacifier use might disrupt breast\-feeding.** If you're breast\-feeding, you might wait to offer a pacifier until your baby is 3 to 4 weeks old and you've settled into a nursing routine. However, a review of unrestricted pacifier use in healthy, full\-term infants found that it had no impact on the continuation of breast\-feeding.
 
@@ -234,7 +240,7 @@ The risks of pacifier use begin to outweigh the benefits as your baby gets older
 
 
 
-�
+ 
 
 
 

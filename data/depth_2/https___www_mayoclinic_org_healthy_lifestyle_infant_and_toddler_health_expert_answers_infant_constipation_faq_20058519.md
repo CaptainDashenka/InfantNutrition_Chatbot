@@ -189,7 +189,7 @@ Infant constipation often begins when a baby starts eating solid foods. If your 
 If you have made dietary changes and your baby is still struggling and passing hard stools, after a few days, ask a health care provider if an infant glycerin suppository may help. Glycerin suppositories are only meant for occasional use. Don't use mineral oil, stimulant laxatives or enemas to treat infant constipation.
 
 
-Rarely, infant constipation is caused by an underlying condition, such as Hirschsprung's disease, hypothyroidism or cystic fibrosis. If infant constipation persists despite dietary changes or is accompanied by other signs or symptoms � such as vomiting or weakness � contact your baby's health care provider.
+Rarely, infant constipation is caused by an underlying condition, such as Hirschsprung's disease, hypothyroidism or cystic fibrosis. If infant constipation persists despite dietary changes or is accompanied by other signs or symptoms aIÌ€â€šaÌ‚â€šÂ¬aÌ‚â‚¬ï¿1⁄2 such as vomiting or weakness aIÌ€â€šaÌ‚â€šÂ¬aÌ‚â‚¬ï¿1⁄2 contact your baby's health care provider.
 
 
 
@@ -209,7 +209,7 @@ With
 
 
 
-�
+ 
 
 
 

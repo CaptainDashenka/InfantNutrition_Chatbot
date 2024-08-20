@@ -60,7 +60,7 @@ Vitamin D \| Nutrition \| CDC
 [Skip directly to search](#headerSearch)
 
 
-[Español](/spanish/) \| 
+[EspanIÌ€Æ’ol](/spanish/) \| 
 [Other Languages](https://wwwn.cdc.gov/pubs/other-languages/)
 
 **Error processing SSI file**  
@@ -169,7 +169,7 @@ Vitamin D
 =========
 
  
-[Español (Spanish)](/nutrition/infantandtoddlernutrition/vitamins-minerals/vitamina-d.html) [Print](#print)
+[EspanIÌ€Æ’ol (Spanish)](/nutrition/infantandtoddlernutrition/vitamins-minerals/vitamina-d.html) [Print](#print)
 
 
 
@@ -197,10 +197,10 @@ All children need vitamin D beginning shortly after birth.
 * Children 12 to 24 months old need 600 IU of vitamin D each day.
 
 
-Did You Know?**Your child’s age matters when it comes to cow’s milk. For children older than 12 months, plain whole cow’s milk is a great source of vitamin D.**
+Did You Know?**Your childaÌ‚â‚¬TMs age matters when it comes to cowaÌ‚â‚¬TMs milk. For children older than 12 months, plain whole cowaÌ‚â‚¬TMs milk is a great source of vitamin D.**
 
 
-Most cow’s milk sold in stores is fortified with vitamin D. **For babies younger than 12 months**, cow’s milk is not recommended because it may put your baby at risk for intestinal bleeding. It also has too many proteins and minerals for your baby’s kidneys to handle easily and does not have the right amount of nutrients your baby needs.
+Most cowaÌ‚â‚¬TMs milk sold in stores is fortified with vitamin D. **For babies younger than 12 months**, cowaÌ‚â‚¬TMs milk is not recommended because it may put your baby at risk for intestinal bleeding. It also has too many proteins and minerals for your babyaÌ‚â‚¬TMs kidneys to handle easily and does not have the right amount of nutrients your baby needs.
 
 
 
@@ -208,10 +208,10 @@ How Can I Make Sure My Child is Getting Enough Vitamin D?
 ---------------------------------------------------------
 
 
-Did You Know?**Your child’s age matters when it comes to cow’s milk. For children older than 12 months, plain whole cow’s milk is a great source of vitamin D.**
+Did You Know?**Your childaÌ‚â‚¬TMs age matters when it comes to cowaÌ‚â‚¬TMs milk. For children older than 12 months, plain whole cowaÌ‚â‚¬TMs milk is a great source of vitamin D.**
 
 
-Most cow’s milk sold in stores is fortified with vitamin D. **For babies younger than 12 months**, cow’s milk is not recommended because it may put your baby at risk for intestinal bleeding. It also has too many proteins and minerals for your baby’s kidneys to handle easily and does not have the right amount of nutrients your baby needs.
+Most cowaÌ‚â‚¬TMs milk sold in stores is fortified with vitamin D. **For babies younger than 12 months**, cowaÌ‚â‚¬TMs milk is not recommended because it may put your baby at risk for intestinal bleeding. It also has too many proteins and minerals for your babyaÌ‚â‚¬TMs kidneys to handle easily and does not have the right amount of nutrients your baby needs.
 
 
 
@@ -232,15 +232,15 @@ For babies who are receiving **only** **infant formula**:
 For children who have started eating **solid foods**:
 
 
-Make sure your child’s diet has foods with vitamin D. Some examples of foods with vitamin D include:
+Make sure your childaÌ‚â‚¬TMs diet has foods with vitamin D. Some examples of foods with vitamin D include:
 
 
 * Some [fish](http://www.fda.gov/Food/FoodborneIllnessContaminants/Metals/ucm393070.htm) (for example, salmon or light canned tuna).
 * Eggs.
-* Vitamin D\-[fortified](/nutrition/infantandtoddlernutrition/definitions.html#fortified)  products like plain whole cow’s milk (for children 12 months and older), yogurt, cereals, and some 100% juices.
+* Vitamin D\-[fortified](/nutrition/infantandtoddlernutrition/definitions.html#fortified)  products like plain whole cowaÌ‚â‚¬TMs milk (for children 12 months and older), yogurt, cereals, and some 100% juices.
 
 
-Vitamin D supplements are another way to help children get enough vitamin D every day. Talk with your doctor or nurse about vitamin D at your child’s next check\-up if you have questions.
+Vitamin D supplements are another way to help children get enough vitamin D every day. Talk with your doctor or nurse about vitamin D at your childaÌ‚â‚¬TMs next check\-up if you have questions.
 
 
 Learn more about [vitamin D and sunlight](/nutrition/InfantandToddlerNutrition/faqs.html#ui-id-7) for your baby.
@@ -253,3 +253,14 @@ For more information on vitamin D, check out the [American Academy of Pediatrics
 
 
 
+
+
+
+**Error processing SSI file**  
+
+
+
+
+
+
+ Last Reviewed:

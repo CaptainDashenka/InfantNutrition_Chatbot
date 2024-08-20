@@ -136,7 +136,7 @@ Once your baby is eating plenty of solids several times a day, they may even dro
 
 
 
-Beakers and cups for babies
+Beakers and cups for babies
 ---------------------------
 
 
@@ -170,7 +170,7 @@ As soon as your child is ready, encourage them to move from a lidded beaker to d
 
 
 
-Drinks for babies and young children
+Drinks for babies and young children
 ------------------------------------
 
 
@@ -178,7 +178,7 @@ Not all drinks are suitable for babies and young children. Here's what to give t
 
 ### Breast milk
 
-Breast milk is the only food or drink babies need in the first 6 months of their life.
+Breast milk is the only food or drink babies need in the first 6 months of their life.
 
 It should continue to be given alongside an increasingly varied diet once you introduce solid foods from around 6 months.
 
@@ -222,7 +222,7 @@ Formula fed babies under 6 months of age may need small sips of cooled boiled wa
 
 [Find out how to make up baby formula safely using water](/conditions/baby/breastfeeding-and-bottle-feeding/bottle-feeding/making-up-baby-formula/)
 
-### Cows' milk
+### Cows' milk
 
 Cows' milk can be used in cooking or mixed with food from around 6 months but should not be given as a main drink to babies until they're 12 months old. This is because cows' milk does not contain the right balance of nutrients to meet your baby's needs.
 
@@ -234,11 +234,11 @@ Lower\-fat milks can be used in cooking from 1 year old.
 
 ### Unpasteurised milk
 
-Young children should not be given unpasteurised milk because of the higher risk of food poisoning.
+Young children should not be given unpasteurised milk because of the higher risk of food poisoning.
 
 ### Goats' and sheep's milk
 
-Goats' and sheep's milk are not suitable as a main drink for babies under 1 year old as, like cows' milk, they do not contain enough iron and other nutrients babies this age need. As long as they're pasteurised, they can be given as a main drink once your baby is 1 year old.
+Goats' and sheep's milk are not suitable as a main drink for babies under 1 year old as, like cows' milk, they do not contain enough iron and other nutrients babies this age need. As long as they're pasteurised, they can be given as a main drink once your baby is 1 year old.
 
 ### Soya drinks and other milk alternatives
 
@@ -270,9 +270,9 @@ Giving fruit juice and smoothies at mealtimes (rather than between meals) helps 
 
 From 5 years old, you can give your child undiluted fruit juice or smoothies. Stick to no more than 1 glass (about 150 ml) a day, served with meals.
 
-### Squashes, flavoured milk, 'fruit' or 'juice' drinks and fizzy drinks
+### Squashes, flavoured milk, 'fruit' or 'juice' drinks and fizzy drinks
 
-Squashes, flavoured milk, "fruit" or "juice" drinks and fizzy drinks are not suitable for young babies. They contain sugar and can cause tooth decay, even when diluted. 
+Squashes, flavoured milk, "fruit" or "juice" drinks and fizzy drinks are not suitable for young babies. They contain sugar and can cause tooth decay, even when diluted. 
 
 For older babies and young children, these drinks can fill your child up so they're not hungry for healthier food. Instead, offer sips of water from a cup with meals.
 

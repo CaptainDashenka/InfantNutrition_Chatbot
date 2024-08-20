@@ -158,7 +158,7 @@ Request Appointment](/appointments)
 
 * [A Book: Mayo Clinic Family Health Book](https://order.store.mayoclinic.com/flex/mmv/FHBLC01/?altkey=FHBORG&utm_source=MC-DotOrg-PS&utm_medium=Link&utm_campaign=FamilyHealth-Book&utm_content=FHB)
 * [A Book: Mayo Clinic Guide to Your Baby's First Years](https://order.store.mayoclinic.com/books/GNWEB16?utm_source=MC-DotOrg-PS&utm_medium=Link&utm_campaign=Baby-Book&utm_content=BFY)
-* [Newsletter: Mayo Clinic Health Letter � Digital Edition](https://order.store.mayoclinic.com/flex/mmv/HLDIGAR/?altkey=HLEMORG)
+* [Newsletter: Mayo Clinic Health Letter aIÌ€â€šaÌ‚â€šÂ¬aÌ‚â‚¬ï¿1⁄2 Digital Edition](https://order.store.mayoclinic.com/flex/mmv/HLDIGAR/?altkey=HLEMORG)
 
 ### Mayo Clinic Store
 
@@ -173,16 +173,16 @@ Request Appointment](/appointments)
 * [My Water's Fluoride](https://nccd.cdc.gov/doh_mwf/default/default.aspx)
 * [National Highway Traffic Safety Administration: Child safety seat inspection locator](http://www.nhtsa.dot.gov/cps/cpsfitting/index.cfm)
 * [National Institute of Child Health and Human Development](http://www.nichd.nih.gov/)
-* [National Library of Medicine: LactMed � A new NLM database on drugs and lactation](http://www.nlm.nih.gov/news/lactmed_announce_06.html)
+* [National Library of Medicine: LactMed aIÌ€â€šaÌ‚â€šÂ¬aÌ‚â‚¬ï¿1⁄2 A new NLM database on drugs and lactation](http://www.nlm.nih.gov/news/lactmed_announce_06.html)
 * [National Safety Council](http://www.nsc.org/)
 * [NHTSA: Parents Central](http://www.safercar.gov/parents/CarSeats.htm)
 * [Twitter: American Academy of Pediatrics](https://twitter.com/#!/AAPNews)
 * [U.S. Consumer Product Safety Commission](http://www.cpsc.gov/)
 * [Your Online Resource for Recalls](http://www.recalls.gov)
-* [YouTube: Gregory A. Poland, M.D., Mayo Clinic � Do vaccines cause autoimmune diseases?](http://www.youtube.com/watch?v=L2QoNFxjFLc)
-* [YouTube: Gregory A. Poland, M.D., Mayo Clinic � Is natural resistance better than a vaccine?](http://www.youtube.com/watch?v=DhiSccB6p9s)
+* [YouTube: Gregory A. Poland, M.D., Mayo Clinic aIÌ€â€šaÌ‚â€šÂ¬aÌ‚â‚¬ï¿1⁄2 Do vaccines cause autoimmune diseases?](http://www.youtube.com/watch?v=L2QoNFxjFLc)
+* [YouTube: Gregory A. Poland, M.D., Mayo Clinic aIÌ€â€šaÌ‚â€šÂ¬aÌ‚â‚¬ï¿1⁄2 Is natural resistance better than a vaccine?](http://www.youtube.com/watch?v=DhiSccB6p9s)
 * [YouTube: Have Fun in the Sun, But Be Sun Smart](http://www.youtube.com/watch?v=wPCPxklEFAk)
-* [YouTube: WomensHealth.gov � Advice for early breast\-feeding](http://www.youtube.com/watch?v=pf4Hl0t_O7I&feature=plcp)
+* [YouTube: WomensHealth.gov aIÌ€â€šaÌ‚â€šÂ¬aÌ‚â‚¬ï¿1⁄2 Advice for early breast\-feeding](http://www.youtube.com/watch?v=pf4Hl0t_O7I&feature=plcp)
 * [Zero to Three: National Center for Infants, Toddlers and Families](http://www.zerotothree.org/)
 
 
@@ -192,7 +192,7 @@ Request Appointment](/appointments)
 
 
 
-�
+ 
 
 
 

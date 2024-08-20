@@ -3,7 +3,8 @@
 
 
 
- Infant and toddler health Infant health \- Mayo Clinic
+ Stress management Stress basics \- Mayo Clinic
+
 
 
 
@@ -120,28 +121,28 @@ Request Appointment](/appointments)
 
 
 
-[Healthy Lifestyle](/healthy-lifestyle)[Infant and toddler health](/healthy-lifestyle/infant-and-toddler-health/basics/infant-and-toddler-health/hlv-20049400)
-=======================================================================================================================
+[Healthy Lifestyle](/healthy-lifestyle)[Stress management](/healthy-lifestyle/stress-management/basics/stress-basics/hlv-20049495)
+===========================================================================================
 
 
 
-[Print](/healthy-lifestyle/infant-and-toddler-health/basics/infant-health/hlv-20049400?p=1)
+[Print](/healthy-lifestyle/stress-management/basics/stress-basics/hlv-20049495?p=1)
 
 
 
 
 
 [Sections](#)
-1. [Basics](/healthy-lifestyle/infant-and-toddler-health/basics/infant-and-toddler-health/hlv-20049400)
-	1. [Infant and toddler health](/healthy-lifestyle/infant-and-toddler-health/basics/infant-and-toddler-health/hlv-20049400)
-	2. [Newborn health](/healthy-lifestyle/infant-and-toddler-health/basics/newborn-health/hlv-20049400)
-	3. [Infant health](/healthy-lifestyle/infant-and-toddler-health/basics/infant-health/hlv-20049400)
-	4. [Toddler health](/healthy-lifestyle/infant-and-toddler-health/basics/toddler-health/hlv-20049400)
-2. [In\-Depth](/healthy-lifestyle/infant-and-toddler-health/in-depth/hlv-20049400)
-3. [Expert Answers](/healthy-lifestyle/infant-and-toddler-health/expert-answers/hlv-20049400)
-4. [Multimedia](/healthy-lifestyle/infant-and-toddler-health/multimedia/hlv-20049400)
-5. [Resources](/healthy-lifestyle/infant-and-toddler-health/resources/hlv-20049400)
-6. [News From Mayo Clinic](/healthy-lifestyle/infant-and-toddler-health/news/hlv-20049400)
+1. [Basics](/healthy-lifestyle/stress-management/basics/stress-basics/hlv-20049495)
+	1. [Stress basics](/healthy-lifestyle/stress-management/basics/stress-basics/hlv-20049495)
+	2. [Stress relief](/healthy-lifestyle/stress-management/basics/stress-relief/hlv-20049495)
+	3. [Relaxation techniques](/healthy-lifestyle/stress-management/basics/relaxation-techniques/hlv-20049495)
+2. [In\-Depth](/healthy-lifestyle/stress-management/in-depth/hlv-20049495)
+3. [Expert Answers](/healthy-lifestyle/stress-management/expert-answers/hlv-20049495)
+4. [Multimedia](/healthy-lifestyle/stress-management/multimedia/hlv-20049495)
+5. [Resources](/healthy-lifestyle/stress-management/resources/hlv-20049495)
+6. [News From Mayo Clinic](/healthy-lifestyle/stress-management/news/hlv-20049495)
+7. [What's New](/healthy-lifestyle/stress-management/whats-new/hlv-20049495)
 
 
 
@@ -151,10 +152,9 @@ Request Appointment](/appointments)
 
 
 
-1. [Infant and toddler health](/healthy-lifestyle/infant-and-toddler-health/basics/infant-and-toddler-health/hlv-20049400)
-2. [Newborn health](/healthy-lifestyle/infant-and-toddler-health/basics/newborn-health/hlv-20049400)
-3. [Infant health](/healthy-lifestyle/infant-and-toddler-health/basics/infant-health/hlv-20049400)
-4. [Toddler health](/healthy-lifestyle/infant-and-toddler-health/basics/toddler-health/hlv-20049400)
+1. [Stress basics](/healthy-lifestyle/stress-management/basics/stress-basics/hlv-20049495)
+2. [Stress relief](/healthy-lifestyle/stress-management/basics/stress-relief/hlv-20049495)
+3. [Relaxation techniques](/healthy-lifestyle/stress-management/basics/relaxation-techniques/hlv-20049495)
 
 
 
@@ -169,30 +169,30 @@ Request Appointment](/appointments)
 
 
 
-Infant health
+Stress basics
 -------------
 
 [By Mayo Clinic Staff](/about-this-site/meet-our-medical-editors)
 
 
-Babies seem to learn something new every day. And in fact, everything in babies' lives helps them learn more about their world. That includes cuddling before nap time and watching and listening to people around them.
+Stress is a normal psychological and physical reaction to the demands of life. A small amount of stress can be good, motivating you to perform well. But many challenges daily, such as sitting in traffic, meeting deadlines and paying bills, can push you beyond your ability to cope.
 
 
-As babies grow and change, parents often have new questions about infant health. How do I get a baby to sleep through the night? When do I give a baby solid food? When will a baby sit up? What are signs that a baby might be sick?
+Your brain comes hard\-wired with an alarm system for your protection. When your brain perceives a threat, it signals your body to release a burst of hormones that increase your heart rate and raise your blood pressure. This "fight\-or\-flight" response fuels you to deal with the threat.
 
 
-There are many ways to learn about infant health. Talk to your baby's health care professional. Use other sources, such as a phone number staffed by health professionals. Trust your gut, too. And know that timing is key to an infant's health. The earlier problems are found, the sooner treatment can begin.
+Once the threat is gone, your body is meant to return to a normal, relaxed state. Unfortunately, the nonstop complications of modern life and its demands and expectations mean that some people's alarm systems rarely shut off.
 
 
+Stress management gives you a range of tools to reset and to recalibrate your alarm system. It can help your mind and body adapt (resilience). Without it, your body might always be on high alert. Over time, chronic stress can lead to serious health problems.
 
 
-
-
-
-
- 
+Don't wait until stress damages your health, relationships or quality of life. Start practicing stress management techniques today.
 
 
 
 
-There is a problem with information submitted for this request
+
+
+
+

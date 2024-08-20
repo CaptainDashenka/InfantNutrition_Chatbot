@@ -168,7 +168,7 @@ Potty training: How to get the job done
 *Potty training is a major milestone. Get the facts on timing, technique and handling accidents.*[By Mayo Clinic Staff](/about-this-site/meet-our-medical-editors)
 
 
-Potty training is a big step for kids � and their parents. The secret to success? Timing and patience.
+Potty training is a big step for kids aIÌ€â€šaÌ‚â€šÂ¬aÌ‚â‚¬ï¿1⁄2 and their parents. The secret to success? Timing and patience.
 
 
 
@@ -191,7 +191,7 @@ Is your child ready? Ask yourself:
 * Does your child seem interested in using the toilet or wearing "big\-kid" underwear?
 
 
-If you answered mostly yes, your child might be ready. If you answered mostly no, you might want to wait � especially if your child is about to face a major change, such as a move or the arrival of a new sibling.
+If you answered mostly yes, your child might be ready. If you answered mostly no, you might want to wait aIÌ€â€šaÌ‚â€šÂ¬aÌ‚â‚¬ï¿1⁄2 especially if your child is about to face a major change, such as a move or the arrival of a new sibling.
 
 
 Your readiness is important, too. Let your child's motivation, instead of your eagerness, lead the process. Try not to equate potty training success or difficulty with your child's intelligence or stubbornness. Also, keep in mind that accidents are inevitable and punishment has no role in the process. Plan toilet training for when you or a caregiver can devote the time and energy to be consistent on a daily basis for a few months.
@@ -208,8 +208,8 @@ When it's time to begin potty training:
 
 * **Choose your words.** Decide which words you're going to use for your child's bodily fluids. Avoid negative words, such as dirty or stinky.
 * **Prepare the equipment.** Place a potty chair in the bathroom or, initially, wherever your child is spending most of his or her time. Encourage your child to sit on the potty chair in clothes to start out. Make sure your child's feet rest on the floor or a stool. Use simple, positive terms to talk about the toilet. You might dump the contents of a dirty diaper into the potty chair and toilet to show their purpose. Have your child flush the toilet.
-* **Schedule potty breaks.** Have your child sit on the potty chair or toilet without a diaper for a few minutes at two\-hour intervals, as well as first thing in the morning and right after naps. For boys, it's often best to master urination sitting down, and then move to standing up after bowel training is complete. Stay with your child and read a book together or play with a toy while he or she sits. Allow your child to get up if he or she wants. Even if your child simply sits there, offer praise for trying � and remind your child that he or she can try again later. Bring the potty chair with you when you're away from home with your child.
-* **Get there � Fast!** When you notice signs that your child might need to use the toilet � such as squirming, squatting or holding the genital area � respond quickly. Help your child become familiar with these signals, stop what he or she is doing, and head to the toilet. Praise your child for telling you when he or she has to go. Keep your child in loose, easy\-to\-remove clothing.
+* **Schedule potty breaks.** Have your child sit on the potty chair or toilet without a diaper for a few minutes at two\-hour intervals, as well as first thing in the morning and right after naps. For boys, it's often best to master urination sitting down, and then move to standing up after bowel training is complete. Stay with your child and read a book together or play with a toy while he or she sits. Allow your child to get up if he or she wants. Even if your child simply sits there, offer praise for trying aIÌ€â€šaÌ‚â€šÂ¬aÌ‚â‚¬ï¿1⁄2 and remind your child that he or she can try again later. Bring the potty chair with you when you're away from home with your child.
+* **Get there aIÌ€â€šaÌ‚â€šÂ¬aÌ‚â‚¬ï¿1⁄2 Fast!** When you notice signs that your child might need to use the toilet aIÌ€â€šaÌ‚â€šÂ¬aÌ‚â‚¬ï¿1⁄2 such as squirming, squatting or holding the genital area aIÌ€â€šaÌ‚â€šÂ¬aÌ‚â‚¬ï¿1⁄2 respond quickly. Help your child become familiar with these signals, stop what he or she is doing, and head to the toilet. Praise your child for telling you when he or she has to go. Keep your child in loose, easy\-to\-remove clothing.
 * **Explain hygiene.** Teach girls to spread their legs and wipe carefully from front to back to prevent bringing germs from the rectum to the vagina or bladder. Make sure your child washes his or her hands afterward.
 * **Ditch the diapers.** After a couple of weeks of successful potty breaks and remaining dry during the day, your child might be ready to trade diapers for training pants or underwear. Celebrate the transition. Let your child return to diapers if he or she is unable to remain dry. Consider using a sticker or star chart for positive reinforcement.
 
@@ -255,7 +255,7 @@ If your child seems ready for potty training but is having difficulties, talk to
 
 
 
-�
+ 
 
 
 

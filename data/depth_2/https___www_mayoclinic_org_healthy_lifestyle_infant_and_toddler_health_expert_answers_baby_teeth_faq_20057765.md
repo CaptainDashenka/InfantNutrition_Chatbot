@@ -159,31 +159,36 @@ Request Appointment](/appointments)
 
 
 
-My child's baby teeth seem discolored. Should I be worried?
------------------------------------------------------------
+My child's baby teeth seem discolored. What could cause the color change and should I worry?
+--------------------------------------------------------------------------------------------
 
 
- Answer From Cindy Zhou, D.M.D., M.S.
+ Answer From Elise W. Sarvas, D.D.S.
 
 
-Baby teeth, also called primary teeth, are typically whiter than adult permanent teeth because they are more calcified. Baby teeth can become discolored for many reasons, including:
+Your baby's healthcare professional can help determine the cause of discolored teeth and what it means for your baby's health.
 
 
-* **Inadequate brushing.** If baby teeth aren't brushed properly, bacteria (plaque) might form on the teeth — which can lead to tooth discoloration.
-* **Medication use.** Infant medications containing iron, such as supplemental vitamins, might cause stains on baby teeth. Taking the antibiotic tetracycline during pregnancy or breast\-feeding can cause a child to have discolored baby teeth, too.
-* **Tooth injury.** A single dark tooth could be the result of bleeding within the tooth due to dental trauma.
-* **Weak enamel.** A genetic problem with enamel formation might lead to discolored baby teeth.
-* **Excessive fluoride.** Regularly mixing powdered or liquid concentrate infant formula with fluoridated water might increase your child's risk of developing faint white lines or streaks on the teeth (fluorosis) if these kinds of formula are your child's main source of food.
-* **Illness.** Some children might develop baby teeth with a green or yellow hue if they are born with a condition in which there is too much bilirubin in the blood (hyperbilirubinemia).
+Baby teeth, also called primary teeth, can become discolored for many reasons. They include:
 
 
-If the discoloration is caused by poor dental hygiene, more thorough brushing might help. Until your child learns to spit — at about age 3 — use a smear of fluoride toothpaste no bigger than the size of a grain of rice.
+* **Not brushing well enough.** If baby teeth aren't brushed well, bacteria and food debris called plaque might form on the teeth. This can cause them to be discolored.
+* **Medicine use.** Infant medicines that have iron might cause stains on baby teeth. Taking the antibiotic tetracycline during pregnancy can discolor a baby's teeth too.
+* **Tooth injury.** A dark tooth could be the result of bleeding or nerve death within the tooth due to a dental injury.
+* **Enamel that doesn't form as it should.** Gene changes that affect the outer layer of the teeth, called enamel, might lead to discolored baby teeth.
+* **Illness.** Some babies are born with a condition in which their blood has too much of a yellow pigment called bilirubin. This condition is known as hyperbilirubinemia. Bilirubin is made during the breakdown of red blood cells. It can give the teeth a green or yellow hue.
 
 
-To keep your child's mouth healthy, avoid filling your child's bottle with liquids such as sugar water, juice or soft drinks and don't put him or her to bed with a bottle. Also, don't share eating utensils with your child. This can spread cavity\-causing bacteria. If your child uses a pacifier, never dip it in honey or sugar.
+If not brushing well enough causes teeth to be discolored, brushing all surfaces two times a day with a fluoride toothpaste might help. But getting too much fluoride may increase the risk of faint white lines or streaks on the teeth, a condition called fluorosis.
 
 
-Discuss your concerns about your child's baby teeth with his or her doctor. He or she might refer you to a pediatric dentist. After addressing any underlying issues, the dentist might recommend bleaching the discolored teeth later on or simply watching the teeth for signs of other problems.
+To prevent fluorosis, use a smear of fluoride toothpaste no bigger than the size of a grain of rice until your child learns to spit. Most children learn to spit at about age 3\. Then they can use a pea\-sized amount of toothpaste and spit out what's left after they brush.
+
+
+To keep your child's mouth healthy, don't fill your child's bottle with liquids such as sugar water, juice or soft drinks. Don't put your child to bed with a bottle. Sucking a bottle in bed can coat the teeth while children sleep. This can cause bacteria to grow and lead to cavities. If your child uses a pacifier, don't dip it in honey or sugar.
+
+
+Talk with your child's healthcare professional about your child's baby teeth. Experts suggest that a child start seeing a dentist after the first tooth comes in or by age 1\. A dentist can find the cause of any discoloration and suggest treatments if needed. The dentist also watches for signs of other issues.
 
 
 
@@ -192,7 +197,7 @@ With
 
 
 
- Cindy Zhou, D.M.D., M.S.
+ Elise W. Sarvas, D.D.S.
 
 
 
@@ -203,7 +208,7 @@ With
 
 
 
- 
+ 
 
 
 

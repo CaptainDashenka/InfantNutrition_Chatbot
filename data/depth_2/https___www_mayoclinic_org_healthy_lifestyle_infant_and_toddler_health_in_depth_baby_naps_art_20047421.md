@@ -62,6 +62,12 @@
 
 
 
+
+
+
+
+
+
 This content does not have an English version.
 This content does not have an Arabic version.
 
@@ -164,7 +170,7 @@ Baby naps: Daytime sleep tips
 [By Mayo Clinic Staff](/about-this-site/meet-our-medical-editors)
 
 
-Baby naps can be a restful time for you and your little one � but the process of getting your baby to sleep during the day can be just the opposite. Consider these tips for helping your baby get the daytime rest he or she needs.
+Baby naps can be a restful time for you and your little one aIÌ€â€šaÌ‚â€šÂ¬aÌ‚â‚¬ï¿1⁄2 but the process of getting your baby to sleep during the day can be just the opposite. Consider these tips for helping your baby get the daytime rest he or she needs.
 
 
 
@@ -179,7 +185,7 @@ It takes a while for newborns to develop a sleep schedule because they need to d
 As babies get older, nap times typically become more predictable. For example:
 
 
-* **Ages 4 months to 1 year.** After the newborn period, your baby will likely nap at least twice a day � once in the morning and once in the early afternoon. Some babies also need a late\-afternoon nap. You might aim to have your baby nap at 9 a.m. and 1 p.m. Let your baby nap for as long as he or she wants, unless your baby has difficulty falling asleep at night. If your baby is taking a third nap in the late afternoon, try to eliminate that nap around age 9 months. This will help your baby be ready for an earlier bedtime.
+* **Ages 4 months to 1 year.** After the newborn period, your baby will likely nap at least twice a day aIÌ€â€šaÌ‚â€šÂ¬aÌ‚â‚¬ï¿1⁄2 once in the morning and once in the early afternoon. Some babies also need a late\-afternoon nap. You might aim to have your baby nap at 9 a.m. and 1 p.m. Let your baby nap for as long as he or she wants, unless your baby has difficulty falling asleep at night. If your baby is taking a third nap in the late afternoon, try to eliminate that nap around age 9 months. This will help your baby be ready for an earlier bedtime.
 * **Age 1 year and older.** When your baby is around 10 months to age 1, he or she will likely drop the morning nap. During this transition, consider moving up your baby's nap time and bedtime by a half\-hour to help him or her adjust. Most children continue taking an afternoon nap of one to two hours in length until about age 3\. After this age, nap length tends to shorten.
 
 
@@ -216,7 +222,7 @@ During your baby's first month, avoid letting him or her cry. Soothe your baby b
 At age 4 months, if your baby cries after being placed in the crib, check on him or her and offer comforting words. Then leave the room and give him or her time to settle again. You might also consider putting your baby down for a nap a little earlier. This might allow your baby to get past some fussiness by the time his or her nap is supposed to start.
 
 
-Also, keep in mind that babies are often active during sleep � twitching their hands and feet, smiling, startling, and generally appearing restless. It's easy to mistake a baby's stirrings as a sign that he or she is waking up or needs to eat. Instead of picking up your baby right away, wait a few minutes to see if your baby falls back to sleep.
+Also, keep in mind that babies are often active during sleep aIÌ€â€šaÌ‚â€šÂ¬aÌ‚â‚¬ï¿1⁄2 twitching their hands and feet, smiling, startling, and generally appearing restless. It's easy to mistake a baby's stirrings as a sign that he or she is waking up or needs to eat. Instead of picking up your baby right away, wait a few minutes to see if your baby falls back to sleep.
 
 
 Helping your baby get the right amount of daytime sleep isn't always easy. Don't feel bad if some days are more challenging than others. Remember to look and listen for the signs that your baby is tired and try to keep his or her nap routine consistent.
@@ -232,7 +238,7 @@ If you have questions or concerns about your baby's napping schedule, talk to hi
 
 
 
-�
+ 
 
 
 

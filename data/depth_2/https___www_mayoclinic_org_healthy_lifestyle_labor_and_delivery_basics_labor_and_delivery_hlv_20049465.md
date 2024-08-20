@@ -3,7 +3,9 @@
 
 
 
- Video: Baby's soft spots (fontanels) \- Mayo Clinic
+ Labor and delivery, postpartum care Labor and delivery \- Mayo Clinic
+
+
 
 
 
@@ -120,30 +122,38 @@ Request Appointment](/appointments)
 
 
 
-[Healthy Lifestyle](/healthy-lifestyle)[Infant and toddler health](/healthy-lifestyle/infant-and-toddler-health/basics/infant-and-toddler-health/hlv-20049400)
-=======================================================================================================================
+[Healthy Lifestyle](/healthy-lifestyle)[Labor and delivery, postpartum care](/healthy-lifestyle/labor-and-delivery/basics/labor-and-delivery/hlv-20049465)
+===================================================================================================================
 
 
 
+[Print](/healthy-lifestyle/labor-and-delivery/basics/labor-and-delivery/hlv-20049465?p=1)
 
 
 
 
 
 [Sections](#)
-1. [Basics](/healthy-lifestyle/infant-and-toddler-health/basics/infant-and-toddler-health/hlv-20049400)
-	1. [Infant and toddler health](/healthy-lifestyle/infant-and-toddler-health/basics/infant-and-toddler-health/hlv-20049400)
-	2. [Newborn health](/healthy-lifestyle/infant-and-toddler-health/basics/newborn-health/hlv-20049400)
-	3. [Infant health](/healthy-lifestyle/infant-and-toddler-health/basics/infant-health/hlv-20049400)
-	4. [Toddler health](/healthy-lifestyle/infant-and-toddler-health/basics/toddler-health/hlv-20049400)
-2. [In\-Depth](/healthy-lifestyle/infant-and-toddler-health/in-depth/hlv-20049400)
-3. [Expert Answers](/healthy-lifestyle/infant-and-toddler-health/expert-answers/hlv-20049400)
-4. [Multimedia](/healthy-lifestyle/infant-and-toddler-health/multimedia/hlv-20049400)
-5. [Resources](/healthy-lifestyle/infant-and-toddler-health/resources/hlv-20049400)
-6. [News From Mayo Clinic](/healthy-lifestyle/infant-and-toddler-health/news/hlv-20049400)
+1. [Basics](/healthy-lifestyle/labor-and-delivery/basics/labor-and-delivery/hlv-20049465)
+	1. [Labor and delivery](/healthy-lifestyle/labor-and-delivery/basics/labor-and-delivery/hlv-20049465)
+	2. [Postpartum care](/healthy-lifestyle/labor-and-delivery/basics/postpartum-care/hlv-20049465)
+2. [In\-Depth](/healthy-lifestyle/labor-and-delivery/in-depth/hlv-20049465)
+3. [Expert Answers](/healthy-lifestyle/labor-and-delivery/expert-answers/hlv-20049465)
+4. [Multimedia](/healthy-lifestyle/labor-and-delivery/multimedia/hlv-20049465)
+5. [Resources](/healthy-lifestyle/labor-and-delivery/resources/hlv-20049465)
+6. [News From Mayo Clinic](/healthy-lifestyle/labor-and-delivery/news/hlv-20049465)
+7. [What's New](/healthy-lifestyle/labor-and-delivery/whats-new/hlv-20049465)
 
 
 
+
+
+
+
+
+
+1. [Labor and delivery](/healthy-lifestyle/labor-and-delivery/basics/labor-and-delivery/hlv-20049465)
+2. [Postpartum care](/healthy-lifestyle/labor-and-delivery/basics/postpartum-care/hlv-20049465)
 
 
 
@@ -158,6 +168,25 @@ Request Appointment](/appointments)
 
 
 
+Labor and delivery
+------------------
+
+By Mayo Clinic Staff
+
+
+Everyone's labor and delivery are unique. Still, knowing what's typical can help you know what to expect as your due date nears.
+
+
+Labor and delivery usually follow a pattern. The cervix softens and opens. The fluid\-filled sac around the baby, called the amniotic sac, breaks open. Contractions get stronger and closer together.
+
+
+But sometimes, labor and delivery go another way. For example, how the baby lies in the uterus, called fetal presentation, can affect labor and delivery. You might change your mind about pain medicines. Or you might find that you need a C\-section.
+
+
+No matter what happens during labor and delivery, your health and your baby's health are most important. Discuss what you want during labor and delivery with your healthcare professional.
+
+
+Talk about pain medicine. Tell your healthcare team how you feel about procedures that may be used during delivery. These include having a surgical cut made in the opening of the vagina, called an episiotomy. Then get ready to welcome your baby into the world.
 
 
 
@@ -165,21 +194,7 @@ Request Appointment](/appointments)
 
 
 
-An infant is born with two major soft spots on the top of the head called fontanels. These soft spots are spaces between the bones of the skull where bone formation isn't complete. This allows the skull to be molded during birth. The smaller spot at the back usually closes by age 2 to 3 months. The larger spot toward the front often closes around age 18 months. It's normally slightly depressed and pulsates. Soft spots are covered by a thick fibrous layer and are safe to gently touch.
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-  
+  
  
-

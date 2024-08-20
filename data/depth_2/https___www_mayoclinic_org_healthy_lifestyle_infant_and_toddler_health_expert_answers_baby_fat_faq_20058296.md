@@ -179,7 +179,7 @@ During infancy, the doctor will plot your baby's growth on charts that show weig
 Remember, babies need a diet high in fat to support growth during infancy. A baby who's exclusively breast\-fed gets about half of his or her daily calories from the fat in breast milk. As a result, caloric restrictions aimed at reducing weight are not recommended for babies 2 years and under.
 
 
-Excess fat and calories can still be a concern, though. For example, being too heavy can delay crawling and walking � essential parts of a baby's physical and mental development. While a large baby may not become an overweight child, a child who is obese often remains obese as an adult.
+Excess fat and calories can still be a concern, though. For example, being too heavy can delay crawling and walking aIÌ€â€šaÌ‚â€šÂ¬aÌ‚â‚¬ï¿1⁄2 essential parts of a baby's physical and mental development. While a large baby may not become an overweight child, a child who is obese often remains obese as an adult.
 
 
 To keep your baby at a healthy weight:
@@ -212,7 +212,7 @@ With
 
 
 
-�
+ 
 
 
 

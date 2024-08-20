@@ -60,7 +60,7 @@ Vitamins \& Minerals \| Nutrition \| CDC
 [Skip directly to search](#headerSearch)
 
 
-[Español](/spanish/) \| 
+[EspanIÌ€Æ’ol](/spanish/) \| 
 [Other Languages](https://wwwn.cdc.gov/pubs/other-languages/)
 
 **Error processing SSI file**  
@@ -169,7 +169,7 @@ Vitamins \& Minerals
 ====================
 
  
-[Español (Spanish)](/nutrition/infantandtoddlernutrition/vitamins-minerals/index-es.html) [Print](#print)
+[EspanIÌ€Æ’ol (Spanish)](/nutrition/infantandtoddlernutrition/vitamins-minerals/index-es.html) [Print](#print)
 
 
 
@@ -191,3 +191,15 @@ Your child needs a variety of vitamins and minerals to grow healthy and strong. 
 
 ![A young girl and her toddler brother in superhero outfits.](/nutrition/infantandtoddlernutrition/images/vitamins-minerals-heros.jpg?_=95700)
 
+
+
+
+
+**Error processing SSI file**  
+
+
+
+
+
+
+ Last Reviewed:

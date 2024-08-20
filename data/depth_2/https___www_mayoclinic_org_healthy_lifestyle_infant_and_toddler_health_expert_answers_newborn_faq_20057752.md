@@ -170,13 +170,13 @@ Should I wake my newborn for feedings?
 Whether you should wake a sleeping newborn for feedings depends on the baby's age, weight and overall health.
 
 
-Most newborns lose weight in the first few days after birth. Until your newborn regains this lost weight � usually within one to two weeks after birth � it's important to feed him or her frequently. This might mean occasionally waking your baby for a feeding, especially if he or she sleeps for a stretch of more than four hours.
+Most newborns lose weight in the first few days after birth. Until your newborn regains this lost weight aIÌ€â€šaÌ‚â€šÂ¬aÌ‚â‚¬ï¿1⁄2 usually within one to two weeks after birth aIÌ€â€šaÌ‚â€šÂ¬aÌ‚â‚¬ï¿1⁄2 it's important to feed him or her frequently. This might mean occasionally waking your baby for a feeding, especially if he or she sleeps for a stretch of more than four hours.
 
 
 Once your newborn establishes a pattern of weight gain and reaches the birth\-weight milestone, however, it's generally OK to wait for feedings until he or she wakes up.
 
 
-Most newborns need eight to 12 feedings a day � about one feeding every two to three hours. While waking up a sleeping baby might seem like a bad idea, frequent feedings early on are important for a couple of reasons:
+Most newborns need eight to 12 feedings a day aIÌ€â€šaÌ‚â€šÂ¬aÌ‚â‚¬ï¿1⁄2 about one feeding every two to three hours. While waking up a sleeping baby might seem like a bad idea, frequent feedings early on are important for a couple of reasons:
 
 
 * **Crying is a late sign of hunger.** The sooner you begin each feeding, the less likely you'll need to soothe a frantic baby. Look for early signs of hunger, such as hand\-to\-mouth activity, smacking lips, rooting and stirring while asleep.
@@ -203,7 +203,7 @@ With
 
 
 
-�
+ 
 
 
 

@@ -115,7 +115,7 @@ Menu
 
 
 
-[Log in \| Register](/saml/login?destination=/life-stages/pregnancy-and-breastfeeding%3Ffbclid%3DIwZXh0bgNhZW0BMAABHTTV-Tl38pfOozbS5xh0d6LtWEdFVE3u_j7cwncBuA4KfalhvEVPBCqbVg_aem_g2YmRpx1kcgzdtPs9ldcDw%26utm_medium%3Dpaid%26utm_source%3Dfb%26utm_id%3D120213878784410309%26utm_content%3D120213878978120309%26utm_term%3D120213878784430309%26utm_campaign%3D120213878784410309) 
+[Log in \| Register](/saml/login?destination=/life-stages/pregnancy-and-breastfeeding) 
 
 
 
@@ -163,7 +163,7 @@ Menu
 	+ [Print Materials](/resources/print-materials)
 	+ [Graphics](/resources/graphics)
 	+ [Videos](/resources/videos)
-	+ [En Español](/resources/en-espanol)
+	+ [En Español](/resources/en-espanol)
 	+ [Multiple Languages](/myplate-multiple-languages)
 	+ [Partner Resources](/partner-resources)
 * Professionals
@@ -206,7 +206,7 @@ Search
 
 
 
-[Log in \| Register](/saml/login?destination=/life-stages/pregnancy-and-breastfeeding%3Ffbclid%3DIwZXh0bgNhZW0BMAABHTTV-Tl38pfOozbS5xh0d6LtWEdFVE3u_j7cwncBuA4KfalhvEVPBCqbVg_aem_g2YmRpx1kcgzdtPs9ldcDw%26utm_medium%3Dpaid%26utm_source%3Dfb%26utm_id%3D120213878784410309%26utm_content%3D120213878978120309%26utm_term%3D120213878784430309%26utm_campaign%3D120213878784410309) 
+[Log in \| Register](/saml/login?destination=/life-stages/pregnancy-and-breastfeeding) 
 
 
 
@@ -408,7 +408,7 @@ Image
 
 **Should I eat seafood during pregnancy?**  
 
-Eating seafood during pregnancy may help your baby's growth. Seafood is a healthy protein source for you during pregnancy and while breastfeeding/ lactating. Choose options lower in methylmercury, like cod, salmon, tilapia, or herring. 
+Eating seafood during pregnancy may help your baby's growth. Seafood is a healthy protein source for you during pregnancy and while breastfeeding/ lactating. Choose options lower in methylmercury, like cod, salmon, tilapia, or herring. 
 
 
 Learn more at FDA’s [Advice About Eating Fish](https://www.fda.gov/food/consumers/advice-about-eating-fish "Advice about Eating Fish") webpage.
@@ -438,7 +438,7 @@ Image
 ### Get Your Plan
 
 
-You may have different calorie needs during pregnancy and while breastfeeding/ lactating. Get your [MyPlate Plan](/myplate-plan "MyPlate Plan") to learn how many calories you may need. Work closely with your healthcare provider to learn the right eating plan for you.
+You may have different calorie needs during pregnancy and while breastfeeding/ lactating. Get your [MyPlate Plan](/myplate-plan "MyPlate Plan") to learn how many calories you may need. Work closely with your healthcare provider to learn the right eating plan for you.
 
 
 
@@ -457,7 +457,7 @@ You may have different calorie needs during pregnancy and while breastfeeding/ l
 ### Ask About Supplements
 
 
-In addition to eating a healthy diet, your doctor may want you to take a prenatal supplement. This is to make sure you get enough of the vitamins and minerals that you need for a healthy pregnancy.  
+In addition to eating a healthy diet, your doctor may want you to take a prenatal supplement. This is to make sure you get enough of the vitamins and minerals that you need for a healthy pregnancy.  
 
 
 After pregnancy, your need for some vitamins and minerals may decrease. Your doctor may advise you to switch to a multivitamin supplement while breastfeeding/ lactating. Talk to your healthcare provider about what is right for you.
@@ -496,7 +496,7 @@ Image
 		- Raw sprouts
 		- Some soft cheeses made from unpasteurized milk
 	+ Reheat deli and luncheon meats and hot dogs to steaming hot or 165 °F.
-	+ More information is available at CDC's [Maternal, Infant, and Early Childhood Nutrition](https://www.cdc.gov/grand-rounds/pp/2019/20190618-early-childhood-nutrition.html "Maternal, Infant and Early Childhood Nutrition — The Thousand Day Window of Opportunity") webpage.
+	+ More information is available at CDC's [Maternal, Infant, and Early Childhood Nutrition](https://www.cdc.gov/grand-rounds/pp/2019/20190618-early-childhood-nutrition.html "Maternal, Infant and Early Childhood Nutrition — The Thousand Day Window of Opportunity") webpage.
 * **Food Allergies in Your Child**  
 
  Unless advised by your doctor, you do not have to restrict your food and drink choices during pregnancy or while breastfeeding/ lactating to keep your child from getting food allergies.
@@ -538,10 +538,10 @@ Image
 
 
 
-**Healthy Eating for Women Who Are Pregnant or Breastfeeding/ Lactating Tip Sheet**
+**Healthy Eating for Women Who Are Pregnant or Breastfeeding/ Lactating Tip Sheet**
 
 
-**[English](/sites/default/files/2024-05/TipSheet-13-Healthy-Eating-For-Women-Who-Are-Pregnant-Or-Breastfeeding.pdf "Healthy Eating for Women Who Are Pregnant or Breastfeeding/ Lactating Tip Sheet")    [Spanish](/sites/default/files/2024-05/Spanish-TipSheet-13-Healthy-Eating-For-Women-Who-Are-Pregnant-Or-Breastfeeding.pdf "Alimentación Saludable para Mujeres Embarazadas o Lactantes")**
+**[English](/sites/default/files/2024-05/TipSheet-13-Healthy-Eating-For-Women-Who-Are-Pregnant-Or-Breastfeeding.pdf "Healthy Eating for Women Who Are Pregnant or Breastfeeding/ Lactating Tip Sheet")    [Spanish](/sites/default/files/2024-05/Spanish-TipSheet-13-Healthy-Eating-For-Women-Who-Are-Pregnant-Or-Breastfeeding.pdf "Alimentación Saludable para Mujeres Embarazadas o Lactantes")**
 
 
 
@@ -562,7 +562,7 @@ Image
 **Tips for Breastfeeding Moms**
 
 
-**[English](https://wicworks.fns.usda.gov/resources/tips-breastfeeding-moms "Tips for Breastfeeding Moms")   [Spanish](https://wicworks.fns.usda.gov/resources/tips-breastfeeding-moms "Consejos para las madres que amamantan")**
+**[English](https://wicworks.fns.usda.gov/resources/tips-breastfeeding-moms "Tips for Breastfeeding Moms")   [Spanish](https://wicworks.fns.usda.gov/resources/tips-breastfeeding-moms "Consejos para las madres que amamantan")**
 
 
 
@@ -604,7 +604,7 @@ Image
 **Breastfeeding Basics**
 
 
-**[English](https://wicbreastfeeding.fns.usda.gov/breastfeeding-basics "Breastfeeding Basics")   [Spanish](https://wicbreastfeeding.fns.usda.gov/conceptos-basicos-de-la-lactancia-materna "Conceptos basicos de la lactancia materna")**
+**[English](https://wicbreastfeeding.fns.usda.gov/breastfeeding-basics "Breastfeeding Basics")   [Spanish](https://wicbreastfeeding.fns.usda.gov/conceptos-basicos-de-la-lactancia-materna "Conceptos basicos de la lactancia materna")**
 
 
 
@@ -625,7 +625,7 @@ Image
 **Breastfeeding Basics for Dads**
 
 
-**[English](https://wicbreastfeeding.fns.usda.gov/sites/default/files/2018-08/Breastfeeding%20Basics%20for%20Dads_final%20508c.pdf "Breastfeeding Basics for Dads")   [Spanish](https://wicbreastfeeding.fns.usda.gov/sites/default/files/2018-11/Breastfeeding%20Basics%20for%20Dads_SP_FINAL%20508c_0.pdf "CONCEPTOS BÁSICOS SOBRE LACTANCIA MATERNA PARA LOS PADRES")**
+**[English](https://wicbreastfeeding.fns.usda.gov/sites/default/files/2018-08/Breastfeeding%20Basics%20for%20Dads_final%20508c.pdf "Breastfeeding Basics for Dads")   [Spanish](https://wicbreastfeeding.fns.usda.gov/sites/default/files/2018-11/Breastfeeding%20Basics%20for%20Dads_SP_FINAL%20508c_0.pdf "CONCEPTOS BÁSICOS SOBRE LACTANCIA MATERNA PARA LOS PADRES")**
 
 
 
@@ -646,7 +646,7 @@ Image
 **Breastfeeding Basics for Grandmas**
 
 
-**[English](https://wicbreastfeeding.fns.usda.gov/sites/default/files/2018-08/Breastfeeding%20Basics%20for%20Grandmas_final%20508c.pdf "Breastfeeding Basics for Grandmas")   [Spanish](https://wicbreastfeeding.fns.usda.gov/sites/default/files/2018-11/Breastfeeding%20Basics%20for%20Grandmas_SP_FINAL%20508c_0.pdf "CONCEPTOS BÁSICOS SOBRE LACTANCIA MATERNA PARA LAS ABUELAS")**
+**[English](https://wicbreastfeeding.fns.usda.gov/sites/default/files/2018-08/Breastfeeding%20Basics%20for%20Grandmas_final%20508c.pdf "Breastfeeding Basics for Grandmas")   [Spanish](https://wicbreastfeeding.fns.usda.gov/sites/default/files/2018-11/Breastfeeding%20Basics%20for%20Grandmas_SP_FINAL%20508c_0.pdf "CONCEPTOS BÁSICOS SOBRE LACTANCIA MATERNA PARA LAS ABUELAS")**
 
 
 
@@ -667,7 +667,7 @@ Image
 **Your Guide to Breastfeeding**
 
 
-**[English](https://www.womenshealth.gov/breastfeeding/breastfeeding-resources "Breastfeeding resources")   [Spanish](https://espanol.womenshealth.gov/breastfeeding/breastfeeding-resources "Recursos sobre la lactancia materna")**
+**[English](https://www.womenshealth.gov/breastfeeding/breastfeeding-resources "Breastfeeding resources")   [Spanish](https://espanol.womenshealth.gov/breastfeeding/breastfeeding-resources "Recursos sobre la lactancia materna")**
 
 
 
@@ -688,7 +688,7 @@ Image
 **Food Safety for Moms\-to\-Be**
 
 
-**[English](https://www.fda.gov/food/people-risk-foodborne-illness/food-safety-moms-be "Food Safety for Moms-to-Be")   [Spanish](https://www.fda.gov/food/people-risk-foodborne-illness/seguridad-alimentaria-para-futuras-mamas "Seguridad alimentaria para futuras mamás")**
+**[English](https://www.fda.gov/food/people-risk-foodborne-illness/food-safety-moms-be "Food Safety for Moms-to-Be")   [Spanish](https://www.fda.gov/food/people-risk-foodborne-illness/seguridad-alimentaria-para-futuras-mamas "Seguridad alimentaria para futuras mamás")**
 
 
 
@@ -709,7 +709,7 @@ Image
 **Storage and Preparation of Breast Milk**
 
 
-**[English](https://www.cdc.gov/breastfeeding/pdf/preparation-of-breast-milk_H.pdf "Storage and Preparation of Breast Milk")   [Spanish](https://www.cdc.gov/breastfeeding/media/pdfs/preparacion-de-la-leche-materna-508.pdf "Almacenamiento y preparacion de la lecha materna")**
+**[English](https://www.cdc.gov/breastfeeding/pdf/preparation-of-breast-milk_H.pdf "Storage and Preparation of Breast Milk")   [Spanish](https://www.cdc.gov/breastfeeding/media/pdfs/preparacion-de-la-leche-materna-508.pdf "Almacenamiento y preparacion de la lecha materna")**
 
 
 
@@ -730,7 +730,7 @@ Image
 **How to Keep Your Breast Pump Kit Clean**
 
 
-**[English](https://www.cdc.gov/hygiene/about/about-breast-pump-hygiene.html "How to Keep Your Breast Pump Kit Clean")   [Spanish](https://www.cdc.gov/hygiene/about/about-breast-pump-hygiene.html "Cómo mantener limpio el extractor de leche materna")**
+**[English](https://www.cdc.gov/hygiene/about/about-breast-pump-hygiene.html "How to Keep Your Breast Pump Kit Clean")   [Spanish](https://www.cdc.gov/hygiene/about/about-breast-pump-hygiene.html "Cómo mantener limpio el extractor de leche materna")**
 
 
 
@@ -793,7 +793,7 @@ Image
 **Tips for Pregnant Moms**
 
 
-**[English](https://wicworks.fns.usda.gov/resources/tips-pregnant-moms "Tips for Pregnant Moms")   [Spanish](https://wicworks.fns.usda.gov/resources/tips-pregnant-moms "Consejos para madres embarazadas")**
+**[English](https://wicworks.fns.usda.gov/resources/tips-pregnant-moms "Tips for Pregnant Moms")   [Spanish](https://wicworks.fns.usda.gov/resources/tips-pregnant-moms "Consejos para madres embarazadas")**
 
 
 
@@ -814,7 +814,7 @@ Image
 **MyPlate Tip Sheets**
 
 
-**[English](/myplate-tip-sheets "MyPlate Tip Sheets")    [Spanish](/es/resources/print-materials?f[0]=audience%3A1182&f[1]=resource_type%3A1181 "Hojas de consejos de MiPlato")**
+**[English](/myplate-tip-sheets "MyPlate Tip Sheets")    [Spanish](/es/resources/print-materials?f[0]=audience%3A1182&f[1]=resource_type%3A1181 "Hojas de consejos de MiPlato")**
 
 
 
@@ -835,7 +835,7 @@ Image
 **More Print Materials**
 
 
-**[English](/resources/print-materials "More Print Materials")   [Spanish](/resources/print-materials?f[0]=resource_type%3A1176 "Más materiales impresos")**
+**[English](/resources/print-materials "More Print Materials")   [Spanish](/resources/print-materials?f[0]=resource_type%3A1176 "Más materiales impresos")**
 
 
 
@@ -945,7 +945,7 @@ Image
 ### *Start Simple with MyPlate* App
 
 
-Build healthy eating habits one goal at a time! Download the *Start Simple with MyPlate* app today.
+Build healthy eating habits one goal at a time! Download the *Start Simple with MyPlate* app today.
 
 
 **[Learn more](/resources/tools/startsimple-myplate-app "Start Simple with MyPlate App")**

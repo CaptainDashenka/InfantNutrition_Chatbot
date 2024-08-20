@@ -60,7 +60,7 @@ Infant Formula Feeding \| Nutrition \| CDC
 [Skip directly to search](#headerSearch)
 
 
-[Español](/spanish/) \| 
+[EspanIÌ€Æ’ol](/spanish/) \| 
 [Other Languages](https://wwwn.cdc.gov/pubs/other-languages/)
 
 **Error processing SSI file**  
@@ -171,7 +171,7 @@ Infant Formula Feeding
 ======================
 
  
-[Español (Spanish)](/nutrition/infantandtoddlernutrition/formula-feeding/index-es.html) [Print](#print)
+[EspanIÌ€Æ’ol (Spanish)](/nutrition/infantandtoddlernutrition/formula-feeding/index-es.html) [Print](#print)
 
 
 
@@ -182,7 +182,7 @@ Related Pages
 
 
 ![Mom feeding her baby formula from a bottle.](/nutrition/infantandtoddlernutrition/images/formula-feeding.jpg?_=95611 "formula-feeding")
-If you are feeding your baby infant formula, there are some important things to know such as how to choose an infant formula and how to prepare and store your infant’s formula. Explore the pages below to learn more.
+If you are feeding your baby infant formula, there are some important things to know such as how to choose an infant formula and how to prepare and store your infantaÌ‚â‚¬TMs formula. Explore the pages below to learn more.
 
 
 * [Choosing an Infant Formula](/nutrition/infantandtoddlernutrition/formula-feeding/choosing-an-infant-formula.html)
@@ -200,3 +200,14 @@ Also available in [Spanish \[PDF\-2\.69MB]](/nutrition/downloads/preparar-y-alma
 
 
 
+
+
+
+**Error processing SSI file**  
+
+
+
+
+
+
+ Last Reviewed:

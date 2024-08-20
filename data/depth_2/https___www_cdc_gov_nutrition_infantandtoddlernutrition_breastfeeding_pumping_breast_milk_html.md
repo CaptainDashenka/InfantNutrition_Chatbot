@@ -60,7 +60,7 @@ Pumping Breast Milk \| Nutrition \| CDC
 [Skip directly to search](#headerSearch)
 
 
-[Español](/spanish/) \| 
+[EspanIÌ€Æ’ol](/spanish/) \| 
 [Other Languages](https://wwwn.cdc.gov/pubs/other-languages/)
 
 **Error processing SSI file**  
@@ -169,7 +169,7 @@ Pumping Breast Milk
 ===================
 
  
-[Español (Spanish)](/nutrition/infantandtoddlernutrition/breastfeeding/extraccion-de-leche-materna.html) [Print](#print)
+[EspanIÌ€Æ’ol (Spanish)](/nutrition/infantandtoddlernutrition/breastfeeding/extraccion-de-leche-materna.html) [Print](#print)
 
 
 
@@ -235,7 +235,7 @@ How to Safely Store and Handle Your Breast Milk
 -----------------------------------------------
 
 
-By following [safe preparation and storage techniques](/breastfeeding/breast-milk-preparation-and-storage/handling-breastmilk.html), you can maintain the high quality of expressed breast milk and the health of your baby. For answers to questions on how to prepare and store breast milk, such as where to store breast milk at work, and what to do when the power goes out, visit [CDC’s Storage and Preparation of Breast Milk Frequently Asked Questions](/breastfeeding/php/guidelines-recommendations/faqs.html).  
+By following [safe preparation and storage techniques](/breastfeeding/breast-milk-preparation-and-storage/handling-breastmilk.html), you can maintain the high quality of expressed breast milk and the health of your baby. For answers to questions on how to prepare and store breast milk, such as where to store breast milk at work, and what to do when the power goes out, visit [CDCaÌ‚â‚¬TMs Storage and Preparation of Breast Milk Frequently Asked Questions](/breastfeeding/php/guidelines-recommendations/faqs.html).  
 
 
 
@@ -246,65 +246,11 @@ By following [safe preparation and storage techniques](/breastfeeding/breast-mil
 
 
 
+**Error processing SSI file**  
 
 
 
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+ Last Reviewed:

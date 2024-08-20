@@ -59,7 +59,7 @@ Travel Recommendations for Nursing Families \| Nutrition \| CDC
 [Skip directly to search](#headerSearch)
 
 
-[Español](/spanish/) \| 
+[EspanIÌ€Æ’ol](/spanish/) \| 
 [Other Languages](https://wwwn.cdc.gov/pubs/other-languages/)
 
 **Error processing SSI file**  
@@ -170,7 +170,7 @@ Travel Recommendations for Nursing Families
 Continue breastfeeding your baby or expressing milk when traveling.
 
  
-[Español](/nutrition/infantandtoddlernutrition/breastfeeding/spanish/recomendaciones-de-viaje-para-familias-lactantes.html) [Print](#print)
+[EspanIÌ€Æ’ol](/nutrition/infantandtoddlernutrition/breastfeeding/spanish/recomendaciones-de-viaje-para-familias-lactantes.html) [Print](#print)
 
 
 
@@ -214,8 +214,8 @@ If you are traveling without your child and plan on continuing breastfeeding, yo
 ### While Traveling
 
 
-* You have many options for what to do with your milk while traveling. You can express milk and store it, send it home, or “pump and dump” (throw it out).
-* If storing and/or shipping breast milk is not possible, “pumping and dumping” can allow you to maintain your milk supply so that you can continue breastfeeding when reunited with your baby.
+* You have many options for what to do with your milk while traveling. You can express milk and store it, send it home, or aÌ‚â‚¬Å“pump and dumpaÌ‚â‚¬ï¿1⁄2 (throw it out).
+* If storing and/or shipping breast milk is not possible, aÌ‚â‚¬Å“pumping and dumpingaÌ‚â‚¬ï¿1⁄2 can allow you to maintain your milk supply so that you can continue breastfeeding when reunited with your baby.
 
 
 ### Expressing Milk
@@ -229,7 +229,7 @@ Maintaining a full milk supply can be a concern for many traveling parents. Here
 	+ If you plan to use an electric breast pump, consider whether you will need an electrical adapter and converter.
 	+ Plan for a back\-up option (such as [hand expression](/nutrition/emergencies-infant-feeding/hand-expression.html) or a portable manual pump) to express milk if needed.
 * Before expressing milk, make sure to wash your hands with soap and water. When soap and water are not available, an alcohol\-based hand sanitizer with at least 60% alcohol can be used.
-* It is important to [keep your breast pump parts clean](/healthywater/hygiene/healthychildcare/infantfeeding/breastpump.html) while traveling. Plan in advance how to best keep your pump kit parts clean given your specific travel settings.
+* It is important to [keep your breast pump parts clean](/healthywater/hygiene/healthychildcare/infantfeeding/breastpump.html) while traveling. Plan in advance how to best keep your pump kit parts clean given your specific travel settings.
 * If you need to pump milk while traveling by car, plane or other transportation, a manual or battery powered breast pump may be the best option. Some pumps can also be powered with car adapters.
 
 
@@ -249,25 +249,25 @@ Maintaining a full milk supply can be a concern for many traveling parents. Here
 * If you expect to have expressed milk with you during travel, carefully plan how you will transport the milk. The type of transportation (e.g., airplane, car, train, bus) you take may influence what policies you need to be aware of and follow.
 	+ You can carry freshly expressed milk in an insulated cooler bag with frozen ice packs for up to 24 hours. After arriving at your destination, use the milk right away, store it in the refrigerator, or freeze it.
 * If you carry frozen milk in a cooler with frozen gel packs or ice, check your milk when you get to your destination. Upon arrival, if the milk has ice crystals, you can refreeze it.
-	+ Keep in mind that previously frozen milk should be kept cold and used within **24 hours from the time it thaws completely**. This will depend on the time spent traveling and the temperature of the cooler. If possible, check the milk after a few hours in the cooler to see if it has thawed.
+	+ Keep in mind that previously frozen milk should be kept cold and used within **24 hours from the time it thaws completely**. This will depend on the time spent traveling and the temperature of the cooler. If possible, check the milk after a few hours in the cooler to see if it has thawed.
 
 
 ### Considerations for Air Travel
 
 
-* The [Friendly Airports for Mothers (FAM) Act and the Friendly Airports for Mothers (FAM) Improvement Act](https://www.usbreastfeeding.org/existing-legislation.html) require all small, medium, and large hub airports to provide a private, non\-bathroom space in each terminal building for the expression of breast milk. Check the airport’s website to locate these spaces.
-* In the United States, expressed milk and related baby and child feeding items are exempt (excused) from [Transportation Security Administration (TSA) regulations](https://www.tsa.gov/travel/special-procedures/traveling-children) limiting quantities of liquids and gels.
+* The [Friendly Airports for Mothers (FAM) Act and the Friendly Airports for Mothers (FAM) Improvement Act](https://www.usbreastfeeding.org/existing-legislation.html) require all small, medium, and large hub airports to provide a private, non\-bathroom space in each terminal building for the expression of breast milk. Check the airportaÌ‚â‚¬TMs website to locate these spaces.
+* In the United States, expressed milk and related baby and child feeding items are exempt (excused) from [Transportation Security Administration (TSA) regulations](https://www.tsa.gov/travel/special-procedures/traveling-children) limiting quantities of liquids and gels.
 	+ Passengers can carry with them all expressed milk, ice packs, gel packs (frozen or unfrozen), pumps and pump kits, and other items required to transport expressed milk through airport security checkpoints and onboard flights.
 	+ You do not have to be traveling with a baby to be able to carry milk and supplies.
-	+ At the beginning of the screening process, inform the TSA officer that you are carrying expressed milk or related accessories, and separate them from other liquids, gels, and aerosols that are limited to 3\.4 oz. (100 mL) each, subject to [TSA’s Liquids Rule](https://www.tsa.gov/travel/security-screening/liquids-rule).
+	+ At the beginning of the screening process, inform the TSA officer that you are carrying expressed milk or related accessories, and separate them from other liquids, gels, and aerosols that are limited to 3\.4 oz. (100 mL) each, subject to [TSAaÌ‚â‚¬TMs Liquids Rule](https://www.tsa.gov/travel/security-screening/liquids-rule).
 
 
 * Expressed milk and related accessories are typically screened by X\-ray.
 	+ Milk that has been X\-rayed is safe to feed your child.
 	+ Inform the TSA officer if you do not want your breast milk to be X\-rayed or opened. Additional steps will be taken to clear the liquid. You or the traveling guardian will undergo additional screening procedures, to include Advanced Imaging Technology screening and additional/enhanced screening of other carry\-on property.
 * When traveling with expressed milk and related supplies, give yourself extra time at the airport to get through the airport security checkpoints.
-* Having a printed copy of the [TSA regulations for expressed milk](http://www.tsa.gov/travel/special-procedures/traveling-children) may help the screening process.
-* For more information on breastfeeding and international travel visit [CDC’s Yellowbook (Chapter 7\)](https://wwwnc.cdc.gov/travel/yellowbook/2020/family-travel/travel-and-breastfeeding).
+* Having a printed copy of the [TSA regulations for expressed milk](http://www.tsa.gov/travel/special-procedures/traveling-children) may help the screening process.
+* For more information on breastfeeding and international travel visit [CDCaÌ‚â‚¬TMs Yellowbook (Chapter 7\)](https://wwwnc.cdc.gov/travel/yellowbook/2020/family-travel/travel-and-breastfeeding).
 
 
 ### Getting Back to Your Breastfeeding Routine After Traveling
@@ -282,3 +282,13 @@ Maintaining a full milk supply can be a concern for many traveling parents. Here
 
 
 
+
+
+**Error processing SSI file**  
+
+
+
+
+
+
+ Last Reviewed:

@@ -166,7 +166,7 @@ Teething: Tips for soothing sore gums
 *Is your teething baby keeping you up at night? Understand how to soothe sore gums and care for your baby's new teeth.*[By Mayo Clinic Staff](/about-this-site/meet-our-medical-editors)
 
 
-Drooling, crankiness and tears can make teething an ordeal for babies and parents alike. Here's information to help ease the pain � for both of you.
+Drooling, crankiness and tears can make teething an ordeal for babies and parents alike. Here's information to help ease the pain aIÌ€â€šaÌ‚â€šÂ¬aÌ‚â‚¬ï¿1⁄2 for both of you.
 
 
 
@@ -185,7 +185,7 @@ Classic signs and symptoms of teething include:
 * Chewing on objects
 * Irritability or crankiness
 * Sore or tender gums
-* Slight increase in temperature � but no fever
+* Slight increase in temperature aIÌ€â€šaÌ‚â€šÂ¬aÌ‚â‚¬ï¿1⁄2 but no fever
 
 
 Many parents suspect that teething causes fever and diarrhea, but researchers say these symptoms aren't indications of teething. If your baby has a rectal temperature of 100\.4 F (38 C) or diarrhea, talk to the doctor.
@@ -201,7 +201,7 @@ If your teething baby seems uncomfortable, consider these simple tips:
 
 
 * **Rub your baby's gums.** Use a clean finger or wet gauze to rub your baby's gums. The pressure can ease your baby's discomfort.
-* **Keep it cool.** A cold spoon or chilled � not frozen � teething ring can be soothing on a baby's gums. To avoid cavities, don't dip these items in sugary substances.
+* **Keep it cool.** A cold spoon or chilled aIÌ€â€šaÌ‚â€šÂ¬aÌ‚â‚¬ï¿1⁄2 not frozen aIÌ€â€šaÌ‚â€šÂ¬aÌ‚â‚¬ï¿1⁄2 teething ring can be soothing on a baby's gums. To avoid cavities, don't dip these items in sugary substances.
 * **Try an over\-the\-counter remedy.** If your baby is especially cranky, consider giving him or her infants' or children's over\-the\-counter pain medications such as acetaminophen (Tylenol, others) or ibuprofen (Advil, Motrin, others).
 
 
@@ -215,7 +215,7 @@ To keep your baby safe, avoid using:
 
 
 * **Over\-the\-counter remedies, including homeopathic teething tablets.** The benefits of topical gels and teething tablets haven't been demonstrated. In recent years, lab analysis of some homeopathic remedies found greater amounts than labeled of the ingredient belladonna, which can cause seizures and difficulty breathing.
-* **Teething medications containing benzocaine or lidocaine.** These pain relievers can be harmful � even fatal � to your baby.
+* **Teething medications containing benzocaine or lidocaine.** These pain relievers can be harmful aIÌ€â€šaÌ‚â€šÂ¬aÌ‚â‚¬ï¿1⁄2 even fatal aIÌ€â€šaÌ‚â€šÂ¬aÌ‚â‚¬ï¿1⁄2 to your baby.
 * **Teething necklaces, bracelets or anklets.** These items pose a risk of choking, strangulation, mouth injury and infection.
 
 
@@ -234,10 +234,10 @@ Teething can usually be handled at home. Contact the doctor if your baby seems p
 
 
 
-Run a soft, clean cloth over your baby's gums twice a day � after the morning feeding and before bed. The cleansing can keep food debris and bacteria from building up in your baby's mouth.
+Run a soft, clean cloth over your baby's gums twice a day aIÌ€â€šaÌ‚â€šÂ¬aÌ‚â‚¬ï¿1⁄2 after the morning feeding and before bed. The cleansing can keep food debris and bacteria from building up in your baby's mouth.
 
 
-When your baby's first teeth appear, use a small, soft\-bristled toothbrush to clean his or her teeth twice a day. Until your child learns to spit � at about age 3 � use a smear of fluoride toothpaste no bigger than the size of a grain of rice. Then switch to a pea\-sized dollop as your child approaches 2 to 3 years of age.
+When your baby's first teeth appear, use a small, soft\-bristled toothbrush to clean his or her teeth twice a day. Until your child learns to spit aIÌ€â€šaÌ‚â€šÂ¬aÌ‚â‚¬ï¿1⁄2 at about age 3 aIÌ€â€šaÌ‚â€šÂ¬aÌ‚â‚¬ï¿1⁄2 use a smear of fluoride toothpaste no bigger than the size of a grain of rice. Then switch to a pea\-sized dollop as your child approaches 2 to 3 years of age.
 
 
 It's also time to think about regular dental checkups. The American Dental Association and the American Academy of Pediatric Dentistry recommend scheduling a child's first dental visit at or near his or her first birthday.
@@ -253,7 +253,7 @@ Remember, regular childhood dental care helps set the stage for a lifetime of he
 
 
 
-�
+ 
 
 
 

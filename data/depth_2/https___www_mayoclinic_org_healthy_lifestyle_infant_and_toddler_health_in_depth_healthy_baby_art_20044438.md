@@ -176,7 +176,7 @@ Are you nervous about giving your newborn baby a bath? Bathing a slippery baby m
 There's no need to give your newborn baby a bath every day. Three times a week might be enough until your baby becomes more mobile. Bathing your baby too much can dry out your baby's skin.
 
 
-If you're quick and thorough with diaper changes and burp cloths, you're already cleaning the parts that need attention � the face, neck and diaper area. Between baths, you may also check the folds of your baby's skin, including thighs, groin, armpits and chin. If needed, clean these areas with a wet washcloth.
+If you're quick and thorough with diaper changes and burp cloths, you're already cleaning the parts that need attention aIÌ€â€šaÌ‚â€šÂ¬aÌ‚â‚¬ï¿1⁄2 the face, neck and diaper area. Between baths, you may also check the folds of your baby's skin, including thighs, groin, armpits and chin. If needed, clean these areas with a wet washcloth.
 
 
 
@@ -194,14 +194,14 @@ That's up to you. Choose a time when you're not rushed or likely to be interrupt
 
 
 
-The American Academy of Pediatrics recommends sponge baths until the umbilical cord stump falls off � which might take a week or two. To give your baby a sponge bath, you'll need:
+The American Academy of Pediatrics recommends sponge baths until the umbilical cord stump falls off aIÌ€â€šaÌ‚â€šÂ¬aÌ‚â‚¬ï¿1⁄2 which might take a week or two. To give your baby a sponge bath, you'll need:
 
 
 * **A warm place with a flat surface.** A bathroom or kitchen counter, changing table, or firm bed will work. Even a blanket or towel on the floor is OK. Pad hard surfaces with a blanket or towel.
 * **A soft blanket, towel or changing pad.** Spread it out for your baby to lie on.
 * **A free hand.** Always keep one hand on your baby. On a changing table, use the safety strap as well.
 * **A sink or shallow basin to hold the water.** Run warm water into the basin or sink. Check the water temperature with your hand to make sure it's not too hot.
-* **Essential supplies.** Gather a washcloth, a towel � preferably with a built\-in hood � fragrance\-free baby shampoo and soap, baby wipes, a clean diaper, and a change of clothes.
+* **Essential supplies.** Gather a washcloth, a towel aIÌ€â€šaÌ‚â€šÂ¬aÌ‚â‚¬ï¿1⁄2 preferably with a built\-in hood aIÌ€â€šaÌ‚â€šÂ¬aÌ‚â‚¬ï¿1⁄2 fragrance\-free baby shampoo and soap, baby wipes, a clean diaper, and a change of clothes.
 
 
 Undress your baby and wrap him or her in a towel. Lay your baby on his or her back in the prepared area. To keep your baby warm, only expose the parts of your baby's body that you're washing. Wet the washcloth with plain, warm water. Then wring out excess water and wipe your baby's face. Wipe each eyelid from the inside to the outside corner.
@@ -243,7 +243,7 @@ Warm water is best. To prevent scalding, set the thermostat on your water heater
 
 
 
-A secure hold will help your baby feel comfortable � and stay safe � in the tub. Use your nondominant arm to support your baby's head and neck and the other to hold and guide your baby's body into the water, feet first. Continue supporting your baby's head and back as needed. You might reach behind your baby and hold on to his or her opposite arm throughout the bath.
+A secure hold will help your baby feel comfortable aIÌ€â€šaÌ‚â€šÂ¬aÌ‚â‚¬ï¿1⁄2 and stay safe aIÌ€â€šaÌ‚â€šÂ¬aÌ‚â‚¬ï¿1⁄2 in the tub. Use your nondominant arm to support your baby's head and neck and the other to hold and guide your baby's body into the water, feet first. Continue supporting your baby's head and back as needed. You might reach behind your baby and hold on to his or her opposite arm throughout the bath.
 
 
 
@@ -280,7 +280,7 @@ Most newborns don't need lotion after a bath. If your baby's skin is very dry, a
 
 
 
-�
+ 
 
 
 

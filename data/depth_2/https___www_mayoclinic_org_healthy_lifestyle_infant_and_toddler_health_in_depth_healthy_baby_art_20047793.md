@@ -56,12 +56,6 @@
 
 
 
-
-
-
-
-
-
 This content does not have an English version.
 This content does not have an Arabic version.
 
@@ -164,7 +158,7 @@ Sick baby? When to seek medical attention
 *When a healthy baby gets sick, don't panic. Understand when to call the doctor and when to seek emergency care for your baby.*[By Mayo Clinic Staff](/about-this-site/meet-our-medical-editors)
 
 
-When you have a baby occasional infections and fevers may be inevitable. But even parents who have experience with sick babies can have trouble distinguishing normal fussiness and mild illnesses from serious problems. Here's when to contact your health care provider � and when to seek emergency care � for a sick baby.
+When you have a baby occasional infections and fevers may be inevitable. But even parents who have experience with sick babies can have trouble distinguishing normal fussiness and mild illnesses from serious problems. Here's when to contact your health care provider aIÌ€â€šaÌ‚â€šÂ¬aÌ‚â‚¬ï¿1⁄2 and when to seek emergency care aIÌ€â€šaÌ‚â€šÂ¬aÌ‚â‚¬ï¿1⁄2 for a sick baby.
 
 
 
@@ -173,7 +167,7 @@ When you have a baby occasional infections and fevers may be inevitable. But eve
 
 
 
-An occasional illness is usually nothing to worry about in an otherwise healthy baby � but sometimes it's best to contact your health care provider. Look for these signs and symptoms:
+An occasional illness is usually nothing to worry about in an otherwise healthy baby aIÌ€â€šaÌ‚â€šÂ¬aÌ‚â‚¬ï¿1⁄2 but sometimes it's best to contact your health care provider. Look for these signs and symptoms:
 
 
 * **Changes in appetite.** If your baby refuses several feedings in a row or eats poorly, contact your health care provider.
@@ -185,16 +179,16 @@ An occasional illness is usually nothing to worry about in an otherwise healthy 
 If your baby is 3 to 6 months old and has a temperature up to 102 F (38\.9 C) and seems sick or has a temperature higher than 102 F (38\.9 C), contact your health care provider.
 
 
-If your baby is 6 to 24 months old and has a temperature higher than 102 F (38\.9 C) that lasts longer than one day but shows no other signs or symptoms, contact your health care provider. If your baby also has other signs or symptoms � such as a cold, cough or diarrhea � you might contact your health care provider sooner based on their severity.
+If your baby is 6 to 24 months old and has a temperature higher than 102 F (38\.9 C) that lasts longer than one day but shows no other signs or symptoms, contact your health care provider. If your baby also has other signs or symptoms aIÌ€â€šaÌ‚â€šÂ¬aÌ‚â‚¬ï¿1⁄2 such as a cold, cough or diarrhea aIÌ€â€šaÌ‚â€šÂ¬aÌ‚â‚¬ï¿1⁄2 you might contact your health care provider sooner based on their severity.
 
 
 If your baby has a fever that lasts for more than three days, contact your health care provider.
 * **Diarrhea.** Contact your health care provider if your baby has more than three stools that are especially loose or watery.
-* **Vomiting.** Occasional spitting up, the easy flow of a baby's stomach contents through his or her mouth, is normal. Vomiting occurs when the flow is forceful � shooting out inches rather than dribbling from the mouth. Contact your health care provider if your baby vomits forcefully after feedings or your baby hasn't been able to keep liquids down for eight hours.
+* **Vomiting.** Occasional spitting up, the easy flow of a baby's stomach contents through his or her mouth, is normal. Vomiting occurs when the flow is forceful aIÌ€â€šaÌ‚â€šÂ¬aÌ‚â‚¬ï¿1⁄2 shooting out inches rather than dribbling from the mouth. Contact your health care provider if your baby vomits forcefully after feedings or your baby hasn't been able to keep liquids down for eight hours.
 * **Dehydration.** Contact your health care provider if your baby cries with fewer tears, has significantly fewer wet diapers or has a dry mouth. Also contact your health care provider if your baby's soft spot appears sunken.
 * **Constipation.** If your baby has fewer bowel movements than usual for a few days and appears to be struggling or uncomfortable, contact your health care provider. If you think your baby is constipated and your baby is vomiting or has a distended abdomen, call your health care provider.
 * **Colds.** Contact your health care provider if your baby has a cold that interferes with his or her breathing, has symptoms that last longer than 10 days, has ear pain, or has a cough that lasts more than one week.
-* **Rash.** Contact your health care provider if a rash appears infected or if your baby suddenly develops an unexplained rash � especially if it's accompanied by a fever.
+* **Rash.** Contact your health care provider if a rash appears infected or if your baby suddenly develops an unexplained rash aIÌ€â€šaÌ‚â€šÂ¬aÌ‚â‚¬ï¿1⁄2 especially if it's accompanied by a fever.
 * **Eye discharge.** If one or both of your baby's eyes are red, swollen or leaking mucus, contact your health care provider.
 
 
@@ -261,7 +255,7 @@ Being prepared will save you and your baby's health care provider time during a 
 
 
 
-�
+ 
 
 
 

@@ -60,7 +60,7 @@ Fingers, Spoons, Forks, and Cups \| Nutrition \| CDC
 [Skip directly to search](#headerSearch)
 
 
-[Español](/spanish/) \| 
+[EspanIÌ€Æ’ol](/spanish/) \| 
 [Other Languages](https://wwwn.cdc.gov/pubs/other-languages/)
 
 **Error processing SSI file**  
@@ -171,7 +171,7 @@ Fingers, Spoons, Forks, and Cups
 ================================
 
  
-[Español (Spanish)](/nutrition/infantandtoddlernutrition/mealtime/dedos-cucharas-tenedores-y-vasos.html) [Print](#print)
+[EspanIÌ€Æ’ol (Spanish)](/nutrition/infantandtoddlernutrition/mealtime/dedos-cucharas-tenedores-y-vasos.html) [Print](#print)
 
 
 
@@ -217,7 +217,7 @@ At first, babies learn how to swallow solid foods such as pureed or mashed foods
 
 * Most babies can swallow a spoonful of pureed foods without choking when they are around 6 months old.
 * Babies can start to use a spoon by themselves at around 10 to 12 months old.
-* Your child will continue to get better at using tools like spoons and forks. Give your child a chance to use spoons and forks—even if it is messy.
+* Your child will continue to get better at using tools like spoons and forks. Give your child a chance to use spoons and forksaÌ‚â‚¬â€�even if it is messy.
 
 
 ![An older infant drinking from a cup.](/nutrition/infantandtoddlernutrition/images/hands-cups.jpg?_=78991 "hands-cups")
@@ -230,7 +230,7 @@ Cups
 **Your child will learn new skills as they grow.** 
 
 
-Learn more about your child’s [developmental milestones](/ncbddd/actearly/milestones/index.html).
+Learn more about your childaÌ‚â‚¬TMs [developmental milestones](/ncbddd/actearly/milestones/index.html).
 
 
 
@@ -238,11 +238,22 @@ Children can start learning how to use a cup without a lid when they are 9 month
 
 
 * When children are about 12 months old, they can hold a cup with two hands.
-* Give your child a chance to use a cup—be ready for some spills.
-* Talk with your child’s doctor or nurse if you have any questions about things your baby can do at this age.
+* Give your child a chance to use a cupaÌ‚â‚¬â€�be ready for some spills.
+* Talk with your childaÌ‚â‚¬TMs doctor or nurse if you have any questions about things your baby can do at this age.
 
 
- [Top of Page](#)
+ [Top of Page](#)
 
 
 
+
+
+
+**Error processing SSI file**  
+
+
+
+
+
+
+ Last Reviewed:

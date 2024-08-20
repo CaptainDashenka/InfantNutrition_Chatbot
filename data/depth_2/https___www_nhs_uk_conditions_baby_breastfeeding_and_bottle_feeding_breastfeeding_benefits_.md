@@ -180,7 +180,7 @@ Breastfeeding lowers your risk of:
 Got a breastfeeding question?
 -----------------------------
 
-Sign in to Facebook and message the [Start4Life Breastfeeding Friend](https://m.me/Start4LifeBreastFeedingFriend) chatbot for fast, friendly, trusted NHS advice anytime, day or night.
+Sign in to Facebook and message the [Start4Life Breastfeeding Friend](https://m.me/Start4LifeBreastFeedingFriend) chatbot for fast, friendly, trusted NHS advice anytime, day or night.
 
 
 

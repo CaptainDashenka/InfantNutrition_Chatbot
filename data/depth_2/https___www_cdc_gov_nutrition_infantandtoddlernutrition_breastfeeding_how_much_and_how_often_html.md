@@ -60,7 +60,7 @@ How Much and How Often to Breastfeed \| Nutrition \| CDC
 [Skip directly to search](#headerSearch)
 
 
-[Español](/spanish/) \| 
+[EspanIÌ€Æ’ol](/spanish/) \| 
 [Other Languages](https://wwwn.cdc.gov/pubs/other-languages/)
 
 **Error processing SSI file**  
@@ -169,7 +169,7 @@ How Much and How Often to Breastfeed
 ====================================
 
  
-[Español (Spanish)](/nutrition/infantandtoddlernutrition/breastfeeding/cuanto-y-con-que-frecuencia-amamantar.html) [Print](#print)
+[EspanIÌ€Æ’ol (Spanish)](/nutrition/infantandtoddlernutrition/breastfeeding/cuanto-y-con-que-frecuencia-amamantar.html) [Print](#print)
 
 
 
@@ -180,17 +180,17 @@ Related Pages
 
 
 ![An infant breastfeeding](/nutrition/infantandtoddlernutrition/breastfeeding/images/how-often-to-breastfeed-500.jpg?_=06598)
-Every baby is different. How much and how often your baby feeds will depend on your baby’s needs. Here are a few things to expect about breastfeeding during the baby’s first days, weeks, and months of life.
+Every baby is different. How much and how often your baby feeds will depend on your babyaÌ‚â‚¬TMs needs. Here are a few things to expect about breastfeeding during the babyaÌ‚â‚¬TMs first days, weeks, and months of life.
 
 
 First Days
 ----------
 
 
-* Your newborn baby’s belly is tiny. He or she does not need a lot of milk with each feeding to be full.
+* Your newborn babyaÌ‚â‚¬TMs belly is tiny. He or she does not need a lot of milk with each feeding to be full.
 * Your baby may want to eat as often as every 1 to 3 hours. Frequent feeding helps increase your milk supply and gives your baby practice at sucking and swallowing.
 * You may be able to hear your baby sucking and swallowing the breast milk.
-* Most babies who are getting breast milk should not be fed infant formula in the first few days. If you are concerned about meeting your baby’s needs, talk to a [lactation consultant, or your baby’s nurse or doctor](/nutrition/infantandtoddlernutrition/resources.html), right away. They can help you address any breastfeeding problems and determine the best way to meet your baby’s needs.
+* Most babies who are getting breast milk should not be fed infant formula in the first few days. If you are concerned about meeting your babyaÌ‚â‚¬TMs needs, talk to a [lactation consultant, or your babyaÌ‚â‚¬TMs nurse or doctor](/nutrition/infantandtoddlernutrition/resources.html), right away. They can help you address any breastfeeding problems and determine the best way to meet your babyaÌ‚â‚¬TMs needs.
 
 
 Did You Know?**Some newborns may be sleepy and not interested in feeding.**
@@ -220,21 +220,21 @@ First Weeks and Months
 --------------
 
 
-If you have questions about your baby’s growth or how much breast milk he or she is getting, talk with your child’s doctor or nurse.
+If you have questions about your babyaÌ‚â‚¬TMs growth or how much breast milk he or she is getting, talk with your childaÌ‚â‚¬TMs doctor or nurse.
 
 
 
 * How long and how often babies breastfeed will change as they grow and start eating more [solid foods](/nutrition/InfantandToddlerNutrition/foods-and-drinks/when-to-introduce-solid-foods.html).
-* Continue to follow your baby’s cues and breastfeed when you notice [signs of hunger](/nutrition/infantandtoddlernutrition/mealtime/signs-your-child-is-hungry-or-full.html). This is sometimes called breastfeeding on demand.
+* Continue to follow your babyaÌ‚â‚¬TMs cues and breastfeed when you notice [signs of hunger](/nutrition/infantandtoddlernutrition/mealtime/signs-your-child-is-hungry-or-full.html). This is sometimes called breastfeeding on demand.
 * If your baby seems less interested in breastfeeding after you introduce solid foods, try breastfeeding before you offer other foods.
 * Your breast milk is the most important source of nutrition, even after you start feeding your baby solid foods.
 
 
-12  to 24 Months
+12  to 24 Months
 ----------------
 
 
-* The number of times a day a toddler breastfeeds varies. Some want to breastfeed only before bed or in the morning. Others continue to drink breast milk as a bigger portion of their daily diet. Continue to follow your child’s cues to decide when he or she is hungry and wants to breastfeed.
+* The number of times a day a toddler breastfeeds varies. Some want to breastfeed only before bed or in the morning. Others continue to drink breast milk as a bigger portion of their daily diet. Continue to follow your childaÌ‚â‚¬TMs cues to decide when he or she is hungry and wants to breastfeed.
 
 
 [Top of Page](#)
@@ -244,214 +244,11 @@ If you have questions about your baby’s growth or how much breast milk he or s
 
 
 
+**Error processing SSI file**  
 
 
 
 
 
 
-
-
-SAS
-
-
-
-
-stats
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+ Last Reviewed:

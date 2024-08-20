@@ -163,7 +163,7 @@ Menu
 	+ [Print Materials](/resources/print-materials)
 	+ [Graphics](/resources/graphics)
 	+ [Videos](/resources/videos)
-	+ [En Español](/resources/en-espanol)
+	+ [En Español](/resources/en-espanol)
 	+ [Multiple Languages](/myplate-multiple-languages)
 	+ [Partner Resources](/partner-resources)
 * Professionals
@@ -415,7 +415,7 @@ Image
 ### Learn What You Need
 
 
-Do you know what foods and amounts are best for YOU? Get your personalized [MyPlate Plan](/myplate-plan "MyPlate Plan ") to learn your food group goals. 
+Do you know what foods and amounts are best for YOU? Get your personalized [MyPlate Plan](/myplate-plan "MyPlate Plan ") to learn your food group goals. 
 
 
 Before making any major changes to the way you eat, make sure to talk with a parent, caregiver, or a healthcare provider.
@@ -710,7 +710,7 @@ Image
 **Healthy Eating for Teens Tip Sheet**
 
 
-**[English](/sites/default/files/2022-04/TipSheet_18_HealthyEatingForTeens.pdf "Healthy Eating for Teens Tip Sheet")    [Spanish](/sites/default/files/2022-04/SpTipSheet_18_HealthyEatingForTeens.pdf "Alimentación Saludable para Adolescentes.")**
+**[English](/sites/default/files/2022-04/TipSheet_18_HealthyEatingForTeens.pdf "Healthy Eating for Teens Tip Sheet")    [Spanish](/sites/default/files/2022-04/SpTipSheet_18_HealthyEatingForTeens.pdf "Alimentación Saludable para Adolescentes.")**
 
 
 
@@ -731,7 +731,7 @@ Image
 **Get Your MyPlate Plan**
 
 
-**[English](https://www.myplate.gov/myplate-plan "Get Your MyPlate Plan")     [Spanish](https://www.myplate.gov/es/myplate-plan "Obtenga su plan MiPlato")**
+**[English](https://www.myplate.gov/myplate-plan "Get Your MyPlate Plan")     [Spanish](https://www.myplate.gov/es/myplate-plan "Obtenga su plan MiPlato")**
 
 
 
@@ -790,7 +790,7 @@ Image
 A Guide for Teenagers**
 
 
-**[English](https://www.niddk.nih.gov/health-information/weight-management/take-charge-health-guide-teenagers "Take Charge of Your Health: A Guide for Teenagers")    [Spanish](https://www.niddk.nih.gov/health-information/informacion-de-la-salud/control-de-peso/hazte-cargo-salud "¡Hazte cargo de tu salud!")**
+**[English](https://www.niddk.nih.gov/health-information/weight-management/take-charge-health-guide-teenagers "Take Charge of Your Health: A Guide for Teenagers")    [Spanish](https://www.niddk.nih.gov/health-information/informacion-de-la-salud/control-de-peso/hazte-cargo-salud "¡Hazte cargo de tu salud!")**
 
 
 
@@ -811,7 +811,7 @@ Image
 **Food \& Fitness for Teens**
 
 
-**[English](https://kidshealth.org/en/teens/food-fitness "Food & Fitness")    [Spanish](https://kidshealth.org/es/teens/food-fitness/ "Alimentos y actividad física")**
+**[English](https://kidshealth.org/en/teens/food-fitness "Food & Fitness")    [Spanish](https://kidshealth.org/es/teens/food-fitness/ "Alimentos y actividad física")**
 
 
 
@@ -850,7 +850,7 @@ Image
 **MyPlate Tip Sheets**
 
 
-**[English](/myplate-tip-sheets "MyPlate Tip Sheets")    [Spanish](/es/resources/print-materials?f[0]=audience%3A1182&f[1]=resource_type%3A1181 "Hojas de consejos de MiPlato")**
+**[English](/myplate-tip-sheets "MyPlate Tip Sheets")    [Spanish](/es/resources/print-materials?f[0]=audience%3A1182&f[1]=resource_type%3A1181 "Hojas de consejos de MiPlato")**
 
 
 
@@ -871,7 +871,7 @@ Image
 **More Print Materials**
 
 
-**[English](/resources/print-materials "More Print Materials")   [Spanish](/resources/print-materials?f[0]=resource_type%3A1176 "Más materiales impresos")**
+**[English](/resources/print-materials "More Print Materials")   [Spanish](/resources/print-materials?f[0]=resource_type%3A1176 "Más materiales impresos")**
 
 
 
@@ -982,7 +982,7 @@ Image
 ### *Start Simple with MyPlate* App
 
 
-Build healthy eating habits one goal at a time! Download the *Start Simple with MyPlate* app today.
+Build healthy eating habits one goal at a time! Download the *Start Simple with MyPlate* app today.
 
 
 **[Learn more](/resources/tools/startsimple-myplate-app "Start Simple with MyPlate App")**

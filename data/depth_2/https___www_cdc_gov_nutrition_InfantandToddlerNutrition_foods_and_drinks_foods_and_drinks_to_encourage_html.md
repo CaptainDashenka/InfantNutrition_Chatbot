@@ -60,7 +60,7 @@ Foods and Drinks to Encourage \| Nutrition \| CDC
 [Skip directly to search](#headerSearch)
 
 
-[Español](/spanish/) \| 
+[EspanIÌ€Æ’ol](/spanish/) \| 
 [Other Languages](https://wwwn.cdc.gov/pubs/other-languages/)
 
 **Error processing SSI file**  
@@ -171,7 +171,7 @@ Foods and Drinks to Encourage
 =============================
 
  
-[Español (Spanish)](/nutrition/infantandtoddlernutrition/foods-and-drinks/alimentos-y-bebidas-que-se-deben-alentar.html) [Print](#print)
+[EspanIÌ€Æ’ol (Spanish)](/nutrition/infantandtoddlernutrition/foods-and-drinks/alimentos-y-bebidas-que-se-deben-alentar.html) [Print](#print)
 
 
 
@@ -185,18 +185,18 @@ Did You Know?![Assorted fruits and vegetables cut up into chunks, placed by smal
 **When your child is between 6 and 12 months, some types of foods and drinks are better for your child than others.**
 
 
-To learn more, watch these [videos](/nutrition/InfantandToddlerNutrition/resources.html#videos) from 1,000 Days.
+To learn more, watch these [videos](/nutrition/InfantandToddlerNutrition/resources.html#videos) from 1,000 Days.
 
 
 
-Healthy eating patterns your child starts now will help promote healthy habits in the future. It is important to provide foods that match your child’s eating skills. At first, foods may need to be soft and mashed or bite\-sized. Visit [Tastes and Textures](/nutrition/infantandtoddlernutrition/foods-and-drinks/tastes-and-textures.html) for more information.
+Healthy eating patterns your child starts now will help promote healthy habits in the future. It is important to provide foods that match your childaÌ‚â‚¬TMs eating skills. At first, foods may need to be soft and mashed or bite\-sized. Visit [Tastes and Textures](/nutrition/infantandtoddlernutrition/foods-and-drinks/tastes-and-textures.html) for more information.
 
 
 Encourage Your Child to Eat
 ---------------------------
 
 
-Offer your child a variety of fruits, vegetables, whole grains, meats, and yogurt or cheeses. Make a rainbow of different colored foods on your child’s plate. Here are a few examples:
+Offer your child a variety of fruits, vegetables, whole grains, meats, and yogurt or cheeses. Make a rainbow of different colored foods on your childaÌ‚â‚¬TMs plate. Here are a few examples:
 
 
 * **Fruits:** bananas, strawberries, pears, oranges, melons, or avocados.
@@ -220,17 +220,29 @@ When your child is between 6 and 12 months old, you can offer your child:
 * **Breast milk** (if you are still breastfeeding) or **infant formula**.
 
 
-Once your child is 12 months old, you can begin offering plain whole cow’s milk or fortified unsweetened soy beverages. Starting at 24 months old, move to low\-fat (1%) or fat\-free dairy milk.
+Once your child is 12 months old, you can begin offering plain whole cowaÌ‚â‚¬TMs milk or fortified unsweetened soy beverages. Starting at 24 months old, move to low\-fat (1%) or fat\-free dairy milk.
 
 
-For ideas on different meals or snacks for your child, visit the [USDA’s MyPlate Recipes](https://www.myplate.gov/myplate-kitchen/recipes) page.
+For ideas on different meals or snacks for your child, visit the [USDAaÌ‚â‚¬TMs MyPlate Recipes](https://www.myplate.gov/myplate-kitchen/recipes) page.
 
 
-![A crawling child](/healthyweight/images/healthy-eating/crawling-child.png)**Children less than 2** should not have any added sugars in their diet.
+![A crawling child](/healthyweight/images/healthy-eating/crawling-child.png)**Children less than 2** should not have any added sugars in their diet.
 
 
-![A smiling boy](/nutrition/infantandtoddlernutrition/images/boy-500px.png?_=62456)**Children 2 – 5 years** have limited room in their diet for foods or beverages with added sugars. Learn more about what foods and drinks young children should [avoid or limit](/nutrition/InfantandToddlerNutrition/foods-and-drinks/foods-and-drinks-to-limit.html).
+![A smiling boy](/nutrition/infantandtoddlernutrition/images/boy-500px.png?_=62456)**Children 2 aÌ‚â‚¬â€œ 5 years** have limited room in their diet for foods or beverages with added sugars. Learn more about what foods and drinks young children should [avoid or limit](/nutrition/InfantandToddlerNutrition/foods-and-drinks/foods-and-drinks-to-limit.html).
 
 
 
 
+
+
+
+
+**Error processing SSI file**  
+
+
+
+
+
+
+ Last Reviewed:

@@ -279,7 +279,7 @@ Close
 ### Molded helmet
 
 
-An infant's skull is easily molded. If necessary, a molding helmet might be used to help shape a baby's head. The helmet is worn at least 23 hours a day during the treatment period � often several months or even longer.
+An infant's skull is easily molded. If necessary, a molding helmet might be used to help shape a baby's head. The helmet is worn at least 23 hours a day during the treatment period aIÌ€â€šaÌ‚â€šÂ¬aÌ‚â‚¬ï¿1⁄2 often several months or even longer.
 
 
 
@@ -302,7 +302,7 @@ If tummy time, frequent position changes or physical therapy doesn't improve hea
 
 
 
-Sometimes an underlying muscular issue � such as torticollis � causes a baby to hold the head tilted to one side. In this case, physical therapy is important to help stretch the affected muscles and allow the baby to change head positions more freely.
+Sometimes an underlying muscular issue aIÌ€â€šaÌ‚â€šÂ¬aÌ‚â‚¬ï¿1⁄2 such as torticollis aIÌ€â€šaÌ‚â€šÂ¬aÌ‚â‚¬ï¿1⁄2 causes a baby to hold the head tilted to one side. In this case, physical therapy is important to help stretch the affected muscles and allow the baby to change head positions more freely.
 
 
 Rarely, two or more of the bony plates in a baby's head join too early. This pushes other parts of the head out of shape as the brain grows. This condition is known as craniosynostosis. Craniosynostosis is typically treated during infancy. To give the brain enough space to grow and develop, surgery is needed to separate the fused bones.
@@ -318,7 +318,7 @@ If you're concerned about your baby's head shape, talk with your baby's health c
 
 
 
-�
+ 
 
 
 

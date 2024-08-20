@@ -60,7 +60,7 @@ How Much and How Often to Feed Infant Formula \| Nutrition \| CDC
 [Skip directly to search](#headerSearch)
 
 
-[Español](/spanish/) \| 
+[EspanIÌ€Æ’ol](/spanish/) \| 
 [Other Languages](https://wwwn.cdc.gov/pubs/other-languages/)
 
 **Error processing SSI file**  
@@ -171,7 +171,7 @@ How Much and How Often to Feed Infant Formula
 =============================================
 
  
-[Español (Spanish)](/nutrition/infantandtoddlernutrition/formula-feeding/cuanto-y-con-que-frecuencia.html) [Print](#print)
+[EspanIÌ€Æ’ol (Spanish)](/nutrition/infantandtoddlernutrition/formula-feeding/cuanto-y-con-que-frecuencia.html) [Print](#print)
 
 
 
@@ -181,26 +181,26 @@ Related Pages
 
 
 
-Every baby is different. How much and how often your baby feeds will depend on your baby’s needs. Here are a few things to know about infant formula feeding during the first days, weeks, and months of your baby’s life.
+Every baby is different. How much and how often your baby feeds will depend on your babyaÌ‚â‚¬TMs needs. Here are a few things to know about infant formula feeding during the first days, weeks, and months of your babyaÌ‚â‚¬TMs life.
 
 
 First Days
 ----------
 
 
-If you have questions about your baby’s growth or how much infant formula he or she is taking, talk with your child’s doctor or nurse.
+If you have questions about your babyaÌ‚â‚¬TMs growth or how much infant formula he or she is taking, talk with your childaÌ‚â‚¬TMs doctor or nurse.
 
 
-If you have questions about your baby’s growth or how much infant formula he or she is taking, talk with your child’s doctor or nurse.
+If you have questions about your babyaÌ‚â‚¬TMs growth or how much infant formula he or she is taking, talk with your childaÌ‚â‚¬TMs doctor or nurse.
 
 
- 
+ 
 
 
 
-* Your newborn baby’s belly is tiny. He or she does not need a lot of infant formula with each feeding to be full.
+* Your newborn babyaÌ‚â‚¬TMs belly is tiny. He or she does not need a lot of infant formula with each feeding to be full.
 * You can start by offering your baby 1 to 2 ounces of infant formula every 2 to 3 hours in the first days of life if your baby is only getting infant formula and no breast milk. Give your baby more if he or she is showing signs of hunger.
-* Most infant formula\-fed newborns will feed 8 to 12 times in 24 hours. Talk with your child’s doctor or nurse about how much infant formula is right for your baby.
+* Most infant formula\-fed newborns will feed 8 to 12 times in 24 hours. Talk with your childaÌ‚â‚¬TMs doctor or nurse about how much infant formula is right for your baby.
 * As your baby grows, his or her belly grows too. Your baby will be able to drink more infant formula at each feeding, and the time between feedings will get longer.
 
 
@@ -208,7 +208,7 @@ First Weeks and Months
 ----------------------
 
 
-Did You Know?![A pediatrician holding a small chalkboard stating, ‘Vitamin D’. If your infant formula fed baby drinks less than 32 ounces of infant formula a day, he or she will need extra vitamin D from supplements.](/nutrition/infantandtoddlernutrition/images/how-much-formula-feed.jpg?_=42600 "how-much-formula-feed")
+Did You Know?![A pediatrician holding a small chalkboard stating, aÌ‚â‚¬ ÌƒVitamin DaÌ‚â‚¬TM. If your infant formula fed baby drinks less than 32 ounces of infant formula a day, he or she will need extra vitamin D from supplements.](/nutrition/infantandtoddlernutrition/images/how-much-formula-feed.jpg?_=42600 "how-much-formula-feed")
 **Some babies need additional [vitamin D](/nutrition/infantandtoddlernutrition/vitamins-minerals/vitamin-d.html).**
 
 
@@ -216,7 +216,7 @@ Babies who are fed breast milk exclusively or who receive both breast milk and i
 
 
 
-* Over the first few weeks and months, the time between feedings will get longer—about every 3 to 4 hours for most infant formula\-fed babies. This means you may need to wake your baby to feed. You can try patting, stroking, undressing, or changing the diaper to help wake your baby to feed.
+* Over the first few weeks and months, the time between feedings will get longeraÌ‚â‚¬â€�about every 3 to 4 hours for most infant formula\-fed babies. This means you may need to wake your baby to feed. You can try patting, stroking, undressing, or changing the diaper to help wake your baby to feed.
 * Some feeding sessions may be long, and other feedings short. That is okay. Babies will generally take what they need at each feeding and stop eating when they are full.
 
 
@@ -232,7 +232,7 @@ Babies who are fed breast milk exclusively or who receive both breast milk and i
 -------------------
 
 
-* When your toddler is 12 months old, you can switch from infant formula to plain whole cow’s milk or fortified unsweetened soy beverage. You can do this gradually. You may want to start by replacing one infant formula feeding with cow’s milk to help your child transition.
+* When your toddler is 12 months old, you can switch from infant formula to plain whole cowaÌ‚â‚¬TMs milk or fortified unsweetened soy beverage. You can do this gradually. You may want to start by replacing one infant formula feeding with cowaÌ‚â‚¬TMs milk to help your child transition.
 
 
 [Top of Page](#)
@@ -240,3 +240,13 @@ Babies who are fed breast milk exclusively or who receive both breast milk and i
 
 
 
+
+
+**Error processing SSI file**  
+
+
+
+
+
+
+ Last Reviewed:

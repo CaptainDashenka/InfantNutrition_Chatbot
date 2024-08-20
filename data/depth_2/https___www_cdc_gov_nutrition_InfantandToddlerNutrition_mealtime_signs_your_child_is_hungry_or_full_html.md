@@ -60,7 +60,7 @@ Signs Your Child is Hungry or Full \| Nutrition \| CDC
 [Skip directly to search](#headerSearch)
 
 
-[Español](/spanish/) \| 
+[EspanIÌ€Æ’ol](/spanish/) \| 
 [Other Languages](https://wwwn.cdc.gov/pubs/other-languages/)
 
 **Error processing SSI file**  
@@ -171,7 +171,7 @@ Signs Your Child is Hungry or Full
 ==================================
 
  
-[Español (Spanish)](/nutrition/infantandtoddlernutrition/mealtime/senales-de-que-su-hijo-tiene-hambre-o-esta-lleno.html) [Print](#print)
+[EspanIÌ€Æ’ol (Spanish)](/nutrition/infantandtoddlernutrition/mealtime/senales-de-que-su-hijo-tiene-hambre-o-esta-lleno.html) [Print](#print)
 
 
 
@@ -181,7 +181,7 @@ Related Pages
 
 
 
-Even before your child can talk, he or she will show signs of hunger or fullness by using sounds and movements. Crying is often a late sign of hunger. Look for other signs of hunger listed below so you can put your child to the breast or bottle while he or she is still calm. As your child gets older, he or she will develop new signs for hunger and fullness. Understanding your child’s signs is important to help you know when and how often to feed your child.
+Even before your child can talk, he or she will show signs of hunger or fullness by using sounds and movements. Crying is often a late sign of hunger. Look for other signs of hunger listed below so you can put your child to the breast or bottle while he or she is still calm. As your child gets older, he or she will develop new signs for hunger and fullness. Understanding your childaÌ‚â‚¬TMs signs is important to help you know when and how often to feed your child.
 
 
 Below are some examples of signs your child may show for hunger and fullness when he or she is a newborn to 5 months old and signs your child may start to show between 6 to 23 months old:
@@ -210,7 +210,7 @@ Your child may be **full** if he or she:
 * Relaxes hands.
 
 
-To learn more about how to tell if your baby is hungry or full, watch [this video](https://players.brightcove.net/6056665225001/default_default/index.html?videoId=6302330977001) from the American Academy of Pediatrics.
+To learn more about how to tell if your baby is hungry or full, watch [this video](https://players.brightcove.net/6056665225001/default_default/index.html?videoId=6302330977001) from the American Academy of Pediatrics.
 
 
 6 to 23 Months Old
@@ -240,10 +240,21 @@ Your child may be **full** if he or she:
 Let your child decide how much he or she wants. Your child does not need to finish a bottle or all of the food in the jar or on the plate. Food is not a good reward or punishment.
 
 
-Talk to your child’s doctor or nurse if you are concerned about how much or how little he or she is eating.
+Talk to your childaÌ‚â‚¬TMs doctor or nurse if you are concerned about how much or how little he or she is eating.
 
 
- [Top of Page](#)
+ [Top of Page](#)
 
 
 
+
+
+
+**Error processing SSI file**  
+
+
+
+
+
+
+ Last Reviewed:

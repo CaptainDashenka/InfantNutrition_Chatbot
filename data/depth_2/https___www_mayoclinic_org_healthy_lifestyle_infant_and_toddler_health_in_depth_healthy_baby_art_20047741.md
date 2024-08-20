@@ -178,7 +178,7 @@ Feeding a newborn is a round\-the\-clock commitment. It's also an opportunity to
 
 
 
-Breast milk is the ideal food for babies � with rare exceptions. If breastfeeding isn't possible, use infant formula. Healthy newborns don't need cereal, water, juice or other fluids.
+Breast milk is the ideal food for babies aIÌ€â€šaÌ‚â€šÂ¬aÌ‚â‚¬ï¿1⁄2 with rare exceptions. If breastfeeding isn't possible, use infant formula. Healthy newborns don't need cereal, water, juice or other fluids.
 
 
 
@@ -187,13 +187,13 @@ Breast milk is the ideal food for babies � with rare exceptions. If breastfeedin
 
 
 
-Most newborns need eight to 12 feedings a day � about one feeding every two to three hours.
+Most newborns need eight to 12 feedings a day aIÌ€â€šaÌ‚â€šÂ¬aÌ‚â‚¬ï¿1⁄2 about one feeding every two to three hours.
 
 
 Look for early signs of readiness to feed. Signs include moving the hands to the mouth, sucking on fists and fingers, and lip smacking. Fussing and crying are later cues. The sooner you begin each feeding, the less likely you'll need to soothe a frantic baby.
 
 
-When your baby stops suckling, closes his or her mouth, or turns away from the nipple or bottle, he or she might be full � or simply taking a break. Try burping your baby or waiting a minute before offering your breast or the bottle again.
+When your baby stops suckling, closes his or her mouth, or turns away from the nipple or bottle, he or she might be full aIÌ€â€šaÌ‚â€šÂ¬aÌ‚â‚¬ï¿1⁄2 or simply taking a break. Try burping your baby or waiting a minute before offering your breast or the bottle again.
 
 
 As your baby gets older, he or she may take in more milk in less time at each feeding.
@@ -205,7 +205,7 @@ As your baby gets older, he or she may take in more milk in less time at each fe
 
 
 
-Ask your baby's doctor about vitamin D supplements for the baby, especially if you're breastfeeding. Breast milk might not provide enough vitamin D, which helps your baby absorb calcium and phosphorus � nutrients necessary for strong bones.
+Ask your baby's doctor about vitamin D supplements for the baby, especially if you're breastfeeding. Breast milk might not provide enough vitamin D, which helps your baby absorb calcium and phosphorus aIÌ€â€šaÌ‚â€šÂ¬aÌ‚â‚¬ï¿1⁄2 nutrients necessary for strong bones.
 
 
 
@@ -214,11 +214,11 @@ Ask your baby's doctor about vitamin D supplements for the baby, especially if y
 
 
 
-Your newborn won't necessarily eat the same amount every day. During growth spurts � often at two to three weeks after birth � your newborn might take more at each feeding or want to be fed more often. Respond to early signs of hunger, rather than keeping a strict eye on the clock.
+Your newborn won't necessarily eat the same amount every day. During growth spurts aIÌ€â€šaÌ‚â€šÂ¬aÌ‚â‚¬ï¿1⁄2 often at two to three weeks after birth aIÌ€â€šaÌ‚â€šÂ¬aÌ‚â‚¬ï¿1⁄2 your newborn might take more at each feeding or want to be fed more often. Respond to early signs of hunger, rather than keeping a strict eye on the clock.
 
 
 
-### 5\. Trust your instincts � and your newborn's
+### 5\. Trust your instincts aIÌ€â€šaÌ‚â€šÂ¬aÌ‚â‚¬ï¿1⁄2 and your newborn's
 
 
 
@@ -258,7 +258,7 @@ If other family members or caretakers will be feeding your baby part of the time
 
 
 
-If you're having trouble breastfeeding, ask a lactation consultant or your baby's doctor for help � especially if every feeding is painful or your baby isn't gaining weight. If you haven't worked with a lactation consultant, ask your baby's doctor for a referral or check with the obstetrics department at a local hospital.
+If you're having trouble breastfeeding, ask a lactation consultant or your baby's doctor for help aIÌ€â€šaÌ‚â€šÂ¬aÌ‚â‚¬ï¿1⁄2 especially if every feeding is painful or your baby isn't gaining weight. If you haven't worked with a lactation consultant, ask your baby's doctor for a referral or check with the obstetrics department at a local hospital.
 
 
 
@@ -268,7 +268,7 @@ If you're having trouble breastfeeding, ask a lactation consultant or your baby'
 
 
 
-�
+ 
 
 
 

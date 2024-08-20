@@ -60,7 +60,7 @@ Breastfeeding and Returning to Your Workplace \| Nutrition \| CDC
 [Skip directly to search](#headerSearch)
 
 
-[Español](/spanish/) \| 
+[EspanIÌ€Æ’ol](/spanish/) \| 
 [Other Languages](https://wwwn.cdc.gov/pubs/other-languages/)
 
 **Error processing SSI file**  
@@ -179,7 +179,7 @@ Related Pages
 
 
 
-Many parents have questions about expressing breast milk when returning to their workplace after having a baby. Whether returning to work from maternity leave or starting a new job after having your baby, you may be working from home, at a work site, or some combination of the two. Below you will find common questions with information and resources to help you prepare to return to your workplace. [The Office on Women’s Health](https://www.womenshealth.gov/breastfeeding/breastfeeding-home-work-and-public/breastfeeding-and-going-back-work) provides more information.
+Many parents have questions about expressing breast milk when returning to their workplace after having a baby. Whether returning to work from maternity leave or starting a new job after having your baby, you may be working from home, at a work site, or some combination of the two. Below you will find common questions with information and resources to help you prepare to return to your workplace. [The Office on WomenaÌ‚â‚¬TMs Health](https://www.womenshealth.gov/breastfeeding/breastfeeding-home-work-and-public/breastfeeding-and-going-back-work) provides more information.
 
 
 What are my rights as a breastfeeding employee?
@@ -190,11 +190,11 @@ What are my rights as a breastfeeding employee?
 [The Providing Urgent Maternal Protections (PUMP) for Nursing Mothers Act](https://www.dol.gov/agencies/whd/pump-at-work), an extension of the Fair Labor Standards Act (FLSA), requires employers to support breastfeeding employees by providing:
 
 
-* A reasonable break time to express breast milk for 1 year after your child’s birth.
+* A reasonable break time to express breast milk for 1 year after your childaÌ‚â‚¬TMs birth.
 * A clean, private, space that is not a bathroom to express breast milk.
 
 
-A few kinds of employees are not covered under this law. For more information, visit the U.S. Department of Labor’s [website](https://www.dol.gov/agencies/whd/pump-at-work).
+A few kinds of employees are not covered under this law. For more information, visit the U.S. Department of LaboraÌ‚â‚¬TMs [website](https://www.dol.gov/agencies/whd/pump-at-work).
 
 
 The PUMP Act protects workers nationwide. Other state and local laws can provide extra protections for lactating employees.
@@ -227,10 +227,10 @@ How should I clean my breast pump kit parts at my workplace?
 ------------------------------------------------------------
 
 
-For best practices on cleaning pump kit parts, visit [CDC’s page on cleaning breast pump parts](/hygiene/childcare/breast-pump.html) and read [CDC’s breast pump FAQs](/hygiene/childcare/breast-pump-cleaning-FAQ.html).
+For best practices on cleaning pump kit parts, visit [CDCaÌ‚â‚¬TMs page on cleaning breast pump parts](/hygiene/childcare/breast-pump.html) and read [CDCaÌ‚â‚¬TMs breast pump FAQs](/hygiene/childcare/breast-pump-cleaning-FAQ.html).
 
 
-What if I don’t have time to wash pump parts or have access to a sink and water to wash parts?
+What if I donaÌ‚â‚¬TMt have time to wash pump parts or have access to a sink and water to wash parts?
 ----------------------------------------------------------------------------------------------
 
 
@@ -238,8 +238,8 @@ Careful cleaning of your breast pump parts after every use is important to preve
 
 
 * Bring multiple breast pump kits to your workplace so that a clean kit can be used for each pumping session. Take used parts home after work and wash them all at once.
-* If you have access to a microwave, rinse parts and then use steam bags made for cleaning breast pump parts. Some pump parts should not be steamed in the microwave, so be sure to check the manufacturer’s instructions.
-* Learn how to [hand express](/nutrition/emergencies-infant-feeding/hand-expression.html) directly into milk collection containers.
+* If you have access to a microwave, rinse parts and then use steam bags made for cleaning breast pump parts. Some pump parts should not be steamed in the microwave, so be sure to check the manufactureraÌ‚â‚¬TMs instructions.
+* Learn how to [hand express](/nutrition/emergencies-infant-feeding/hand-expression.html) directly into milk collection containers.
 
 
 Can I store my pump parts in the refrigerator between pump sessions while at my workplace?
@@ -249,7 +249,7 @@ Can I store my pump parts in the refrigerator between pump sessions while at my 
 The CDC and most breast pump manufacturers recommend cleaning pump parts after every use to help protect babies from germs.
 
 
-More information about storing pump parts in the refrigerator between pumping sessions can be found on [CDC’s FAQ page on breast pump cleaning.](/healthywater/hygiene/healthychildcare/infantfeeding/breast-pump-cleaning-FAQ.html#Breast%20Pump%20Equipment%20Cleaning%20Methods)
+More information about storing pump parts in the refrigerator between pumping sessions can be found on [CDCaÌ‚â‚¬TMs FAQ page on breast pump cleaning.](/healthywater/hygiene/healthychildcare/infantfeeding/breast-pump-cleaning-FAQ.html#Breast%20Pump%20Equipment%20Cleaning%20Methods)
 
 
 Where can I store breast milk at my workplace?
@@ -301,3 +301,13 @@ Learn More:* [Break times and spaces to express milk](https://www.womenshealth.g
 
 
 
+
+
+**Error processing SSI file**  
+
+
+
+
+
+
+ Last Reviewed:

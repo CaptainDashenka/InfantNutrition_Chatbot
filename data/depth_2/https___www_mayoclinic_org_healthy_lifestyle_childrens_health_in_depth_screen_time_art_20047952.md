@@ -3,17 +3,7 @@
 
 
 
- Childhood vaccines: Tough questions, straight answers \- Mayo Clinic
-
-
-
-
-
-
-
-
-
-
+ Screen time and children: How to guide your child \- Mayo Clinic
 
 
 
@@ -139,28 +129,28 @@ Request Appointment](/appointments)
 
 
 
-[Healthy Lifestyle](/healthy-lifestyle)[Infant and toddler health](/healthy-lifestyle/infant-and-toddler-health/basics/infant-and-toddler-health/hlv-20049400)
-=======================================================================================================================
+[Healthy Lifestyle](/healthy-lifestyle)[Children's health](/healthy-lifestyle/childrens-health/basics/childrens-health/hlv-20049425)
+=============================================================================================
 
 
 
-[Print](/healthy-lifestyle/infant-and-toddler-health/in-depth/vaccines/art-20048334?p=1)
+[Print](/healthy-lifestyle/childrens-health/in-depth/screen-time/art-20047952?p=1)
 
 
 
 
 
 [Sections](#)
-1. [Basics](/healthy-lifestyle/infant-and-toddler-health/basics/infant-and-toddler-health/hlv-20049400)
-	1. [Infant and toddler health](/healthy-lifestyle/infant-and-toddler-health/basics/infant-and-toddler-health/hlv-20049400)
-	2. [Newborn health](/healthy-lifestyle/infant-and-toddler-health/basics/newborn-health/hlv-20049400)
-	3. [Infant health](/healthy-lifestyle/infant-and-toddler-health/basics/infant-health/hlv-20049400)
-	4. [Toddler health](/healthy-lifestyle/infant-and-toddler-health/basics/toddler-health/hlv-20049400)
-2. [In\-Depth](/healthy-lifestyle/infant-and-toddler-health/in-depth/hlv-20049400)
-3. [Expert Answers](/healthy-lifestyle/infant-and-toddler-health/expert-answers/hlv-20049400)
-4. [Multimedia](/healthy-lifestyle/infant-and-toddler-health/multimedia/hlv-20049400)
-5. [Resources](/healthy-lifestyle/infant-and-toddler-health/resources/hlv-20049400)
-6. [News From Mayo Clinic](/healthy-lifestyle/infant-and-toddler-health/news/hlv-20049400)
+1. [Basics](/healthy-lifestyle/childrens-health/basics/childrens-health/hlv-20049425)
+	1. [Children's health](/healthy-lifestyle/childrens-health/basics/childrens-health/hlv-20049425)
+	2. [Preschoolers](/healthy-lifestyle/childrens-health/basics/preschoolers/hlv-20049425)
+	3. [Elementary students](/healthy-lifestyle/childrens-health/basics/elementary-students/hlv-20049425)
+2. [In\-Depth](/healthy-lifestyle/childrens-health/in-depth/hlv-20049425)
+3. [Expert Answers](/healthy-lifestyle/childrens-health/expert-answers/hlv-20049425)
+4. [Multimedia](/healthy-lifestyle/childrens-health/multimedia/hlv-20049425)
+5. [Resources](/healthy-lifestyle/childrens-health/resources/hlv-20049425)
+6. [News From Mayo Clinic](/healthy-lifestyle/childrens-health/news/hlv-20049425)
+7. [What's New](/healthy-lifestyle/childrens-health/whats-new/hlv-20049425)
 
 
 
@@ -178,130 +168,114 @@ Request Appointment](/appointments)
 
 
 
-Childhood vaccines: Tough questions, straight answers
------------------------------------------------------
+Screen time and children: How to guide your child
+-------------------------------------------------
 
-*Do vaccines cause autism? Is it OK to skip certain vaccines? Get the facts on these and other common questions.*[By Mayo Clinic Staff](/about-this-site/meet-our-medical-editors)
+[By Mayo Clinic Staff](/about-this-site/meet-our-medical-editors)
 
 
-Part of taking care of kids is setting them up for a healthy future. Vaccines play a big part in health.
+With screens virtually everywhere, monitoring a child's screen time can be challenging. To complicate matters, some screen time can be educational and support children's social development. So how do you manage your child's screen time? Here's a primer on guiding your child's use of screens and media.
 
 
-Vaccines for illnesses such as diphtheria, rotavirus, polio, tetanus, whooping cough, also called pertussis, and others are given in the first year of life. If these diseases seem uncommon it's because vaccines are doing their job.
 
+### The problems with screens
 
-Still, you might wonder about the benefits and risks of childhood vaccines. Here are answers to some common questions about childhood vaccines.
 
 
 
-### Is natural immunity better than vaccination?
+Too much screen time and regular exposure to poor\-quality programming has been linked to:
 
 
+* Obesity
+* Inadequate sleep schedules and insufficient sleep
+* Behavior problems
+* Delays in language and social skills development
+* Violence
+* Attention problems
+* Less time learning
 
 
-No. In general, it is better to prevent sickness by getting vaccinated rather than getting an infection.
+Keep in mind that unstructured playtime is more valuable for a young child's developing brain than is electronic media. Children younger than age 2 are more likely to learn when they interact and play with parents, siblings, and other children and adults.
 
 
-Getting infected with a germ may provide some people with a longer lasting immune response but at higher risk. For example, getting a Haemophilus influenzae type b (Hib) bacterial infection could lead to permanent deafness, brain damage or even death.
+By age 2, children may benefit from some types of screen time, such as programming with music, movement and stories. By watching together, you can help your child understand what he or he is seeing and apply it in real life. However, passive screen time shouldn't replace reading, playing or problem\-solving.
 
 
-Childhood vaccines protect kids from serious diseases and complications. Vaccines also lower the chance of spreading a disease.
 
+### Developing screen time rules
 
 
-### Do vaccines cause autism?
 
 
+The American Academy of Pediatrics discourages media use, except for video chatting, by children younger than 18 months. If you introduce digital media to children ages 18 to 24 months, make sure it's high quality and avoid solo media use. For children ages 2 to 5, limit screen time to one hour a day of high\-quality programming.
 
 
-No. Vaccines do not cause autism. Researchers haven't found a connection between autism and childhood vaccines. The original study that ignited the controversy in 1998 was removed from the scientific record, also called retracted, in 2010\.
+As your child grows, a one\-size\-fits\-all approach doesn't work as well. You'll need to decide how much media to let your child use each day and what's appropriate.
 
 
+Consider applying the same rules to your child's real and virtual environments. In both, play with your child, teach kindness, be involved, and know your child's friends and what your child does with them. Also, keep in mind that the quality of the media your child is exposed to is more important than the type of technology or amount of time spent.
 
-### Are vaccine side effects dangerous?
 
+To ensure quality screen time:
 
 
+* Preview programs, games and apps before allowing your child to view or play with them. Organizations such as Common Sense Media has programming ratings and reviews to help you determine what's appropriate for your child's age. Better yet, watch, play or use them with your child.
+* Seek out interactive options that engage your child, rather than those that just require pushing and swiping or staring at the screen.
+* Use parental controls to block or filter internet content.
+* Make sure your child is close by during screen time so that you can supervise his or her activities.
+* Ask your child regularly what programs, games and apps he or she has played with during the day.
+* When watching programming with your child, discuss what you're watching and educate your child about advertising and commercials.
 
-Most vaccine side effects are not dangerous. Any medicine, including vaccines, can cause side effects. Most of the time, these side effects are minor. Some examples are a low\-grade fever, headache, fussiness or soreness at the injection site.
 
+Also, avoid fast\-paced programming, which young children have a hard time understanding, violent content and apps with a lot of distracting content. Eliminate advertising on apps, since young children have trouble telling the difference between ads and factual information.
 
-Rarely, a child might experience a severe side effect, such as an allergic reaction or a seizure. These are rare side effects, and caregivers and health care providers monitor for them after vaccination.
 
 
-Of course, vaccines aren't given to children who have known allergies to specific parts of the vaccine. And if your child has a life\-threatening reaction to one vaccine, further doses of that vaccine won't be given.
+### Setting limits for older children
 
 
-The risk of a vaccine causing serious harm or death is very small. The benefits of getting a vaccine are much greater than the possible side effects for almost all children.
 
 
+Establish clear rules and set reasonable limits for your child's use of digital media. Consider these tips:
 
-### Why are vaccines given so early?
 
+* Encourage unplugged, unstructured playtime.
+* Create tech\-free zones or times, such as during mealtime or one night a week.
+* Discourage use of media entertainment during homework.
+* Set and enforce daily or weekly screen time limits and curfews, such as no exposure to devices or screens one hour before bedtime.
+* Consider using apps that control the length of time a child can use a device.
+* Keep screens out of your child's bedroom and consider requiring your children to charge their devices outside of their bedrooms at night.
+* Eliminate background TV.
 
 
 
-Most babies are born with developing immune systems. Vaccination makes sure a baby has as much protection from disease and disease complications as is safely possible. It also helps prevent babies and children from spreading illness to others.
+### Encouraging digital literacy
 
 
-Vaccines for children are timed carefully. Vaccines are given when protection inherited from the mother fades and the child's immune system is ready, but before kids come in contact with the germs that cause real infections.
 
 
+At some point your child will be exposed to content that you haven't approved and devices without internet filters. Talk to your child about the situations that could occur and the behavior you expect.
 
-### Is it OK to pick and choose vaccines?
 
+Encourage your child to think critically about what they see on their screens. Ask your child to consider whether everything on the internet is accurate. Does your child know how to tell if a website is trustworthy? Help your child understand that media are made by humans with points of view. Explain that many types of technology collect data to send users ads or to make money.
 
 
 
-It's not a good idea to skip some vaccines. That leaves your child without protection. It allows a child to spread disease to others. For some children, such as kids being treated for cancer, their main protection from disease is the immunity of the people around them.
+### Teaching appropriate behavior
 
 
-And because diseases are still spreading in many parts of the world, skipping vaccines puts your child at risk in the future.
 
 
-If you are worried about a certain vaccine, talk about your concerns with your child's health care provider. If your child falls behind the standard vaccine schedule, ask your child's health care provider how to catch up.
+Online relationships and social media have become a major part of adolescent life. Experts suggest that it's OK for your teen to be a part of these worlds aIÌ€â€šaÌ‚â€šÂ¬aÌ‚â‚¬ï¿1⁄2 as long as your child understands appropriate behavior. Explain what's allowed and what's not, such as sexting, cyberbullying and sharing personal information online. Teach your child not to send or share anything online that he or she would not want the entire world to see for eternity.
 
 
-[Have more questions? Read the vaccine guidance from Mayo Clinic.](/diseases-conditions/infectious-diseases/in-depth/vaccine-guidance/art-20536857)
+No matter how smart or mature you feel your child is, monitor his or her online and social media behavior. Your child is bound to make mistakes using media. Talk to your child and help him or her learn from them.
 
 
+Also, set a good example. Consider that your child is watching you for cues on when it's OK to use screens and how to use them.
 
-#### Mayo Clinic Minute: Why and when children should be vaccinated
 
-
-
-
-
-
-
-
-
-Show transcript for video Mayo Clinic Minute: Why and when children should be vaccinated
-
-**Elizabeth Cozine, M.D.:** Vaccination prevents a child from getting an illness. It also prevents them from spreading an illness.
-
-
-**Jason Howland:** Dr. Elizabeth Cozine, a Mayo Clinic family physician, says the Centers for Disease Control and Prevention has a standard immunization schedule for school\-age children that begins with ages 4 to 6\.
-
-
-**Dr. Cozine:**...which we think of as kindergarten shots. So that's measles, mumps, rubella and varicella.
-
-
-**Jason Howland:** She says the next set of routine immunizations is at age 11...
-
-
-**Dr. Cozine:**...which is tetanus, diphtheria and pertussis, and the meningococcal immunization.
-
-
-**Jason Howland:** It's also recommended every child get an annual flu shot. And HPV vaccination, which prevents cancer, can start as early as age 9\. Dr. Cozine says it's important to educate families on the importance of childhood vaccinations. She likens it to seat belt safety.
-
-
-**Dr. Cozine:** Immunizations are no different. If we have opportunities to protect our children against serious illness and potentially even death, even if the risk of that illness or the risk of death from that illness is really quite low, I'm all for it.
-
-
-**Jason Howland:** For the Mayo Clinic News Network, I'm Jason Howland.
-
-
+You'll likely need to continue to guide, manage and monitor your child's use of screens and media as he or she grows. But by developing household rules aIÌ€â€šaÌ‚â€šÂ¬aÌ‚â‚¬ï¿1⁄2 and revisiting them as your child grows aIÌ€â€šaÌ‚â€šÂ¬aÌ‚â‚¬ï¿1⁄2 you can help ensure a safe experience.
 
 
 

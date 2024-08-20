@@ -3,15 +3,7 @@
 
 
 
- Common baby rashes \- Mayo Clinic
-
-
-
-
-
-
-
-
+ Pregnancy week by week Healthy pregnancy \- Mayo Clinic
 
 
 
@@ -130,31 +122,44 @@ Request Appointment](/appointments)
 
 
 
-[Healthy Lifestyle](/healthy-lifestyle)[Infant and toddler health](/healthy-lifestyle/infant-and-toddler-health/basics/infant-and-toddler-health/hlv-20049400)
-=======================================================================================================================
+[Healthy Lifestyle](/healthy-lifestyle)[Pregnancy week by week](/healthy-lifestyle/pregnancy-week-by-week/basics/healthy-pregnancy/hlv-20049471)
+=========================================================================================================
 
 
 
-[Print](/healthy-lifestyle/infant-and-toddler-health/in-depth/baby-rashes/art-20546833?p=1)
+[Print](/healthy-lifestyle/pregnancy-week-by-week/basics/healthy-pregnancy/hlv-20049471?p=1)
 
 
 
 
 
 [Sections](#)
-1. [Basics](/healthy-lifestyle/infant-and-toddler-health/basics/infant-and-toddler-health/hlv-20049400)
-	1. [Infant and toddler health](/healthy-lifestyle/infant-and-toddler-health/basics/infant-and-toddler-health/hlv-20049400)
-	2. [Newborn health](/healthy-lifestyle/infant-and-toddler-health/basics/newborn-health/hlv-20049400)
-	3. [Infant health](/healthy-lifestyle/infant-and-toddler-health/basics/infant-health/hlv-20049400)
-	4. [Toddler health](/healthy-lifestyle/infant-and-toddler-health/basics/toddler-health/hlv-20049400)
-2. [In\-Depth](/healthy-lifestyle/infant-and-toddler-health/in-depth/hlv-20049400)
-3. [Expert Answers](/healthy-lifestyle/infant-and-toddler-health/expert-answers/hlv-20049400)
-4. [Multimedia](/healthy-lifestyle/infant-and-toddler-health/multimedia/hlv-20049400)
-5. [Resources](/healthy-lifestyle/infant-and-toddler-health/resources/hlv-20049400)
-6. [News From Mayo Clinic](/healthy-lifestyle/infant-and-toddler-health/news/hlv-20049400)
+1. [Basics](/healthy-lifestyle/pregnancy-week-by-week/basics/healthy-pregnancy/hlv-20049471)
+	1. [Healthy pregnancy](/healthy-lifestyle/pregnancy-week-by-week/basics/healthy-pregnancy/hlv-20049471)
+	2. [First trimester](/healthy-lifestyle/pregnancy-week-by-week/basics/first-trimester/hlv-20049471)
+	3. [Second trimester](/healthy-lifestyle/pregnancy-week-by-week/basics/second-trimester/hlv-20049471)
+	4. [Third trimester](/healthy-lifestyle/pregnancy-week-by-week/basics/third-trimester/hlv-20049471)
+	5. [Pregnancy problems](/healthy-lifestyle/pregnancy-week-by-week/basics/pregnancy-problems/hlv-20049471)
+2. [In\-Depth](/healthy-lifestyle/pregnancy-week-by-week/in-depth/hlv-20049471)
+3. [Expert Answers](/healthy-lifestyle/pregnancy-week-by-week/expert-answers/hlv-20049471)
+4. [Multimedia](/healthy-lifestyle/pregnancy-week-by-week/multimedia/hlv-20049471)
+5. [Resources](/healthy-lifestyle/pregnancy-week-by-week/resources/hlv-20049471)
+6. [News From Mayo Clinic](/healthy-lifestyle/pregnancy-week-by-week/news/hlv-20049471)
+7. [What's New](/healthy-lifestyle/pregnancy-week-by-week/whats-new/hlv-20049471)
 
 
 
+
+
+
+
+
+
+1. [Healthy pregnancy](/healthy-lifestyle/pregnancy-week-by-week/basics/healthy-pregnancy/hlv-20049471)
+2. [First trimester](/healthy-lifestyle/pregnancy-week-by-week/basics/first-trimester/hlv-20049471)
+3. [Second trimester](/healthy-lifestyle/pregnancy-week-by-week/basics/second-trimester/hlv-20049471)
+4. [Third trimester](/healthy-lifestyle/pregnancy-week-by-week/basics/third-trimester/hlv-20049471)
+5. [Pregnancy problems](/healthy-lifestyle/pregnancy-week-by-week/basics/pregnancy-problems/hlv-20049471)
 
 
 
@@ -169,247 +174,229 @@ Request Appointment](/appointments)
 
 
 
+Healthy pregnancy
+-----------------
 
+[By Mayo Clinic Staff](/about-this-site/meet-our-medical-editors)
 
-Common baby rashes
-------------------
 
+When you find out you're pregnant, you might begin planning your pregnancy week by week. Every day you might have more questions about a healthy pregnancy. What should you eat? Can you exercise? What type of prenatal tests do you need?
 
 
+If you're carrying twins or other multiples, you might have even more questions. How much weight should you gain? How can you prevent preterm labor? Will you need bed rest?
 
-Related Information
--------------------
 
+Whatever your questions, understanding pregnancy as the weeks and months go by can help you make good choices throughout your pregnancy. Learn nutrition do's and don'ts. Get the basics on other healthy pregnancy issues, such as exercise, back pain and sex. The more you know about what to expect, the more prepared you'll be to face what lies ahead.
 
-* [Diaper rash \- Related InformationDiaper rash](/diseases-conditions/diaper-rash/symptoms-causes/syc-20371636)
-* [How to treat baby eczema \- Related InformationHow to treat baby eczema](/diseases-conditions/atopic-dermatitis-eczema/expert-answers/baby-eczema/faq-20450999)
-* [Baby acne \- Related InformationBaby acne](/diseases-conditions/baby-acne/symptoms-causes/syc-20369880)
-* [Baby bath basics: A parent's guide \- Related InformationBaby bath basics: A parent's guide](/healthy-lifestyle/infant-and-toddler-health/in-depth/healthy-baby/art-20044438)
 
 
 
 
-You may expect your baby's skin to be flawless, but rashes and other skin conditions are common at this age. Most often baby rashes can be managed by careful attention to bathing, moisturizers and the baby's environment.
 
 
-But no matter what you do, baby rashes can still show up. Here are a few of the most common baby rashes and how to manage them.
 
 
+  
+ 
 
-### Starting at the top: Cradle cap
 
 
 
+There is a problem with
+ information submitted for this request. Review/update the
+ information highlighted below and resubmit the form.
 
-Cradle cap appears as scaliness that may be red on white skin or a lighter patch on darker skin. In some babies, cradle cap looks like dandruff, or it might be a crusty patch that seems thick or oily.
 
 
-These patches are common from birth to a few months after and usually clear up without special treatment. But talk to your baby's healthcare professional if you notice that:
+From Mayo Clinic to your inbox
+------------------------------
 
 
-* The patches aren't going away.
-* The scalp looks more inflamed.
-* New patches show up on other parts of the baby's body.
+Sign up for free and stay up to date on research advancements, health tips, current health topics, and expertise on managing health. [Click here for an email preview.](https://links.e.response.mayoclinic.org/EmailPreview-GeneralHealth)
 
 
-You might need a medicine to help clear the skin condition.
 
 
-In the meantime, wash your baby's hair with mild baby shampoo and loosen the scales with a small, soft\-bristled brush. For stubborn scales, rub a few drops of mineral oil onto your baby's scalp, wait a few minutes, and then gently brush and shampoo your baby's hair.
 
 
 
-![Photo of cradle cap](/-/media/kcms/gbs/patient-consumer/images/2024/03/28/14/18/1cradle-cap-6col-001.jpg )
 
 
-### Baby face bumps: Milia
 
 
 
 
-Many babies are born with tiny white bumps that appear most often on the nose, chin or cheeks. These bumps are called milia and they usually go away on their own.
 
+Email
 
-Washing a baby's face once a day with gentle soap can help clear up milia. But don't try to squeeze these bumps or use any skin products on them. That may be painful and cause skin irritation.
 
 
+ Address 1
 
-![Photo of milia](/-/media/kcms/gbs/patient-consumer/images/2024/03/28/14/18/2baby-milia-6col-001.jpg )
 
 
-### Teenage preview: Baby acne
+ErrorEmail field is required
 
 
+ErrorInclude a valid email address
 
 
-Baby acne appears as red or white bumps on a baby's upper body. Pimples may be seen on the back or chest, as well as commonly on the cheeks and forehead.
 
+Learn more about Mayo ClinicaIÌ€â€šaÌ‚â€šÂ¬TMs use of data.
 
-These spots often show up within the first month after birth. The acne most often goes away on its own after a couple of months. It typically doesn't leave any scarring.
+To provide you with the most relevant and helpful information, and understand which
+ information is beneficial, we may combine your email and website usage information with
+ other information we have about you. If you are a Mayo Clinic patient, this could
+ include protected health information. If we combine this information with your protected
+ health information, we will treat all of that information as protected health
+ information and will only use or disclose that information as set forth in our notice of
+ privacy practices. You may opt\-out of email communications at any time by clicking on
+ the unsubscribe link in the e\-mail.
 
 
-To help get rid of the acne, wash your baby's face once a day with water and a mild soap. Just as with other forms of acne, never try to pop the pimples. If the acne doesn't go away after a few months, bring it up at your baby's well child visit.
 
 
+Subscribe!
 
-![Photo of baby acne](/-/media/kcms/gbs/patient-consumer/images/2024/03/28/14/18/3baby-acne-6col-001.jpg )
 
 
-### Temperature rising: Heat rash
 
+### Thank you for subscribing!
 
 
+You'll soon start receiving the latest Mayo Clinic health information you requested in your inbox.
 
-When a baby overheats, due to the temperature or fever for example, you may see a rash on the baby's upper body. The rash may appear quickly and show up as clear or red raised bumps on your baby's skin.
 
 
-Once the baby cools down, the rash usually disappears on its own.
 
+### Sorry something went wrong with your subscription
 
-In general, babies aren't very good at sweating yet so they can overheat more easily than an adult. To prevent heat rash in hot weather, dress your baby in cool, lightweight clothing.
 
+Please, try again in a couple of minutes
 
-In cold weather, dress your baby in layers so that you can remove items if the temperature rises.
 
 
+Retry
 
-![Photo of heat rash](/-/media/kcms/gbs/patient-consumer/images/2024/03/28/14/18/4baby-heat-rash-6col-001.jpg )
 
 
-### Itchy skin: Baby eczema
 
 
 
 
-Patches of skin that are dry, scaly, itchy, and red or purplish, depending on skin color, may be a common type of skin rash called eczema.
 
 
-In babies a common form of eczema affects the face, scalp, and the arms and legs.
 
 
-To treat baby eczema, keep the skin from drying out and avoid things that irritate the baby's skin:
 
 
-* When bathing, use a gentle soap and pat the baby's skin dry.
-* After bathing and regularly, use moisturizing products made for sensitive skin. This is especially important during cold weather.
-* Avoid chemicals or fabrics that cause irritation. Examples are soaps, detergents or types of fabrics, such as wool or synthetic materials.
-* Keep the baby's room cool and make sure there's good air flow.
 
 
- Talk to your baby's healthcare professional if the rash doesn't improve or gets worse. Medicines can treat eczema, but often the first thing to try is moisturizing.
 
 
 
-![Baby eczema](/-/media/kcms/gbs/patient-consumer/images/2024/03/28/14/18/5baby-eczema-6col-001.jpg )
 
 
-### Ending at the Bottom: Diaper rash
+* [First trimester](/healthy-lifestyle/pregnancy-week-by-week/basics/first-trimester/hlv-20049471)
 
 
+* [Share](https://www.facebook.com/sharer.php?u=https://www.mayoclinic.org/healthy-lifestyle/pregnancy-week-by-week/basics/healthy-pregnancy/hlv-20049471)
+* [Tweet](http://twitter.com/intent/tweet?url=https://www.mayoclinic.org/healthy-lifestyle/pregnancy-week-by-week/basics/healthy-pregnancy/hlv-20049471&text=Pregnancy+week+by+week+Healthy+pregnancy)
 
-
-Diaper rash appears in the area covered by a diaper and where the diaper sits on the baby's thighs. The rash is usually red or purplish, depending on skin color, and may be tender or itchy. In serious cases, the skin can look eroded, like a sore.
-
-
-Diaper rash is often caused when a baby's skin is in contact with urine or stool for too long. A rash in skin creases, where skin touches skin, may be from contact with stool or urine, or may be due to a fungal infection.
-
-
-The rash is more likely if the diaper doesn't fit well and rubs the baby's skin. Diaper rash also is more likely if you use wipes or lotions that dry out the skin. Babies who have loose stool are at a higher risk as well. And some babies just are more prone to diaper rash regardless of how often they're changed.
-
-
-To treat diaper rash, air out your baby's bottom. When you wash the area, use warm water and a soft cloth. Pat the area dry to avoid irritating the skin even more.
-
-
-Diaper rash creams or ointments may be used at each diaper change. If you use one of these products, really cover the area thickly.
-
-
-And you need to remove only the soiled layer of cream during diaper changes to avoid rubbing and further irritating the skin.
-
-
-To prevent extra irritation, avoid products with ingredients that could cause an allergic reaction, such as fragrances. And make sure to buy a product made for babies. It will be less likely to contain ingredients that might cause health problems such as salicylates, phenol, benzocaine, camphor or boric acid.
-
-
-Avoid powders such as corn starch, talcum, baking soda or boric acid. These powders can cause problems if breathed in or if the baby's skin absorbs the powder.
-
-
-Talk to your baby's healthcare professional if the rash doesn't improve or gets worse.
-
-
-To prevent diaper rash, change your baby's diaper frequently, let your baby go without a diaper for short periods of time, and clean your baby's diaper area with water and a soft cloth.
-
-
-
-![Photo of diaper rash](/-/media/kcms/gbs/patient-consumer/images/2024/03/28/14/18/6diaper-rash-6col-002.jpg )
-
-
-### Caring for your baby's skin from top to bottom
-
-
-
-
-The common baby rashes are all part of your baby getting used to the world. But a baby's skin requires a bit of extra care. Babies don't sweat as well as adults. And a baby's skin is thinner and more likely to get a sunburn. For these reasons, a baby's skin is more likely to react than adult skin to things such as heat, skin products or chemicals in clothing.
-
-
-One of the most important ways to help your baby's skin is to find safe products. The ingredients in any skin product will be absorbed through the baby's skin. It's a good idea to use as few products as possible and read the ingredient labels.
-
-
-
-
-
-
-
-
-
-* [Share](https://www.facebook.com/sharer.php?u=https://www.mayoclinic.org/healthy-lifestyle/infant-and-toddler-health/in-depth/baby-rashes/art-20546833)
-* [Tweet](http://twitter.com/intent/tweet?url=https://www.mayoclinic.org/healthy-lifestyle/infant-and-toddler-health/in-depth/baby-rashes/art-20546833&text=When+to+worry+about+a+baby%27s+rash)
-
-March 29, 2024
+Nov. 04, 2022
 Show references
-1. Cook WJ, et al., eds. Mayo Clinic Guide to Your Baby's First Years: Newborn to Age 3\. Mayo Clinic Press; 2020\.
-2. Cohen, BA, et al., eds. Neonatal dermatology. In: Pediatric Dermatology. 5th ed. Elsevier; 2022\. https://www.clinicalkey.com. Accessed Feb. 8, 2024\.
-3. Kliegman RM, et al., eds. Nelson Textbook of Pediatrics. 21st ed. Elsevier; 2022\. https://www.clinicalkey.com. Accessed Feb. 8, 2024\.
-4. AskMayoExpert. Atopic dermatitis. Mayo Clinic. 2023\.
-5. AskMayoExpert. Diaper dermatitis. Mayo Clinic. 2024\.
-6. Horii, KA. Diaper dermatitis. https://www.uptodate.com/contents/search. Accessed Feb. 8, 2024\.
+1. Bastian LA, et al. Clinical manifestations and diagnosis of early pregnancy. https://www.uptodate.com/contents/search. Accessed Oct. 18, 2022\.
+2. Lockwood CJ, et al. Prenatal care: Second and third trimesters. https://www.uptodate.com/contents/search. Accessed Oct. 18, 2022\.
+3. Prenatal care and tests. Office on Women's Health. https://www.womenshealth.gov/pregnancy/youre\-pregnant\-now\-what/prenatal\-care\-and\-tests. Accessed Oct. 18, 2022\.
+4. Chasen ST. Twin pregnancy: Routine prenatal care. https://www.uptodate.com/contents/search. Accessed Oct. 18, 2022\.
+5. Lockwood CJ, et al. Prenatal care: Patient education, health promotion, and safety of commonly used drugs. https://www.uptodate.com/contents/search. Accessed Oct. 18, 2022\.
+6. Stages of pregnancy. Office on Women's Health. https://www.womenshealth.gov/pregnancy/youre\-pregnant\-now\-what/stages\-pregnancy. Accessed Oct. 18, 2022\.
 
 
 
 
-[See more In\-depth](/healthy-lifestyle/infant-and-toddler-health/basics/infant-and-toddler-health/hlv-20049400)
 
 Products and Services
 ---------------------
 
-1. [A Book: Mayo Clinic Guide to Your Baby's First Years](https://order.store.mayoclinic.com/books/GNWEB16?utm_source=MC-DotOrg-PS&utm_medium=Link&utm_campaign=Baby-Book&utm_content=BFY)
+1. [Available Solutions for Prenatal Nutrition from Mayo Clinic Store](https://store.mayoclinic.com/health/nursing-feeding.html?utm_source=dc&utm_medium=link&utm_campaign=nursing)
+2. [Available Compression Products from Mayo Clinic Store](https://store.mayoclinic.com/compression.html?utm_source=dc&utm_medium=link&utm_campaign=compression)
+3. [Assortment of Compression Products at Mayo Clinic Store](https://store.mayoclinic.com/compression.html?utm_source=dc&utm_medium=link&utm_campaign=compression)
+4. [A Book: Mayo Clinic Guide to a Healthy Pregnancy](https://order.store.mayoclinic.com/flex/mmv/PREG3GD/?altkey=PRGORG&utm_source=MC-DotOrg-PS&utm_medium=Link&utm_campaign=Pregnancy-Book&utm_content=PREG)
 
 
 
 See also
 --------
 
-1. [Air travel with infant](/healthy-lifestyle/infant-and-toddler-health/expert-answers/air-travel-with-infant/faq-20058539)
-2. [Baby fat](/healthy-lifestyle/infant-and-toddler-health/expert-answers/baby-fat/faq-20058296)
-3. [Baby naps](/healthy-lifestyle/infant-and-toddler-health/in-depth/baby-naps/art-20047421)
-4. [Baby poop: What to expect](/healthy-lifestyle/infant-and-toddler-health/expert-answers/baby-poop/faq-20057971)
-5. [Birthmarks](/diseases-conditions/hemangioma/in-depth/birthmarks/art-20546823)
-6. [Breastfeeding and alcohol](/healthy-lifestyle/infant-and-toddler-health/expert-answers/breast-feeding-and-alcohol/faq-20057985)
-7. [Breastfeeding and medications](/healthy-lifestyle/infant-and-toddler-health/in-depth/breastfeeding-and-medications/art-20043975)
-8. [Breastfeeding nutrition: Tips for moms](/healthy-lifestyle/infant-and-toddler-health/in-depth/breastfeeding-nutrition/art-20046912)
-9. [Breastfeeding positions](/healthy-lifestyle/infant-and-toddler-health/in-depth/breast-feeding/art-20546815)
-10. [Breastfeeding strike](/healthy-lifestyle/infant-and-toddler-health/expert-answers/breastfeeding-strike/faq-20058157)
-11. [Crying baby](/healthy-lifestyle/infant-and-toddler-health/in-depth/healthy-baby/art-20043859)
-12. [Baby sleep](/healthy-lifestyle/infant-and-toddler-health/in-depth/baby-sleep/art-20045014)
-13. [Infant constipation](/healthy-lifestyle/infant-and-toddler-health/expert-answers/infant-constipation/faq-20058519)
-14. [Infant development: Milestones from 10 to 12 months](/healthy-lifestyle/infant-and-toddler-health/in-depth/infant-development/art-20047380)
-15. [Infant development: Ages 4 to 6 months](/healthy-lifestyle/infant-and-toddler-health/in-depth/infant-development/art-20048178)
-16. [Infant development: Ages 7 to 9 months](/healthy-lifestyle/infant-and-toddler-health/in-depth/infant-development/art-20047086)
-17. [Infant formula preparation](/healthy-lifestyle/infant-and-toddler-health/in-depth/infant-formula/art-20045791)
-18. [Infant growth rates](/healthy-lifestyle/infant-and-toddler-health/expert-answers/infant-growth/faq-20058037)
-19. [Sick baby?](/healthy-lifestyle/infant-and-toddler-health/in-depth/healthy-baby/art-20047793)
-20. [Babies and solid foods](/healthy-lifestyle/infant-and-toddler-health/in-depth/healthy-baby/art-20046200)
-21. [Spitting up in babies](/healthy-lifestyle/infant-and-toddler-health/in-depth/healthy-baby/art-20044329)
-22. [Teething: Tips for soothing sore gums](/healthy-lifestyle/infant-and-toddler-health/in-depth/teething/art-20046378)
-23. [Vitamin D for babies](/healthy-lifestyle/infant-and-toddler-health/expert-answers/vitamin-d-for-babies/faq-20058161)
+1. [1st trimester pregnancy](/healthy-lifestyle/pregnancy-week-by-week/in-depth/pregnancy/art-20047208)
+2. [Second trimester pregnancy](/healthy-lifestyle/pregnancy-week-by-week/in-depth/pregnancy/art-20047732)
+3. [3rd trimester pregnancy](/healthy-lifestyle/pregnancy-week-by-week/in-depth/pregnancy/art-20046767)
+4. [Air travel during pregnancy](/healthy-lifestyle/pregnancy-week-by-week/expert-answers/air-travel-during-pregnancy/faq-20058087)
+5. [Allergy medications during pregnancy](/healthy-lifestyle/pregnancy-week-by-week/expert-answers/allergy-medications/faq-20058122)
+6. [Ankle swelling during pregnancy](/healthy-lifestyle/pregnancy-week-by-week/expert-answers/swelling-during-pregnancy/faq-20058467)
+7. [Antibiotics and pregnancy](/healthy-lifestyle/pregnancy-week-by-week/expert-answers/antibiotics-and-pregnancy/faq-20058542)
+8. [Antidepressants and pregnancy](/healthy-lifestyle/pregnancy-week-by-week/in-depth/antidepressants/art-20046420)
+9. [Aspirin during pregnancy](/healthy-lifestyle/pregnancy-week-by-week/expert-answers/aspirin-during-pregnancy/faq-20058167)
+10. [Pregnancy back pain](/healthy-lifestyle/pregnancy-week-by-week/in-depth/pregnancy/art-20046080)
+11. [Pregnancy bed rest](/healthy-lifestyle/pregnancy-week-by-week/in-depth/pregnancy/art-20048007)
+12. [Can birth control pills cause birth defects?](/healthy-lifestyle/pregnancy-week-by-week/expert-answers/birth-control-pills/faq-20058376)
+13. [Blighted ovum: What causes it?](/diseases-conditions/pregnancy-loss-miscarriage/expert-answers/blighted-ovum/faq-20057783)
+14. [Ovulation](/diseases-conditions/mittelschmerz/symptoms-causes/syc-20375122)
+15. [Cervical length](/healthy-lifestyle/pregnancy-week-by-week/expert-answers/cervical-length/faq-20058357)
+16. [Chickenpox and pregnancy](/healthy-lifestyle/pregnancy-week-by-week/expert-answers/chickenpox-and-pregnancy/faq-20057886)
+17. [Depression during pregnancy](/healthy-lifestyle/pregnancy-week-by-week/in-depth/depression-during-pregnancy/art-20237875)
+18. [Miscarriage and stress](/healthy-lifestyle/pregnancy-week-by-week/expert-answers/early-miscarriage/faq-20058214)
+19. [Epilepsy and pregnancy](/healthy-lifestyle/pregnancy-week-by-week/in-depth/pregnancy/art-20048417)
+20. [Falling during pregnancy: Reason to worry?](/healthy-lifestyle/pregnancy-week-by-week/expert-answers/fall-during-pregnancy/faq-20119023)
+21. [Fetal development 2nd trimester](/healthy-lifestyle/pregnancy-week-by-week/in-depth/fetal-development/art-20046151)
+22. [Fetal development: The 1st trimester](/healthy-lifestyle/pregnancy-week-by-week/in-depth/prenatal-care/art-20045302)
+23. [Fetal development: The 3rd trimester](/healthy-lifestyle/pregnancy-week-by-week/in-depth/fetal-development/art-20045997)
+24. [Fetal presentation before birth](/healthy-lifestyle/pregnancy-week-by-week/in-depth/fetal-positions/art-20546850)
+25. [Fetal ultrasound](/healthy-lifestyle/pregnancy-week-by-week/in-depth/fetal-ultrasound/art-20546827)
+26. [Flu shot in pregnancy](/healthy-lifestyle/pregnancy-week-by-week/expert-answers/influenza/faq-20058522)
+27. [Fundal height and fetal growth](/healthy-lifestyle/pregnancy-week-by-week/expert-answers/fundal-height/faq-20057962)
+28. [Headaches during pregnancy: What's the best treatment?](/healthy-lifestyle/pregnancy-week-by-week/expert-answers/headaches-during-pregnancy/faq-20058265)
+29. [Heart conditions and pregnancy](/healthy-lifestyle/pregnancy-week-by-week/in-depth/pregnancy/art-20045977)
+30. [Hemorrhoids during pregnancy](/healthy-lifestyle/pregnancy-week-by-week/expert-answers/hemorrhoids-during-pregnancy/faq-20058149)
+31. [High blood pressure and pregnancy](/healthy-lifestyle/pregnancy-week-by-week/in-depth/pregnancy/art-20046098)
+32. [High\-risk pregnancy](/healthy-lifestyle/pregnancy-week-by-week/in-depth/high-risk-pregnancy/art-20047012)
+33. [How do ankylosing spondylitis and pregnancy affect each other?](/diseases-conditions/ankylosing-spondylitis/expert-answers/ankylosing-spondylitis-and-pregnancy/faq-20460738)
+34. [Implantation bleeding](/healthy-lifestyle/pregnancy-week-by-week/expert-answers/implantation-bleeding/faq-20058257)
+35. [Iron deficiency anemia during pregnancy: Prevention tips](/healthy-lifestyle/pregnancy-week-by-week/in-depth/anemia-during-pregnancy/art-20114455)
+36. [Leg cramps during pregnancy](/healthy-lifestyle/pregnancy-week-by-week/expert-answers/leg-cramps-during-pregnancy/faq-20057766)
+37. [Low amniotic fluid](/healthy-lifestyle/pregnancy-week-by-week/expert-answers/low-amniotic-fluid/faq-20057964)
+38. [Nausea during pregnancy](/healthy-lifestyle/pregnancy-week-by-week/expert-answers/nausea-during-pregnancy/faq-20057917)
+39. [New Test for Preeclampsia](/diseases-conditions/preeclampsia/multimedia/vid-20078149)
+40. [Overdue pregnancy](/healthy-lifestyle/pregnancy-week-by-week/in-depth/overdue-pregnancy/art-20048287)
+41. [Placenta](/healthy-lifestyle/pregnancy-week-by-week/in-depth/placenta/art-20044425)
+42. [Pregnancy acne](/healthy-lifestyle/pregnancy-week-by-week/expert-answers/pregnancy-acne/faq-20058045)
+43. [Pregnancy and atrial fibrillation](/diseases-conditions/atrial-fibrillation/in-depth/pregnancy-atrial-fibrillation/art-20118649)
+44. [Pregnancy and fish](/healthy-lifestyle/pregnancy-week-by-week/in-depth/pregnancy-and-fish/art-20044185)
+45. [Pregnancy and obesity](/healthy-lifestyle/pregnancy-week-by-week/in-depth/pregnancy-and-obesity/art-20044409)
+46. [Pregnancy constipation](/healthy-lifestyle/pregnancy-week-by-week/expert-answers/pregnancy-constipation/faq-20058550)
+47. [Pregnancy diet: Essential nutrients](/healthy-lifestyle/pregnancy-week-by-week/in-depth/pregnancy-nutrition/art-20045082)
+48. [Pregnancy due date calculator](/healthy-lifestyle/getting-pregnant/in-depth/due-date-calculator/itt-20084955)
+49. [Pregnancy exercises](/healthy-lifestyle/pregnancy-week-by-week/in-depth/pregnancy-exercises/art-20546799)
+50. [Pregnancy nutrition don'ts](/healthy-lifestyle/pregnancy-week-by-week/in-depth/pregnancy-nutrition/art-20043844)
+51. [Pregnancy stretches](/healthy-lifestyle/pregnancy-week-by-week/in-depth/pregnancy/art-20546838)
+52. [Pregnancy weight gain](/healthy-lifestyle/pregnancy-week-by-week/in-depth/pregnancy-weight-gain/art-20044360)
+53. [Pregnant. Now What Happens?](/healthy-lifestyle/pregnancy-week-by-week/multimedia/vid-20078257)
+54. [Pregnancy and COVID\-19](/diseases-conditions/coronavirus/in-depth/pregnancy-and-covid-19/art-20482639)
+55. [Prenatal care: 1st trimester](/healthy-lifestyle/pregnancy-week-by-week/in-depth/prenatal-care/art-20044882)
+56. [Prenatal care: Second trimester visits](/healthy-lifestyle/pregnancy-week-by-week/in-depth/prenatal-care/art-20044581)
+57. [Prenatal care: Third trimester](/healthy-lifestyle/pregnancy-week-by-week/in-depth/prenatal-care/art-20045660)
+58. [Prenatal testing](/healthy-lifestyle/pregnancy-week-by-week/in-depth/prenatal-testing/art-20045177)
+59. [Prenatal vitamins and pregnancy](/healthy-lifestyle/pregnancy-week-by-week/in-depth/prenatal-vitamins/art-20046945)
+60. [Rheumatoid arthritis: Does pregnancy affect symptoms?](/diseases-conditions/rheumatoid-arthritis/in-depth/rheumatoid-arthritis-pregnancy/art-20094103)
+61. [Sex during pregnancy](/healthy-lifestyle/pregnancy-week-by-week/in-depth/sex-during-pregnancy/art-20045318)
+62. [Twin pregnancy](/healthy-lifestyle/pregnancy-week-by-week/in-depth/twin-pregnancy/art-20048161)
+63. [Vaccines during pregnancy](/healthy-lifestyle/pregnancy-week-by-week/expert-answers/vaccines-during-pregnancy/faq-20057799)
+64. [Vaping during pregnancy](/healthy-lifestyle/pregnancy-week-by-week/expert-answers/vaping-during-pregnancy/faq-20462062)
+65. [Vulvar varicosities during pregnancy: What can you do?](/healthy-lifestyle/pregnancy-week-by-week/expert-answers/vulvar-varicosities-during-pregnancy/faq-20419426)
+66. [Working during pregnancy](/healthy-lifestyle/pregnancy-week-by-week/in-depth/pregnancy/art-20047441)
+67. [X\-ray during pregnancy](/healthy-lifestyle/pregnancy-week-by-week/expert-answers/x-ray-during-pregnancy/faq-20058264)
+68. [Yeast infection during pregnancy](/diseases-conditions/vaginitis/expert-answers/yeast-infection-during-pregnancy/faq-20058355)
 
 Show more related content
 
@@ -472,11 +459,11 @@ Check out these best\-sellers and special offers on books and newsletters from [
  
 
 
-ART\-20546833
+HLV\-20049471
 1. [Healthy Lifestyle](/healthy-lifestyle)
-2. [Infant and toddler health](/healthy-lifestyle/infant-and-toddler-health/basics/infant-and-toddler-health/hlv-20049400)
-3. [In\-Depth](/healthy-lifestyle/infant-and-toddler-health/in-depth/hlv-20049400)
-4. Common baby rashes
+2. [Pregnancy week by week](/healthy-lifestyle/pregnancy-week-by-week/basics/healthy-pregnancy/hlv-20049471)
+3. [Basics](/healthy-lifestyle/pregnancy-week-by-week/basics/healthy-pregnancy/hlv-20049471)
+4. [Healthy pregnancy](/healthy-lifestyle/pregnancy-week-by-week/basics/healthy-pregnancy/hlv-20049471)
 
 
 
@@ -617,18 +604,18 @@ Get the Mayo Clinic app
 
 ---
 
-Language:English* [English](/healthy-lifestyle/infant-and-toddler-health/in-depth/baby-rashes/art-20546833)
-* [EspanIIÌ€â‚¬Ã†â€TMol](/es/healthy-lifestyle/infant-and-toddler-health/in-depth/baby-rashes/art-20546833)
-* [AÌƒ ÌƒAÌ‚Â§UIÌ€â‚¬aÌ‚â‚¬zÌŒAÌƒ Ìƒ1AÌƒ ÌƒAÌ‚Â±AÌƒ Ìƒ IÌ€Ë†UIÌ€â‚¬SIÌ€Å’AÌƒ ÌƒAÌ‚Â©](/ar/healthy-lifestyle/infant-and-toddler-health/in-depth/baby-rashes/art-20546833)
-* [cIÌ€Â§AÌ‚Â®aÌ‚â€šÂ¬aIÌ€Ë†1aÌ‚ï¿1⁄2â€ž2aÌ‚â‚¬Å“aIÌ€Ë† IÌ€Â§AÌ‚Â­AÌƒÂ¦aÌ‚â‚¬â€œaÌ‚â‚¬Â¡](/zh-hans/healthy-lifestyle/infant-and-toddler-health/in-depth/baby-rashes/art-20546833)
+Language:English* [English](/healthy-lifestyle/pregnancy-week-by-week/basics/healthy-pregnancy/hlv-20049471)
+* [EspanIIÌ€â‚¬Ã†â€TMol](/es/healthy-lifestyle/pregnancy-week-by-week/basics/healthy-pregnancy/hlv-20049471)
+* [AÌƒ ÌƒAÌ‚Â§UIÌ€â‚¬aÌ‚â‚¬zÌŒAÌƒ Ìƒ1AÌƒ ÌƒAÌ‚Â±AÌƒ Ìƒ IÌ€Ë†UIÌ€â‚¬SIÌ€Å’AÌƒ ÌƒAÌ‚Â©](/ar/healthy-lifestyle/pregnancy-week-by-week/basics/healthy-pregnancy/hlv-20049471)
+* [cIÌ€Â§AÌ‚Â®aÌ‚â€šÂ¬aIÌ€Ë†1aÌ‚ï¿1⁄2â€ž2aÌ‚â‚¬Å“aIÌ€Ë† IÌ€Â§AÌ‚Â­AÌƒÂ¦aÌ‚â‚¬â€œaÌ‚â‚¬Â¡](/zh-hans/healthy-lifestyle/pregnancy-week-by-week/basics/healthy-pregnancy/hlv-20049471)
 
 AIÌ€â€šAÌ‚Â© 1998\-2024 Mayo Foundation for Medical Education and Research (MFMER). All rights reserved.
 
 
-Language:English* [English](/healthy-lifestyle/infant-and-toddler-health/in-depth/baby-rashes/art-20546833)
-* [EspanIIÌ€â‚¬Ã†â€TMol](/es/healthy-lifestyle/infant-and-toddler-health/in-depth/baby-rashes/art-20546833)
-* [AÌƒ ÌƒAÌ‚Â§UIÌ€â‚¬aÌ‚â‚¬zÌŒAÌƒ Ìƒ1AÌƒ ÌƒAÌ‚Â±AÌƒ Ìƒ IÌ€Ë†UIÌ€â‚¬SIÌ€Å’AÌƒ ÌƒAÌ‚Â©](/ar/healthy-lifestyle/infant-and-toddler-health/in-depth/baby-rashes/art-20546833)
-* [cIÌ€Â§AÌ‚Â®aÌ‚â€šÂ¬aIÌ€Ë†1aÌ‚ï¿1⁄2â€ž2aÌ‚â‚¬Å“aIÌ€Ë† IÌ€Â§AÌ‚Â­AÌƒÂ¦aÌ‚â‚¬â€œaÌ‚â‚¬Â¡](/zh-hans/healthy-lifestyle/infant-and-toddler-health/in-depth/baby-rashes/art-20546833)
+Language:English* [English](/healthy-lifestyle/pregnancy-week-by-week/basics/healthy-pregnancy/hlv-20049471)
+* [EspanIIÌ€â‚¬Ã†â€TMol](/es/healthy-lifestyle/pregnancy-week-by-week/basics/healthy-pregnancy/hlv-20049471)
+* [AÌƒ ÌƒAÌ‚Â§UIÌ€â‚¬aÌ‚â‚¬zÌŒAÌƒ Ìƒ1AÌƒ ÌƒAÌ‚Â±AÌƒ Ìƒ IÌ€Ë†UIÌ€â‚¬SIÌ€Å’AÌƒ ÌƒAÌ‚Â©](/ar/healthy-lifestyle/pregnancy-week-by-week/basics/healthy-pregnancy/hlv-20049471)
+* [cIÌ€Â§AÌ‚Â®aÌ‚â€šÂ¬aIÌ€Ë†1aÌ‚ï¿1⁄2â€ž2aÌ‚â‚¬Å“aIÌ€Ë† IÌ€Â§AÌ‚Â­AÌƒÂ¦aÌ‚â‚¬â€œaÌ‚â‚¬Â¡](/zh-hans/healthy-lifestyle/pregnancy-week-by-week/basics/healthy-pregnancy/hlv-20049471)
 
 
 

@@ -58,6 +58,12 @@
 
 
 
+
+
+
+
+
+
 This content does not have an English version.
 This content does not have an Arabic version.
 
@@ -157,10 +163,10 @@ Request Appointment](/appointments)
 Thermometer basics: Taking your child's temperature
 ---------------------------------------------------
 
-*Thermometer choices got you baffled? Understand the options � and when to seek medical help for a fever.*[By Mayo Clinic Staff](/about-this-site/meet-our-medical-editors)
+*Thermometer choices got you baffled? Understand the options aIÌ€â€šaÌ‚â€šÂ¬aÌ‚â‚¬ï¿1⁄2 and when to seek medical help for a fever.*[By Mayo Clinic Staff](/about-this-site/meet-our-medical-editors)
 
 
-If your child feels warm or seems under the weather, it's probably time to take his or her temperature. Sounds simple enough � but if you're new to it, you might have questions. Which type of thermometer is best? Are thermometer guidelines different for babies and older children? Here's what you need to know to take your child's temperature.
+If your child feels warm or seems under the weather, it's probably time to take his or her temperature. Sounds simple enough aIÌ€â€šaÌ‚â€šÂ¬aÌ‚â‚¬ï¿1⁄2 but if you're new to it, you might have questions. Which type of thermometer is best? Are thermometer guidelines different for babies and older children? Here's what you need to know to take your child's temperature.
 
 
 
@@ -189,7 +195,7 @@ Digital pacifier thermometers and fever strips are not recommended.
 Carefully read the instructions that come with the thermometer. Before and after each use, clean the tip of the thermometer following the instructions for your particular thermometer. If you plan to use a digital thermometer to take a rectal temperature, get another digital thermometer for oral use. Label each thermometer, and don't use the same thermometer in both places.
 
 
-For safety � and to make sure the thermometer stays in place � never leave your child unattended while you're taking his or her temperature.
+For safety aIÌ€â€šaÌ‚â€šÂ¬aÌ‚â‚¬ï¿1⁄2 and to make sure the thermometer stays in place aIÌ€â€šaÌ‚â€šÂ¬aÌ‚â‚¬ï¿1⁄2 never leave your child unattended while you're taking his or her temperature.
 
 
 
@@ -198,7 +204,7 @@ For safety � and to make sure the thermometer stays in place � never leave your 
 
 
 
-The best type of thermometer � or the best place to insert the thermometer, in some cases � depends on your child's age.
+The best type of thermometer aIÌ€â€šaÌ‚â€šÂ¬aÌ‚â‚¬ï¿1⁄2 or the best place to insert the thermometer, in some cases aIÌ€â€šaÌ‚â€šÂ¬aÌ‚â‚¬ï¿1⁄2 depends on your child's age.
 
 
 * **Birth to 3 months.** Use a regular digital thermometer to take a rectal temperature. New research suggests that a temporal artery thermometer might also provide accurate readings in newborns.
@@ -217,7 +223,7 @@ The best type of thermometer � or the best place to insert the thermometer, in s
 
 Never try to force a rectal thermometer past any resistance. Hold the thermometer in place until the thermometer signals that it's done. Remove the thermometer and read the number.
 * **Oral temperature.** Turn on the digital thermometer. Place the tip of the thermometer under your child's tongue toward the back of the mouth and ask your child to keep his or her lips closed. Remove the thermometer when it signals that it's done and read the number. If your child has been eating or drinking, wait 15 minutes to take his or her temperature by mouth.
-* **Armpit temperature.** Turn on the digital thermometer. When you place the thermometer under your child's armpit, make sure it touches skin � not clothing. While the device reads your child's temperature, hug your child, keeping the side holding the thermometer against your chest. Keep the thermometer tightly in place until the thermometer signals that it's done. Remove the thermometer and read the number.
+* **Armpit temperature.** Turn on the digital thermometer. When you place the thermometer under your child's armpit, make sure it touches skin aIÌ€â€šaÌ‚â€šÂ¬aÌ‚â‚¬ï¿1⁄2 not clothing. While the device reads your child's temperature, hug your child, keeping the side holding the thermometer against your chest. Keep the thermometer tightly in place until the thermometer signals that it's done. Remove the thermometer and read the number.
 * **Ear temperature.** Turn on the thermometer. Gently place the thermometer in your child's ear. Follow the directions that come with the thermometer to ensure you insert the thermometer the proper distance into the ear canal. Hold the thermometer tightly in place until the thermometer signals that it's done. Remove the thermometer and read the number.
 * **Temporal artery temperature.** Turn on the thermometer. Gently sweep the thermometer across your child's forehead. Remove the thermometer and read the number.
 
@@ -266,7 +272,7 @@ In general, contact your child's doctor if:
 
 
 
-�
+ 
 
 
 

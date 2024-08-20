@@ -161,7 +161,7 @@ Request Appointment](/appointments)
 Infant development: Birth to 3 months
 -------------------------------------
 
-*Infant development begins at birth. Consider major infant development milestones from birth to 3 months � and know what to do when something's not right.*[By Mayo Clinic Staff](/about-this-site/meet-our-medical-editors)
+*Infant development begins at birth. Consider major infant development milestones from birth to 3 months aIÌ€â€šaÌ‚â€šÂ¬aÌ‚â‚¬ï¿1⁄2 and know what to do when something's not right.*[By Mayo Clinic Staff](/about-this-site/meet-our-medical-editors)
 
 
 A lot happens during your baby's first three months. Most babies reach certain milestones at similar ages, but infants take their own path as they develop. Expect your baby to grow and develop at your baby's own pace. Keep in mind that a baby born early, also called premature, may have a delay in some milestones. As you get to know your baby, think about these general infant development milestones.
@@ -229,7 +229,7 @@ Remember that every baby is unique. But your instincts are important too. If you
 
 
 
-�
+ 
 
 
 

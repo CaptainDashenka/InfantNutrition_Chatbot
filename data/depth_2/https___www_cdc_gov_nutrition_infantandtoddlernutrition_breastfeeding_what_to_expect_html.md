@@ -60,7 +60,7 @@ What to Expect While Breastfeeding \| Nutrition \| CDC
 [Skip directly to search](#headerSearch)
 
 
-[Español](/spanish/) \| 
+[EspanIÌ€Æ’ol](/spanish/) \| 
 [Other Languages](https://wwwn.cdc.gov/pubs/other-languages/)
 
 **Error processing SSI file**  
@@ -145,7 +145,7 @@ What to Expect While Breastfeeding
 ==================================
 
  
-[Español (Spanish)](/nutrition/infantandtoddlernutrition/breastfeeding/que-esperar-durante-la-lactancia-materna.html) [Print](#print)
+[EspanIÌ€Æ’ol (Spanish)](/nutrition/infantandtoddlernutrition/breastfeeding/que-esperar-durante-la-lactancia-materna.html) [Print](#print)
 
 
 
@@ -158,7 +158,7 @@ Related Pages
 ![Mom breastfeeding her newborn while still in the hospital after giving birth.](/nutrition/infantandtoddlernutrition/images/what-to-expect.jpg?_=42612)  
 
 ![Mom breastfeeding her newborn while still in the hospital after giving birth.](/nutrition/infantandtoddlernutrition/images/what-to-expect.jpg?_=42612)
-Every mother’s experience with breastfeeding is different. Whether this is your first baby or you have many, each baby is unique. Breastfeeding will be a learning process.
+Every motheraÌ‚â‚¬TMs experience with breastfeeding is different. Whether this is your first baby or you have many, each baby is unique. Breastfeeding will be a learning process.
 
 
 **Your baby is learning how to:**
@@ -177,7 +177,7 @@ Every mother’s experience with breastfeeding is different. Whether this is you
 * Manage your breast milk supply and breast health.
 
 
-Breastfeeding support is available. Visit our [resources page](/nutrition/infantandtoddlernutrition/resources.html#Breastfeeding) to find the right kind of help for you.  
+Breastfeeding support is available. Visit our [resources page](/nutrition/infantandtoddlernutrition/resources.html#Breastfeeding) to find the right kind of help for you.  
 
 
 
@@ -189,7 +189,7 @@ First Days and Weeks
 ### Milk Coming In
 
 
-At birth, your breasts will make a thick, yellowish substance called colostrum. Colostrum is packed with nutrients and other important substances that help your baby start building up his or her immune system. There will not be a lot of this liquid at first, but the amount will gradually increase over the first couple of days. Most babies will get all the nutrition they need through colostrum during the first few days of life. As you begin breastfeeding, your baby’s sucking will tell your body to start making milk. For most mothers, this thinner, whiter form of milk comes in by about 3 days after birth, but may take longer for first\-time moms. You may notice your breasts feeling full, hard, and warm as this happens. Your baby may begin to want to breastfeed more frequently around this time. If you are concerned about your milk coming in, talk to a lactation consultant or your doctor or nurse.
+At birth, your breasts will make a thick, yellowish substance called colostrum. Colostrum is packed with nutrients and other important substances that help your baby start building up his or her immune system. There will not be a lot of this liquid at first, but the amount will gradually increase over the first couple of days. Most babies will get all the nutrition they need through colostrum during the first few days of life. As you begin breastfeeding, your babyaÌ‚â‚¬TMs sucking will tell your body to start making milk. For most mothers, this thinner, whiter form of milk comes in by about 3 days after birth, but may take longer for first\-time moms. You may notice your breasts feeling full, hard, and warm as this happens. Your baby may begin to want to breastfeed more frequently around this time. If you are concerned about your milk coming in, talk to a lactation consultant or your doctor or nurse.
 
 
 Did You Know?**Pacifiers and your baby.**
@@ -214,7 +214,7 @@ Over the first few weeks after birth, your breasts may become larger, firm, warm
 ### Sore Nipples
 
 
-During the first few weeks of breastfeeding, your nipples may be sore or sensitive as they adjust to your baby’s sucking. If you have cracked or damaged nipple skin, or pain that is not improving over the first 1–2 weeks, talk to a lactation consultant or your doctor or nurse.
+During the first few weeks of breastfeeding, your nipples may be sore or sensitive as they adjust to your babyaÌ‚â‚¬TMs sucking. If you have cracked or damaged nipple skin, or pain that is not improving over the first 1aÌ‚â‚¬â€œ2 weeks, talk to a lactation consultant or your doctor or nurse.
 
 
 ### Pain While Breastfeeding
@@ -226,7 +226,7 @@ Although your breasts and nipples may be tender or uncomfortable, once your baby
 ### Postpartum Depression
 
 
-[Postpartum depression](/breastfeeding-special-circumstances/hcp/illnesses-conditions/postpartum-depression.html) is depression that some women feel after having a baby. Feelings of postpartum depression are more intense and last longer than those of “baby blues,” a term used to describe the worry, sadness, and tiredness many women experience after having a baby. “Baby blues” symptoms typically resolve on their own within a few days. Postpartum depression is common and doesn’t feel the same for everyone. How often symptoms occur, how long they last, and how intense they may feel can be different for each person. [Mothers with postpartum depression can usually continue to breastfeed](/reproductive-health/depression/). If you think you may be experiencing postpartum depression, or have other mental health concerns, contact your healthcare provider for help right away.  Many medications do pass into breastmilk, but you can work with your healthcare provider to identify treatment options that are safe to use while breastfeeding.
+[Postpartum depression](/breastfeeding-special-circumstances/hcp/illnesses-conditions/postpartum-depression.html) is depression that some women feel after having a baby. Feelings of postpartum depression are more intense and last longer than those of aÌ‚â‚¬Å“baby blues,aÌ‚â‚¬ï¿1⁄2 a term used to describe the worry, sadness, and tiredness many women experience after having a baby. aÌ‚â‚¬Å“Baby bluesaÌ‚â‚¬ï¿1⁄2 symptoms typically resolve on their own within a few days. Postpartum depression is common and doesnaÌ‚â‚¬TMt feel the same for everyone. How often symptoms occur, how long they last, and how intense they may feel can be different for each person. [Mothers with postpartum depression can usually continue to breastfeed](/reproductive-health/depression/). If you think you may be experiencing postpartum depression, or have other mental health concerns, contact your healthcare provider for help right away.  Many medications do pass into breastmilk, but you can work with your healthcare provider to identify treatment options that are safe to use while breastfeeding.
 
 
 ### Breastfeeding Considerations
@@ -277,13 +277,24 @@ Your baby is starting to notice all the things going on around him or her. This 
 ### Weaning
 
 
-Although breastfeeding is recommended until your baby is at least 12 months old, weaning may happen before then. Learn about when and how to [wean](/nutrition/infantandtoddlernutrition/breastfeeding/weaning.html) your baby from breastfeeding.
+Although breastfeeding is recommended until your baby is at least 12 months old, weaning may happen before then. Learn about when and how to [wean](/nutrition/infantandtoddlernutrition/breastfeeding/weaning.html) your baby from breastfeeding.
 
 
-Visit the [Office on Women’s Health website](https://www.womenshealth.gov/breastfeeding/) for more information on [learning to breastfeed](https://www.womenshealth.gov/breastfeeding/learning-breastfeed) and [breastfeeding challenges](https://www.womenshealth.gov/breastfeeding/breastfeeding-challenges).
+Visit the [Office on WomenaÌ‚â‚¬TMs Health website](https://www.womenshealth.gov/breastfeeding/) for more information on [learning to breastfeed](https://www.womenshealth.gov/breastfeeding/learning-breastfeed) and [breastfeeding challenges](https://www.womenshealth.gov/breastfeeding/breastfeeding-challenges).
 
 
- [Top of Page](#)
+ [Top of Page](#)
 
 
 
+
+
+
+**Error processing SSI file**  
+
+
+
+
+
+
+ Last Reviewed:

@@ -163,7 +163,7 @@ Request Appointment](/appointments)
 Temper tantrums in toddlers: How to keep the peace
 --------------------------------------------------
 
-*Temper tantrums are a normal part of growing up. Find out how to respond to temper tantrums � and what you can do to prevent them.*[By Mayo Clinic Staff](/about-this-site/meet-our-medical-editors)
+*Temper tantrums are a normal part of growing up. Find out how to respond to temper tantrums aIÌ€â€šaÌ‚â€šÂ¬aÌ‚â‚¬ï¿1⁄2 and what you can do to prevent them.*[By Mayo Clinic Staff](/about-this-site/meet-our-medical-editors)
 
 
 You're shopping with your toddler in a grocery store. He or she has spied a treat that you don't intend to buy. Suddenly you're in the center of a gale\-force temper tantrum.
@@ -178,10 +178,10 @@ What's the best response? Why do these emotional meltdowns happen? Can you preve
 
 
 
-A tantrum is the expression of a young child's frustration with his or her limitations or anger about not being able to get his or her way. Perhaps your child is having trouble figuring something out or completing a task. Maybe your child doesn't have the words to express his or her feelings. Frustration might trigger an outburst � resulting in a temper tantrum.
+A tantrum is the expression of a young child's frustration with his or her limitations or anger about not being able to get his or her way. Perhaps your child is having trouble figuring something out or completing a task. Maybe your child doesn't have the words to express his or her feelings. Frustration might trigger an outburst aIÌ€â€šaÌ‚â€šÂ¬aÌ‚â‚¬ï¿1⁄2 resulting in a temper tantrum.
 
 
-If your child is tired, hungry, feeling ill or has to make a transition, his or her threshold for frustration is likely to be lower � and a tantrum more likely.
+If your child is tired, hungry, feeling ill or has to make a transition, his or her threshold for frustration is likely to be lower aIÌ€â€šaÌ‚â€šÂ¬aÌ‚â‚¬ï¿1⁄2 and a tantrum more likely.
 
 
 
@@ -190,7 +190,7 @@ If your child is tired, hungry, feeling ill or has to make a transition, his or 
 
 
 
-Young children don't plan to frustrate or embarrass their parents. For most toddlers, tantrums are a way to express frustration. For older children, tantrums might be a learned behavior. If you reward tantrums with something your child wants � or you allow your child to get out of things by throwing a tantrum � the tantrums are likely to continue.
+Young children don't plan to frustrate or embarrass their parents. For most toddlers, tantrums are a way to express frustration. For older children, tantrums might be a learned behavior. If you reward tantrums with something your child wants aIÌ€â€šaÌ‚â€šÂ¬aÌ‚â‚¬ï¿1⁄2 or you allow your child to get out of things by throwing a tantrum aIÌ€â€šaÌ‚â€šÂ¬aÌ‚â‚¬ï¿1⁄2 the tantrums are likely to continue.
 
 
 
@@ -263,7 +263,7 @@ As your child's self\-control improves, tantrums should become less common. Most
 
 
 
-�
+ 
 
 
 

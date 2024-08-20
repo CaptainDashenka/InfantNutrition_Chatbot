@@ -60,7 +60,7 @@ Definitions \| Nutrition \| CDC
 [Skip directly to search](#headerSearch)
 
 
-[Español](/spanish/) \| 
+[EspanIÌ€Æ’ol](/spanish/) \| 
 [Other Languages](https://wwwn.cdc.gov/pubs/other-languages/)
 
 **Error processing SSI file**  
@@ -171,7 +171,7 @@ Definitions
 ===========
 
  
-[Español](/nutrition/infantandtoddlernutrition/definitions_es.html) [Print](#print)
+[EspanIÌ€Æ’ol](/nutrition/infantandtoddlernutrition/definitions_es.html) [Print](#print)
 
 
 
@@ -181,7 +181,7 @@ Related Pages
 
 
 
-**Here you can find a list of terms used to describe different aspects of children’s nutrition.**
+**Here you can find a list of terms used to describe different aspects of childrenaÌ‚â‚¬TMs nutrition.**
 
 
 **Anemia** is a condition when there are not enough red blood cells in the body or their ability to carry oxygen throughout the body is lowered.
@@ -208,8 +208,23 @@ Related Pages
 **Preterm infant** is an infant who is born before 37 weeks gestation.
 
 
-**Textures** are how food can feel to your baby’s mouth and hands. Some foods may be smooth, while others will have lumps.
+**Textures** are how food can feel to your babyaÌ‚â‚¬TMs mouth and hands. Some foods may be smooth, while others will have lumps.
 
 
-**Weaning** from breastfeeding is the process of switching a baby’s diet from breast milk to other foods and drinks.
+**Weaning** from breastfeeding is the process of switching a babyaÌ‚â‚¬TMs diet from breast milk to other foods and drinks.
 
+
+
+
+
+
+
+
+**Error processing SSI file**  
+
+
+
+
+
+
+ Last Reviewed:

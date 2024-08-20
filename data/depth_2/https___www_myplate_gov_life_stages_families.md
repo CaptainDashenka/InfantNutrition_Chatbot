@@ -163,7 +163,7 @@ Menu
 	+ [Print Materials](/resources/print-materials)
 	+ [Graphics](/resources/graphics)
 	+ [Videos](/resources/videos)
-	+ [En Español](/resources/en-espanol)
+	+ [En Español](/resources/en-espanol)
 	+ [Multiple Languages](/myplate-multiple-languages)
 	+ [Partner Resources](/partner-resources)
 * Professionals
@@ -361,7 +361,7 @@ Image
 * Make your own food art and show kids that healthy foods can be beautiful and tasty.
 * Grow a family garden. Get kids of all ages involved in meals with gardening. Start small, with a window herb box in your kitchen or a garden in your yard.
 * [Food Critic Activity](/sites/default/files/2024-05/kids-food-critic-activity.pdf "Food Critic Activity"): Kids are more likely to try new foods when they take the lead. In this activity, kids pick a new food at the store, taste it, and rate it like a food critic.
-* [Kid’s Restaurant Activity](/sites/default/files/2024-05/create-your-own-myplate-menu.pdf "Kid’s Restaurant Activity"): Let kids be the chef! They can use this printable template to plan out the meal and design a menu.
+* [Kid’s Restaurant Activity](/sites/default/files/2024-05/create-your-own-myplate-menu.pdf "Kid’s Restaurant Activity"): Let kids be the chef! They can use this printable template to plan out the meal and design a menu.
 
 
 
@@ -428,7 +428,7 @@ Image
 **Healthy Eating for Families Tip Sheet**
 
 
-**[English](/sites/default/files/2022-04/TipSheet_22_HealthyEatingForFamilies.pdf "Healthy Eating for Families Tip Sheet")    [Spanish](/sites/default/files/2022-04/SpTipSheet_22_HealthyEatingForFamilies.pdf "Alimentación Saludable para Familias.")**
+**[English](/sites/default/files/2022-04/TipSheet_22_HealthyEatingForFamilies.pdf "Healthy Eating for Families Tip Sheet")    [Spanish](/sites/default/files/2022-04/SpTipSheet_22_HealthyEatingForFamilies.pdf "Alimentación Saludable para Familias.")**
 
 
 
@@ -449,7 +449,7 @@ Image
 **Take the MyPlate Quiz**
 
 
-**[English](/myplate-quiz "MyPlate Quiz")    [Spanish](/es/form/myplate-quiz "Cuestionario de MiPlato")**
+**[English](/myplate-quiz "MyPlate Quiz")    [Spanish](/es/form/myplate-quiz "Cuestionario de MiPlato")**
 
 
 
@@ -488,7 +488,7 @@ Image
 **Healthy Eating on a Budget**
 
 
-**[English](/eat-healthy/healthy-eating-budget "Healthy Eating on a Budget")    [Spanish](/es/tip-sheet/coma-saludable-con-poco-dinero "Coma Saludable con Poco Dinero")**
+**[English](/eat-healthy/healthy-eating-budget "Healthy Eating on a Budget")    [Spanish](/es/tip-sheet/coma-saludable-con-poco-dinero "Coma Saludable con Poco Dinero")**
 
 
 
@@ -509,7 +509,7 @@ Image
 **Get Your MyPlate Plan**
 
 
-**[English](/myplate-plan "MyPlate Plan")    [Spanish](/es/myplate-plan "Plan de MiPlato")**
+**[English](/myplate-plan "MyPlate Plan")    [Spanish](/es/myplate-plan "Plan de MiPlato")**
 
 
 
@@ -530,7 +530,7 @@ Image
 **MyPlate Kitchen Recipes**
 
 
-**[English](/myplate-kitchen/recipes "MyPlate Kitchen Recipes")   [Spanish](/es/myplate-kitchen/recipes "Recetas MiPlato")**
+**[English](/myplate-kitchen/recipes "MyPlate Kitchen Recipes")   [Spanish](/es/myplate-kitchen/recipes "Recetas MiPlato")**
 
 
 
@@ -551,7 +551,7 @@ Image
 **Move Your Way: Fact Sheet for Parents**
 
 
-**[English](https://health.gov/our-work/nutrition-physical-activity/move-your-way-community-resources/campaign-materials/materials-parents "Are My Kids Getting Enough Physical Activity? Fact Sheet for Parents")   [Spanish](https://health.gov/our-work/nutrition-physical-activity/move-your-way-community-resources/campaign-materials/materials-parents "¿Hacen mis hijos suficiente? Hoja informativa para padres de familia")**
+**[English](https://health.gov/our-work/nutrition-physical-activity/move-your-way-community-resources/campaign-materials/materials-parents "Are My Kids Getting Enough Physical Activity? Fact Sheet for Parents")   [Spanish](https://health.gov/our-work/nutrition-physical-activity/move-your-way-community-resources/campaign-materials/materials-parents "¿Hacen mis hijos suficiente? Hoja informativa para padres de familia")**
 
 
 
@@ -572,7 +572,7 @@ Image
 **Move Your Way: Activity Planner**
 
 
-**[English](https://health.gov/moveyourway/activity-planner "Move Your Way: Activity Planner")    [Spanish](https://health.gov/espanol/moveyourway/activity-planner "Planificador de actividades")**
+**[English](https://health.gov/moveyourway/activity-planner "Move Your Way: Activity Planner")    [Spanish](https://health.gov/espanol/moveyourway/activity-planner "Planificador de actividades")**
 
 
 
@@ -647,7 +647,7 @@ Image
 **MyPlate Tip Sheets**
 
 
-**[English](/myplate-tip-sheets "MyPlate Tip Sheets")    [Spanish](/es/resources/print-materials?f[0]=audience%3A1182&f[1]=resource_type%3A1181 "Hojas de consejos de MiPlato")**
+**[English](/myplate-tip-sheets "MyPlate Tip Sheets")    [Spanish](/es/resources/print-materials?f[0]=audience%3A1182&f[1]=resource_type%3A1181 "Hojas de consejos de MiPlato")**
 
 
 
@@ -668,7 +668,7 @@ Image
 **More Print Materials**
 
 
-**[English](/resources/print-materials "More Print Materials")   [Spanish](/resources/print-materials?f[0]=resource_type%3A1176 "Más materiales impresos")**
+**[English](/resources/print-materials "More Print Materials")   [Spanish](/resources/print-materials?f[0]=resource_type%3A1176 "Más materiales impresos")**
 
 
 
@@ -779,7 +779,7 @@ Image
 ### *Start Simple with MyPlate* App
 
 
-Build healthy eating habits one goal at a time! Download the *Start Simple with MyPlate* app today.
+Build healthy eating habits one goal at a time! Download the *Start Simple with MyPlate* app today.
 
 
 **[Learn more](/resources/tools/startsimple-myplate-app "Start Simple with MyPlate App")**

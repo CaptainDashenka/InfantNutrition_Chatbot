@@ -145,7 +145,7 @@ For egg and peanuts, see advice on [food allergies in babies and young children]
 
 You could also pack a few vegetable sticks, such as carrots, peppers or cucumber, as well as a container of bite\-sized fruit – for example, a peeled satsuma or washed seedless grapes cut in half length ways. A box of raisins is fine if eaten alongside their lunch.
 
-Examples of healthier sweet options include a yoghurt, fromage frais, a scone or a currant bun. If you include a fromage frais or yoghurt, do not forget a spoon. A piece of kitchen towel is also useful.
+Examples of healthier sweet options include a yoghurt, fromage frais, a scone or a currant bun. If you include a fromage frais or yoghurt, do not forget a spoon. A piece of kitchen towel is also useful.
 
 You can give water or pasteurised whole or semi\-skimmed milk in a leak\-proof beaker.
 
@@ -177,7 +177,7 @@ Drinking sugary drinks increases the chance of tooth decay. If your child will o
 
 Start to dilute the drinks with water, increasing the amount of water gradually over time, so the change is not too noticeable to them.
 
-Water and pasteurised cows’ milk (or goats’ or sheep’s milk) are the best drinks for young children. See [drinks and cups for babies and young children](/conditions/baby/weaning-and-feeding/drinks-and-cups-for-babies-and-young-children/) for more information about drinks.
+Water and pasteurised cows’ milk (or goats’ or sheep’s milk) are the best drinks for young children. See [drinks and cups for babies and young children](/conditions/baby/weaning-and-feeding/drinks-and-cups-for-babies-and-young-children/) for more information about drinks.
 
 
 

@@ -60,7 +60,7 @@ Foods and Drinks for 6 to 24 Month Olds \| Nutrition \| CDC
 [Skip directly to search](#headerSearch)
 
 
-[Español](/spanish/) \| 
+[EspanIÌ€Æ’ol](/spanish/) \| 
 [Other Languages](https://wwwn.cdc.gov/pubs/other-languages/)
 
 **Error processing SSI file**  
@@ -171,7 +171,7 @@ Foods and Drinks for 6 to 24 Month Olds
 =======================================
 
  
-[Español (Spanish)](/nutrition/infantandtoddlernutrition/foods-and-drinks/index-es.html) [Print](#print)
+[EspanIÌ€Æ’ol (Spanish)](/nutrition/infantandtoddlernutrition/foods-and-drinks/index-es.html) [Print](#print)
 
 
 
@@ -182,13 +182,13 @@ Related Pages
 
 
 ![A young child to eating from a spoon.](/nutrition/infantandtoddlernutrition/images/ITN-500px.jpg?_=95445 "6-to-24-months")
-When your child is about 6 months old, you can start introducing him or her to foods and drinks other than breast milk and infant formula.
+When your child is about 6 months old, you can start introducing him or her to foods and drinks other than breast milk and infant formula.
 
 
-The foods and drinks you feed your child are sometimes called [complementary foods](/nutrition/infantandtoddlernutrition/definitions.html#complementaryfoods). You can think of these as “complementing,” or adding to, the breast milk or infant formula that you continue to feed your child.
+The foods and drinks you feed your child are sometimes called [complementary foods](/nutrition/infantandtoddlernutrition/definitions.html#complementaryfoods). You can think of these as aÌ‚â‚¬Å“complementing,aÌ‚â‚¬ï¿1⁄2 or adding to, the breast milk or infant formula that you continue to feed your child.
 
 
-Between your child’s first and second year, he or she will develop the skills needed to participate in meals with the family, and by the time your child is 2 years old, he or she will be able to eat most of the same foods as the rest of the family. Some skills, such as finger feeding, drinking from a cup, and using a spoon are part of your child’s [developmental milestones](/ncbddd/actearly/milestones/index.html). Explore the pages below to learn more.
+Between your childaÌ‚â‚¬TMs first and second year, he or she will develop the skills needed to participate in meals with the family, and by the time your child is 2 years old, he or she will be able to eat most of the same foods as the rest of the family. Some skills, such as finger feeding, drinking from a cup, and using a spoon are part of your childaÌ‚â‚¬TMs [developmental milestones](/ncbddd/actearly/milestones/index.html). Explore the pages below to learn more.
 
 
 * [When, What, and How to Introduce Solid Foods](/nutrition/infantandtoddlernutrition/foods-and-drinks/when-to-introduce-solid-foods.html)
@@ -197,10 +197,21 @@ Between your child’s first and second year, he or she will develop the skills 
 * [Foods and Drinks to Encourage](/nutrition/infantandtoddlernutrition/foods-and-drinks/foods-and-drinks-to-encourage.html)
 * [Foods and Drinks to Avoid or Limit](/nutrition/infantandtoddlernutrition/foods-and-drinks/foods-and-drinks-to-limit.html)
 * [Tastes and Textures](/nutrition/infantandtoddlernutrition/foods-and-drinks/tastes-and-textures.html)
-* [Cow’s Milk and Milk Alternatives](/nutrition/infantandtoddlernutrition/foods-and-drinks/cows-milk-and-milk-alternatives.html)
+* [CowaÌ‚â‚¬TMs Milk and Milk Alternatives](/nutrition/infantandtoddlernutrition/foods-and-drinks/cows-milk-and-milk-alternatives.html)
 * [Picky Eaters](/nutrition/infantandtoddlernutrition/foods-and-drinks/picky-eaters.html)
 
 
 ![A young child to eating from a spoon.](/nutrition/infantandtoddlernutrition/images/ITN-500px.jpg?_=95445 "6-to-24-months")
 
 
+
+
+
+**Error processing SSI file**  
+
+
+
+
+
+
+ Last Reviewed:

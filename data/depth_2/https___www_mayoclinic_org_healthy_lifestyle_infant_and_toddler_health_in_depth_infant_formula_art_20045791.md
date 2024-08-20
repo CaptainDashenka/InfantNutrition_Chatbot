@@ -270,7 +270,7 @@ Carefully measure the amount of water and formula. Too much water might mean you
 
 
 * Pour enough formula for one feeding into a clean bottle.
-* Use only formula � don't add water or any other liquid.
+* Use only formula aIÌ€â€šaÌ‚â€šÂ¬aÌ‚â‚¬ï¿1⁄2 don't add water or any other liquid.
 * Attach the nipple and cap to the bottle.
 
 
@@ -299,7 +299,7 @@ If your baby is younger than 3 months, was born prematurely or has a weakened im
 * Let cool for five minutes.
 * Prepare the formula.
 * Put the bottle under cold running water or in an ice bath to cool. The formula should be at body temperature, 98\.6 degrees Fahrenheit (37 degrees Celsius).
-* Test that the formula is lukewarm � not hot � by putting drops on your wrist or the back of your hand.
+* Test that the formula is lukewarm aIÌ€â€šaÌ‚â€šÂ¬aÌ‚â‚¬ï¿1⁄2 not hot aIÌ€â€šaÌ‚â€šÂ¬aÌ‚â‚¬ï¿1⁄2 by putting drops on your wrist or the back of your hand.
 
 
 
@@ -311,7 +311,7 @@ If your baby is younger than 3 months, was born prematurely or has a weakened im
 It's fine to give your baby room temperature or even cold formula. If your baby prefers warm formula, place a filled bottle in a bowl of warm water or run under warm water.
 
 
-Test the temperature by putting a couple of drops on the back of your hand or wrist. The formula should feel lukewarm � not hot.
+Test the temperature by putting a couple of drops on the back of your hand or wrist. The formula should feel lukewarm aIÌ€â€šaÌ‚â€šÂ¬aÌ‚â‚¬ï¿1⁄2 not hot.
 
 
 Don't warm bottles in the microwave. The formula might heat unevenly, creating hot spots that could burn your baby's mouth.
@@ -347,7 +347,7 @@ If you're not sure whether a container or bottle of formula is safe, throw it ou
 
 
 
-�
+ 
 
 
 

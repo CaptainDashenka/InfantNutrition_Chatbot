@@ -60,7 +60,7 @@ Tastes and Textures \| Nutrition \| CDC
 [Skip directly to search](#headerSearch)
 
 
-[Español](/spanish/) \| 
+[EspanIÌ€Æ’ol](/spanish/) \| 
 [Other Languages](https://wwwn.cdc.gov/pubs/other-languages/)
 
 **Error processing SSI file**  
@@ -171,7 +171,7 @@ Tastes and Textures
 ===================
 
  
-[Español (Spanish)](/nutrition/infantandtoddlernutrition/foods-and-drinks/sabores-y-texturas.html) [Print](#print)
+[EspanIÌ€Æ’ol (Spanish)](/nutrition/infantandtoddlernutrition/foods-and-drinks/sabores-y-texturas.html) [Print](#print)
 
 
 
@@ -210,19 +210,21 @@ Your child may start out with smooth or mashed foods first and then begin to eat
 * [Choking Hazards](/nutrition/infantandtoddlernutrition/foods-and-drinks/choking-hazards.html)
 * [Foods and Drinks to Encourage](/nutrition/infantandtoddlernutrition/foods-and-drinks/foods-and-drinks-to-encourage.html)
 * [Foods and Drinks to Avoid or Limit](/nutrition/infantandtoddlernutrition/foods-and-drinks/foods-and-drinks-to-limit.html)
-* [Cow’s Milk and Milk Alternatives](/nutrition/infantandtoddlernutrition/foods-and-drinks/cows-milk-and-milk-alternatives.html)
+* [CowaÌ‚â‚¬TMs Milk and Milk Alternatives](/nutrition/infantandtoddlernutrition/foods-and-drinks/cows-milk-and-milk-alternatives.html)
 * [Picky Eaters](/nutrition/infantandtoddlernutrition/foods-and-drinks/picky-eaters.html)
 
 
 
 
-ats.&via=CDCgov&ct=0&media=https://www.cdc.gov/homepage/images/centers-for-disease-control-and-prevention.png "Share to Facebook")
-* [Twitter](https://api.addthis.com/oexchange/0.8/forward/twitter/offer?url=https%3A%2F%2Fwww.cdc.gov%2Findex.htm&title=CDC%20Works%2024/7&description=As%20the%20nation%27s%20health%20protection%20agency,%20CDC%20saves%20lives%20and%20protects%20people%20from%20health,%20safety,%20and%20security%20threats.&via=CDCgov&ct=0&media=https://www.cdc.gov/homepage/images/centers-for-disease-control-and-prevention.png "Share to Twitter")
-* [LinkedIn](https://api.addthis.com/oexchange/0.8/forward/linkedin/offer?url=https%3A%2F%2Fwww.cdc.gov%2Findex.htm&title=CDC%20Works%2024/7&description=As%20the%20nation%27s%20health%20protection%20agency,%20CDC%20saves%20lives%20and%20protects%20people%20from%20health,%20safety,%20and%20security%20threats.&via=CDCgov&ct=0&media=https://www.cdc.gov/homepage/images/centers-for-disease-control-and-prevention.png "Share to LinkedIn")
-* [Syndicate](https://tools.cdc.gov/medialibrary/index.aspx#/sharecontent/https%3A%2F%2Fwww.cdc.gov%2Findex.htm "Embed this Page")
+
+
+
+
+**Error processing SSI file**  
 
 
 
 
 
 
+ Last Reviewed:

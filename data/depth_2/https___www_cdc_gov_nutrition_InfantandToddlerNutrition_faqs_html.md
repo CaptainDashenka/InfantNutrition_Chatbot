@@ -60,7 +60,7 @@ FAQs \| Nutrition \| CDC
 [Skip directly to search](#headerSearch)
 
 
-[Español](/spanish/) \| 
+[EspanIÌ€Æ’ol](/spanish/) \| 
 [Other Languages](https://wwwn.cdc.gov/pubs/other-languages/)
 
 **Error processing SSI file**  
@@ -171,7 +171,7 @@ FAQs
 ====
 
  
-[Español (Spanish)](/nutrition/infantandtoddlernutrition/faqs-es.html) [Print](#print)
+[EspanIÌ€Æ’ol (Spanish)](/nutrition/infantandtoddlernutrition/faqs-es.html) [Print](#print)
 
 
 
@@ -219,7 +219,7 @@ Why does my child need vitamin D? Can he/she get enough vitamin D from sunlight?
 [Vitamin D](/nutrition/infantandtoddlernutrition/vitamins-minerals/vitamin-d.html) is needed to support healthy bone development and to prevent rickets, a condition that causes weak bones. Vitamin D deficiency rickets is rare, but it can occur if your child does not receive additional vitamin D from his or her diet, a vitamin supplement, or from adequate exposure to sunlight.[The American Academy of Pediatrics (AAP) recommends keeping babies younger than 6 months out of direct sunlight and protecting them with clothing and hats to decrease their risk of skin cancer.](https://www.fda.gov/consumers/consumer-updates/should-you-put-sunscreen-infants-not-usually)
 
 
-Sunlight is not a consistent source of vitamin D, and there are a number of factors that determine the amount of vitamin D a child will synthesize from sunlight.  Factors that interfere with vitamin D production include:
+Sunlight is not a consistent source of vitamin D, and there are a number of factors that determine the amount of vitamin D a child will synthesize from sunlight.  Factors that interfere with vitamin D production include:
 
 
 * Living at high latitudes (closer to the Polar Regions), particularly during winter months.
@@ -230,7 +230,7 @@ Sunlight is not a consistent source of vitamin D, and there are a number of fact
 * Skin pigmentation: darker skin types.
 
 
-Talk with your child’s doctor or nurse if you would like help making sure your child is getting enough vitamin D.
+Talk with your childaÌ‚â‚¬TMs doctor or nurse if you would like help making sure your child is getting enough vitamin D.
 
 
 
@@ -245,7 +245,7 @@ Are there certain precautions I should take when feeding my child after a natura
 
 
 
-In the event of a natural disaster, be prepared for challenges, which may include power outages, unhealthy living spaces, and unsafe water. Always check with local authorities on the status of the drinking water and follow boil water advisories. Learn more about how to [feed your child safely after a natural disaster](/breastfeeding/recommendations/food-safety-for-infants-after-a-disaster.html), [common questions about infant feeding during emergencies,](/nutrition/emergencies-infant-feeding/faqs.html) [special considerations](/nutrition/emergencies-infant-feeding/special-considerations.html), and [how to be prepared](/nutrition/emergencies-infant-feeding/checklist.html) for an emergency.
+In the event of a natural disaster, be prepared for challenges, which may include power outages, unhealthy living spaces, and unsafe water. Always check with local authorities on the status of the drinking water and follow boil water advisories. Learn more about how to [feed your child safely after a natural disaster](/breastfeeding/recommendations/food-safety-for-infants-after-a-disaster.html), [common questions about infant feeding during emergencies,](/nutrition/emergencies-infant-feeding/faqs.html) [special considerations](/nutrition/emergencies-infant-feeding/special-considerations.html), and [how to be prepared](/nutrition/emergencies-infant-feeding/checklist.html) for an emergency.
 
 
 
@@ -260,13 +260,13 @@ Is it safe for mothers to use medications while breastfeeding?
 
 
 
-Although many medications do pass into breast milk, most have no effect on your breast milk supply or on your baby’s well\-being.
+Although many medications do pass into breast milk, most have no effect on your breast milk supply or on your babyaÌ‚â‚¬TMs well\-being.
 
 
-You can search for more information about a specific medication at [LactMed®](https://www.ncbi.nlm.nih.gov/books/NBK501922/). Talk to your doctor or nurse if you have questions or concerns about taking medications while breastfeeding.
+You can search for more information about a specific medication at [LactMedAÌ‚Â®](https://www.ncbi.nlm.nih.gov/books/NBK501922/). Talk to your doctor or nurse if you have questions or concerns about taking medications while breastfeeding.
 
 
-Visit CDC’s [Breastfeeding Prescription Medication Use](/breastfeeding/breastfeeding-special-circumstances/vaccinations-medications-drugs/prescription-medication-use.html) page to learn more.
+Visit CDCaÌ‚â‚¬TMs [Breastfeeding Prescription Medication Use](/breastfeeding/breastfeeding-special-circumstances/vaccinations-medications-drugs/prescription-medication-use.html) page to learn more.
 
 
 
@@ -286,7 +286,7 @@ Can toddlers be breastfed?
 
 
 
-Yes. Breastfeeding is great for toddlers too. The [U.S. Dietary Guidelines for Americans  \[PDF\-30\.6MB]](https://www.dietaryguidelines.gov/sites/default/files/2020-12/Dietary_Guidelines_for_Americans_2020-2025.pdf#page=65) recommend that infants be [exclusively breastfed](/nutrition/infantandtoddlernutrition/definitions.html#Exclusivebreastfeeding) for about the first 6 months, and then continuing breastfeeding while introducing appropriate [complementary foods](https://www.cdc.gov/nutrition/infantandtoddlernutrition/definitions.html#complementaryfoods) until your child is 12 months old or older. The [American Academy of Pediatrics](https://publications.aap.org/pediatrics/article/150/1/e2022057988/188347/Policy-Statement-Breastfeeding-and-the-Use-of?searchresult=1?autologincheck=redirected) and the [World Health Organization](https://www.who.int/health-topics/breastfeeding) also recommend exclusive breastfeeding for about the first 6 months, with continued breastfeeding along with introducing appropriate complementary foods for up to 2 years of age or longer.
+Yes. Breastfeeding is great for toddlers too. The [U.S. Dietary Guidelines for Americans  \[PDF\-30\.6MB]](https://www.dietaryguidelines.gov/sites/default/files/2020-12/Dietary_Guidelines_for_Americans_2020-2025.pdf#page=65) recommend that infants be [exclusively breastfed](/nutrition/infantandtoddlernutrition/definitions.html#Exclusivebreastfeeding) for about the first 6 months, and then continuing breastfeeding while introducing appropriate [complementary foods](https://www.cdc.gov/nutrition/infantandtoddlernutrition/definitions.html#complementaryfoods) until your child is 12 months old or older. The [American Academy of Pediatrics](https://publications.aap.org/pediatrics/article/150/1/e2022057988/188347/Policy-Statement-Breastfeeding-and-the-Use-of?searchresult=1?autologincheck=redirected) and the [World Health Organization](https://www.who.int/health-topics/breastfeeding) also recommend exclusive breastfeeding for about the first 6 months, with continued breastfeeding along with introducing appropriate complementary foods for up to 2 years of age or longer.
 
 
 
@@ -296,7 +296,7 @@ How much do I feed my baby if he or she is getting both breast milk and infant f
 
 
 
-For babies who are receiving both breast milk and infant formula, how much and how often a baby eats may be different than for babies who receive only breast milk or only infant formula. If you have questions about your baby’s feeding patterns, talk with his or her doctor or nurse.
+For babies who are receiving both breast milk and infant formula, how much and how often a baby eats may be different than for babies who receive only breast milk or only infant formula. If you have questions about your babyaÌ‚â‚¬TMs feeding patterns, talk with his or her doctor or nurse.
 
 
 
@@ -306,7 +306,7 @@ How do I know my newborn is getting enough to eat?
 
 
 
-There are several ways you can tell if your baby is getting enough to eat. Having regular wet and dirty diapers are signs your baby is eating enough. In addition, your child’s doctor or nurse can check his or her weight and length to make sure he or she is [growing well](/growthcharts/index.htm). These measurements are usually done at the well\-baby visits. If you have questions about your baby’s growth, talk to his or her doctor or nurse.
+There are several ways you can tell if your baby is getting enough to eat. Having regular wet and dirty diapers are signs your baby is eating enough. In addition, your childaÌ‚â‚¬TMs doctor or nurse can check his or her weight and length to make sure he or she is [growing well](/growthcharts/index.htm). These measurements are usually done at the well\-baby visits. If you have questions about your babyaÌ‚â‚¬TMs growth, talk to his or her doctor or nurse.
 
 
 
@@ -331,7 +331,7 @@ Will putting cereal in a bottle help my baby sleep longer?
 
 
 
-No, putting infant cereal or other solid foods in your baby’s bottle will not make him or her sleep longer and could increase your baby’s risk of choking.
+No, putting infant cereal or other solid foods in your babyaÌ‚â‚¬TMs bottle will not make him or her sleep longer and could increase your babyaÌ‚â‚¬TMs risk of choking.
 
 
 
@@ -366,7 +366,7 @@ If you notice your baby:
 * Transfers food from the front to the back of the tongue to swallow.
 
 
-Have concerns about your child’s developmental milestones? Learn more about [talking to your child’s doctor and sharing your concerns](/ncbddd/actearly/concerned.html).
+Have concerns about your childaÌ‚â‚¬TMs developmental milestones? Learn more about [talking to your childaÌ‚â‚¬TMs doctor and sharing your concerns](/ncbddd/actearly/concerned.html).
 
 
 
@@ -437,10 +437,22 @@ Should my child eat fish?
 
 
 
-Fish provide key nutrients that support a child’s brain development and immune system. Once your child starts eating solid foods, you can introduce fish as one of those foods. Fish contain an element called mercury, and it is important to choose fish that are lower in mercury. Mercury can be harmful to your baby’s brain development. For more information on the best choices of fish, see the [FDA and EPA’s Advice About Eating Fish](https://www.fda.gov/media/152848/download).
+Fish provide key nutrients that support a childaÌ‚â‚¬TMs brain development and immune system. Once your child starts eating solid foods, you can introduce fish as one of those foods. Fish contain an element called mercury, and it is important to choose fish that are lower in mercury. Mercury can be harmful to your babyaÌ‚â‚¬TMs brain development. For more information on the best choices of fish, see the [FDA and EPAaÌ‚â‚¬TMs Advice About Eating Fish](https://www.fda.gov/media/152848/download).
 
 
 
 [Top of Page](#)
 
 
+
+
+
+
+**Error processing SSI file**  
+
+
+
+
+
+
+ Last Reviewed:

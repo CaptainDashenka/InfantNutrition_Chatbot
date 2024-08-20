@@ -152,7 +152,7 @@ Your baby will gradually learn that night\-time is for sleeping.
 
 
 
-**Where should my baby sleep?**
+**Where should my baby sleep?**
 -------------------------------
 
 For the first 6 months your baby should be in the same room as you when they're asleep, both day and night. This can reduce the risk of SIDS (sudden infant death syndrome).
@@ -166,7 +166,7 @@ If you use a baby sling to carry your baby, make sure you use it safely. [The Lu
 
 
 
-**Establishing a baby bedtime routine**
+**Establishing a baby bedtime routine**
 ---------------------------------------
 
 You may feel ready to introduce a bedtime routine when your baby is around 3 months old. Getting them into a simple, soothing bedtime routine can be a great opportunity to have 1\-to\-1 time with your baby.
@@ -175,34 +175,34 @@ The routine could consist of:
 
 * having a bath
 * changing into night clothes and a fresh nappy
-* putting them to bed
+* putting them to bed
 * reading a bedtime story (see more in [Baby and toddler play ideas](/conditions/baby/babys-development/play-and-learning/baby-and-toddler-play-ideas/))
 * dimming the lights in the room to create a calm atmosphere
 * giving a goodnight kiss and cuddle
 * singing a lullaby or having a wind\-up musical mobile you can turn on when you've put your baby to bed
 * [brushing their teeth](/conditions/baby/babys-development/teething/looking-after-your-babys-teeth/) (if they have any)
 
-As your child gets older, it can be helpful to keep to a similar bedtime routine. Too much excitement and stimulation just before bedtime can wake your child up again. Spend some time winding down and doing some calmer activities, like reading. 
+As your child gets older, it can be helpful to keep to a similar bedtime routine. Too much excitement and stimulation just before bedtime can wake your child up again. Spend some time winding down and doing some calmer activities, like reading. 
 
 
 
 
-**How much sleep does your baby need?**
+**How much sleep does your baby need?**
 ---------------------------------------
 
 Just as with adults, babies' and children's sleep patterns vary. From birth, some babies need more or less sleep than others. The list below shows the average amount of sleep babies and children need during a 24\-hour period, including daytime naps.
 
 ### **Newborn sleep needs**
 
-Most newborn babies are asleep more than they are awake. Their total daily sleep varies, but can be from 8 hours up to 16 or 18 hours. Babies will wake during the night because they need to be fed. Being too hot or too cold can also disturb their sleep.
+Most newborn babies are asleep more than they are awake. Their total daily sleep varies, but can be from 8 hours up to 16 or 18 hours. Babies will wake during the night because they need to be fed. Being too hot or too cold can also disturb their sleep.
 
 ### **Sleep requirements at 3 to 6 months old**
 
-As your baby grows, they'll need fewer night feeds and will be able to sleep for longer. Some babies will sleep for 8 hours or longer at night, but not all. By 4 months, they may be spending around twice as long sleeping at night as they do during the day.
+As your baby grows, they'll need fewer night feeds and will be able to sleep for longer. Some babies will sleep for 8 hours or longer at night, but not all. By 4 months, they may be spending around twice as long sleeping at night as they do during the day.
 
-### **Baby sleep at 6 to 12 months**
+### **Baby sleep at 6 to 12 months**
 
-For babies aged 6 months to a year, night feeds may no longer be necessary and some babies will sleep for up to 12 hours at night. Teething discomfort or hunger may wake some babies during the night.
+For babies aged 6 months to a year, night feeds may no longer be necessary and some babies will sleep for up to 12 hours at night. Teething discomfort or hunger may wake some babies during the night.
 
 ### **Sleep requirements from 12 months**
 
@@ -219,10 +219,10 @@ Most children aged 3 or 4 will need about 12 hours sleep, but this can range fro
 
 
 
-**Coping with disturbed nights**
+**Coping with disturbed nights**
 --------------------------------
 
-Newborn babies invariably wake up repeatedly in the night for the first few months, and disturbed nights can be very hard to cope with.
+Newborn babies invariably wake up repeatedly in the night for the first few months, and disturbed nights can be very hard to cope with.
 
 If you have a partner, ask them to help. If you're formula feeding, encourage your partner to share the feeds. If you're breastfeeding, ask your partner to take over the early morning changing and dressing so you can go back to sleep.
 
@@ -231,7 +231,7 @@ Once you're into a good breastfeeding routine, your partner could occasionally g
 
 
 
-**Dealing with baby sleep pattern changes**
+**Dealing with baby sleep pattern changes**
 -------------------------------------------
 
 All babies change their sleep patterns. Just when you think you have it sorted and you've all had a good night's sleep, the next night you might be up every 2 hours.

@@ -125,9 +125,9 @@ Salt
 ----
 
 
-Babies should not eat much [salt](/live-well/eat-well/food-types/salt-in-your-diet/), as it's not good for their kidneys. 
+Babies should not eat much [salt](/live-well/eat-well/food-types/salt-in-your-diet/), as it's not good for their kidneys. 
 
-Do not add salt to your baby's food or cooking water, and do not use stock cubes or gravy, as they're often high in salt.
+Do not add salt to your baby's food or cooking water, and do not use stock cubes or gravy, as they're often high in salt.
 
 Remember this when you're cooking for the family if you plan to give the same food to your baby.
 
@@ -148,7 +148,7 @@ Sugar
 -----
 
 
-Your baby does not need [sugar](/live-well/eat-well/food-types/how-does-sugar-in-our-diet-affect-our-health/). 
+Your baby does not need [sugar](/live-well/eat-well/food-types/how-does-sugar-in-our-diet-affect-our-health/). 
 
 By avoiding sugary snacks and drinks (including fruit juice and other fruit drinks), you'll help prevent [tooth decay](https://www.nhs.uk/conditions/tooth-decay/).
 
@@ -159,7 +159,7 @@ Saturated fat
 -------------
 
 
-Do not give your child too many foods that are high in [saturated fat](/live-well/eat-well/how-to-eat-a-balanced-diet/eat-less-saturated-fat/), such as crisps, biscuits and cakes.
+Do not give your child too many foods that are high in [saturated fat](/live-well/eat-well/how-to-eat-a-balanced-diet/eat-less-saturated-fat/), such as crisps, biscuits and cakes.
 
 Checking the nutrition labels can help you choose foods that are lower in saturated fat.
 
@@ -225,9 +225,9 @@ Raw and lightly cooked eggs
 
 Babies can have eggs from around 6 months.
 
-If the eggs are hens' eggs and they have a red lion stamped on them, or you see a red lion with the words "British Lion Quality" on the box, it's fine for your baby to have them raw (for example, in homemade mayonnaise) or lightly cooked.
+If the eggs are hens' eggs and they have a red lion stamped on them, or you see a red lion with the words "British Lion Quality" on the box, it's fine for your baby to have them raw (for example, in homemade mayonnaise) or lightly cooked.
 
-Hens' eggs that do not have the red lion mark should be cooked until both the white and yolk are solid. So should duck, goose or quail eggs.
+Hens' eggs that do not have the red lion mark should be cooked until both the white and yolk are solid. So should duck, goose or quail eggs.
 
 Avoid raw eggs, including uncooked cake mixture, homemade ice creams, homemade mayonnaise, or desserts that contain uncooked egg that you cannot confirm are red lion stamped.
 
@@ -275,7 +275,7 @@ Shark, swordfish and marlin
 ---------------------------
 
 
-Do not give your baby shark, swordfish or marlin. The amount of mercury in these fish can affect the development of a baby's nervous system.
+Do not give your baby shark, swordfish or marlin. The amount of mercury in these fish can affect the development of a baby's nervous system.
 
 
 
@@ -288,7 +288,7 @@ For more information and advice about babies and food, see:
 
 * [Food allergies in babies and young children](/conditions/baby/weaning-and-feeding/food-allergies-in-babies-and-young-children/)
 * [Your baby's first solid foods](/conditions/baby/weaning-and-feeding/babys-first-solid-foods/)
-* [Baby and toddler meal ideas](/conditions/baby/weaning-and-feeding/baby-and-toddler-meal-ideas/)
+* [Baby and toddler meal ideas](/conditions/baby/weaning-and-feeding/baby-and-toddler-meal-ideas/)
 
 
 

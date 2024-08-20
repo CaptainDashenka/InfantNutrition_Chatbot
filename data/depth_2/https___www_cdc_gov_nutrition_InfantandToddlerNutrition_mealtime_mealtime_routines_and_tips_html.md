@@ -60,7 +60,7 @@ Mealtime Routines and Tips \| Nutrition \| CDC
 [Skip directly to search](#headerSearch)
 
 
-[Español](/spanish/) \| 
+[EspanIÌ€Æ’ol](/spanish/) \| 
 [Other Languages](https://wwwn.cdc.gov/pubs/other-languages/)
 
 **Error processing SSI file**  
@@ -171,7 +171,7 @@ Mealtime Routines and Tips
 ==========================
 
  
-[Español (Spanish)](/nutrition/infantandtoddlernutrition/mealtime/consejos-y-rutinas-para-la-hora-de-comer.html) [Print](#print)
+[EspanIÌ€Æ’ol (Spanish)](/nutrition/infantandtoddlernutrition/mealtime/consejos-y-rutinas-para-la-hora-de-comer.html) [Print](#print)
 
 
 
@@ -185,7 +185,7 @@ Did You Know?![Toddler washing hands with soap and water](/nutrition/infantandto
 **Routines can help children know what to expect when it is time for meals or snacks.**
 
 
-For more information, watch these videos from [1,000](/nutrition/infantandtoddlernutrition/resources.html#videos) Days.
+For more information, watch these videos from [1,000](/nutrition/infantandtoddlernutrition/resources.html#videos) Days.
 
 
 
@@ -198,8 +198,8 @@ Here are some routines and tips for mealtimes:
 **Clean**
 
 
-* Wash your child’s hands before mealtime.
-* **Tip:** Worried about a mess? You can put newspaper or a plastic mat on the floor under your child’s high chair or booster seat. This can help with cleanup.
+* Wash your childaÌ‚â‚¬TMs hands before mealtime.
+* **Tip:** Worried about a mess? You can put newspaper or a plastic mat on the floor under your childaÌ‚â‚¬TMs high chair or booster seat. This can help with cleanup.
 
 
 **Be Safe**
@@ -208,7 +208,7 @@ Here are some routines and tips for mealtimes:
 * Sit your child in a safe place. A high chair or booster seat are good options.
 * Strap your child into the high chair or booster seat.
 * Watch children at all times to make sure they are safe.
-* **Tip:** Learn important food safety steps to keep your child safe from foodborne illness. Visit [Foodsafety.gov](https://www.foodsafety.gov/risk/children/index.html) or CDC’s page on [Safer Food Choices for Children Under 5 Years Old.](/foodsafety/communication/children-under-5.html)
+* **Tip:** Learn important food safety steps to keep your child safe from foodborne illness. Visit [Foodsafety.gov](https://www.foodsafety.gov/risk/children/index.html) or CDCaÌ‚â‚¬TMs page on [Safer Food Choices for Children Under 5 Years Old.](/foodsafety/communication/children-under-5.html)
 
 
 **Focus**
@@ -219,7 +219,7 @@ Here are some routines and tips for mealtimes:
 * Did You Know?**Children should not watch screens.**
 
 
-The American Academy of Pediatrics [recommends](https://publications.aap.org/pediatrics/article/138/5/e20162591/60503/Media-and-Young-Minds?autologincheck=redirected) children avoid using screens until they are 18 months old, unless video\-chatting with friends or family.
+The American Academy of Pediatrics [recommends](https://publications.aap.org/pediatrics/article/138/5/e20162591/60503/Media-and-Young-Minds?autologincheck=redirected) children avoid using screens until they are 18 months old, unless video\-chatting with friends or family.
 
 
 See the [reasons](https://www.healthychildren.org/English/family-life/Media/Pages/Why-to-Avoid-TV-Before-Age-2.aspx) for this recommendation.
@@ -244,7 +244,7 @@ Talk with your child during mealtimes. This can be a fun time, and it is importa
 Did You Know?**Children may eat different amounts of food each day.** 
 
 
-This is normal. Talk with your child’s doctor or nurse if you are concerned about how much, or how little, your child is eating.
+This is normal. Talk with your childaÌ‚â‚¬TMs doctor or nurse if you are concerned about how much, or how little, your child is eating.
 
 
 
@@ -260,8 +260,18 @@ This is normal. Talk with your child’s doctor or nurse if you are concerned ab
 * **Tip:** Watch your children for signs that they are [hungry or full](/nutrition/infantandtoddlernutrition/mealtime/signs-your-child-is-hungry-or-full.html).
 
 
- [Top of Page](#)
+ [Top of Page](#)
 
 
 
 
+
+
+**Error processing SSI file**  
+
+
+
+
+
+
+ Last Reviewed:

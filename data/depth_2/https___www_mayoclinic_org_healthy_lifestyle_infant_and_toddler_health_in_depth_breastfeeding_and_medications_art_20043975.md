@@ -86,12 +86,6 @@
 
 
 
-
-
-
-
-
-
 This content does not have an English version.
 This content does not have an Arabic version.
 
@@ -239,7 +233,7 @@ Sometimes your health care provider might recommend that you stop breastfeeding 
 If you need to stop breastfeeding only temporarily, use a double electric breast pump to keep up your milk supply until you're able to breastfeed again. Throw away the milk you pump while you're taking the medication.
 
 
-If you're not sure if a medication is safe while breastfeeding, pump, label and store expressed breast milk until you check with your health care provider. If you need to stop breastfeeding permanently � which is unusual � ask your health care provider about weaning and to help you choose an infant formula.
+If you're not sure if a medication is safe while breastfeeding, pump, label and store expressed breast milk until you check with your health care provider. If you need to stop breastfeeding permanently aIÌ€â€šaÌ‚â€šÂ¬aÌ‚â‚¬ï¿1⁄2 which is unusual aIÌ€â€šaÌ‚â€šÂ¬aÌ‚â‚¬ï¿1⁄2 ask your health care provider about weaning and to help you choose an infant formula.
 
 
 
@@ -256,15 +250,15 @@ With your health care provider's input, consider this list of medications found 
 
 * Acetaminophen (Tylenol, others)
 * Ibuprofen (Advil, Motrin IB, others)
-* Naproxen sodium (Aleve, Anaprox DS, others) � short\-term use only
+* Naproxen sodium (Aleve, Anaprox DS, others) aIÌ€â€šaÌ‚â€šÂ¬aÌ‚â‚¬ï¿1⁄2 short\-term use only
 
 
 #### Antimicrobial medications
 
 
 * Fluconazole (Diflucan)
-* Miconazole (Monistat 3, Monistat 7, others) � apply minimal amount
-* Clotrimazole (Mycelex, Lotrimin AF) � apply minimal amount
+* Miconazole (Monistat 3, Monistat 7, others) aIÌ€â€šaÌ‚â€šÂ¬aÌ‚â‚¬ï¿1⁄2 apply minimal amount
+* Clotrimazole (Mycelex, Lotrimin AF) aIÌ€â€šaÌ‚â€šÂ¬aÌ‚â‚¬ï¿1⁄2 apply minimal amount
 * Penicillins, such as amoxicillin and ampicillin
 * Cephalosporins, such as cephalexin
 
@@ -279,14 +273,14 @@ With your health care provider's input, consider this list of medications found 
 #### Decongestants
 
 
-* Medications containing pseudoephedrine (Sudafed, Zyrtec D) � use with caution because pseudoephedrine can decrease milk supply
+* Medications containing pseudoephedrine (Sudafed, Zyrtec D) aIÌ€â€šaÌ‚â€šÂ¬aÌ‚â‚¬ï¿1⁄2 use with caution because pseudoephedrine can decrease milk supply
 
 
 #### Birth control
 
 
 * Progestin\-only contraceptives, also known as the minipill
-* Combination contraceptives containing estrogen and progestin � discuss this option with your provider
+* Combination contraceptives containing estrogen and progestin aIÌ€â€šaÌ‚â€šÂ¬aÌ‚â‚¬ï¿1⁄2 discuss this option with your provider
 
 
 Researchers don't have a final answer about whether combination contraceptives containing estrogen and progestin affect milk production. Talk to your health care provider before taking this type of birth control while breastfeeding.
@@ -340,7 +334,7 @@ When you're taking medication, watch your baby for any changes in eating or slee
 
 
 
-�
+ 
 
 
 

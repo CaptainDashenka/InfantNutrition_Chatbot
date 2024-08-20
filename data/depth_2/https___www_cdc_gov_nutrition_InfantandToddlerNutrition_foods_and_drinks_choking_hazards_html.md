@@ -60,7 +60,7 @@ Choking Hazards \| Nutrition \| CDC
 [Skip directly to search](#headerSearch)
 
 
-[Español](/spanish/) \| 
+[EspanIÌ€Æ’ol](/spanish/) \| 
 [Other Languages](https://wwwn.cdc.gov/pubs/other-languages/)
 
 **Error processing SSI file**  
@@ -169,7 +169,7 @@ Choking Hazards
 ===============
 
  
-[Español (Spanish)](/nutrition/infantandtoddlernutrition/foods-and-drinks/peligros-de-ahogo-por-atragantamiento.html) [Print](#print)
+[EspanIÌ€Æ’ol (Spanish)](/nutrition/infantandtoddlernutrition/foods-and-drinks/peligros-de-ahogo-por-atragantamiento.html) [Print](#print)
 
 
 
@@ -182,7 +182,7 @@ Related Pages
 Did You Know?**You can help prevent your child from choking.**
 
 
-To learn more, watch these [videos](/nutrition/InfantandToddlerNutrition/resources.html#videos) from 1,000 Days.
+To learn more, watch these [videos](/nutrition/InfantandToddlerNutrition/resources.html#videos) from 1,000 Days.
 
 
 
@@ -195,7 +195,7 @@ Here are ways to help prevent your child from choking.
 Foods and preparation
 
 
-* Cook and prepare food to the right shape, size, and texture [for your child’s development](/nutrition/InfantandToddlerNutrition/foods-and-drinks/when-to-introduce-solid-foods.html).
+* Cook and prepare food to the right shape, size, and texture [for your childaÌ‚â‚¬TMs development](/nutrition/InfantandToddlerNutrition/foods-and-drinks/when-to-introduce-solid-foods.html).
 * Avoid small, sticky, or hard foods that are hard to chew and swallow.
 
 
@@ -218,14 +218,14 @@ Always
 Be ready
 
 
-* Talk to your child’s doctor or nurse to learn what to do if your child chokes.
+* Talk to your childaÌ‚â‚¬TMs doctor or nurse to learn what to do if your child chokes.
 
 
 Potential Choking Hazards for Young Children
 --------------------------------------------
 
 
-The United States Department of Agriculture’s Special Supplemental Nutrition Program for Women, Infants, and Children (WIC) put together a [list](https://wicworks.fns.usda.gov/resources/infant-nutrition-and-feeding-guide) of foods to avoid because these foods could cause a child to choke. This list may not include all foods which could cause choking. For helpful tips to prevent choking, print this [handout \[PDF\-896KB]](https://wicworks.fns.usda.gov/sites/default/files/media/document/English_ReducingRiskofChokinginYoungChildren.pdf) from the United States Department of Agriculture.
+The United States Department of AgricultureaÌ‚â‚¬TMs Special Supplemental Nutrition Program for Women, Infants, and Children (WIC) put together a [list](https://wicworks.fns.usda.gov/resources/infant-nutrition-and-feeding-guide) of foods to avoid because these foods could cause a child to choke. This list may not include all foods which could cause choking. For helpful tips to prevent choking, print this [handout \[PDF\-896KB]](https://wicworks.fns.usda.gov/sites/default/files/media/document/English_ReducingRiskofChokinginYoungChildren.pdf) from the United States Department of Agriculture.
 
 
 
@@ -275,3 +275,15 @@ Learn more about [when, what and how to introduce solid foods](/nutrition/Infant
 [Top of Page](#)
 
 
+
+
+
+
+**Error processing SSI file**  
+
+
+
+
+
+
+ Last Reviewed:

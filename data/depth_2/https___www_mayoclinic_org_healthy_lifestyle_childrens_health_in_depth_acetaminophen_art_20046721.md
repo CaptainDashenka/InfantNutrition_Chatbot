@@ -3,22 +3,7 @@
 
 
 
- Childhood vaccines: Tough questions, straight answers \- Mayo Clinic
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+ Acetaminophen and children: Why dose matters \- Mayo Clinic
 
 
 
@@ -139,28 +124,28 @@ Request Appointment](/appointments)
 
 
 
-[Healthy Lifestyle](/healthy-lifestyle)[Infant and toddler health](/healthy-lifestyle/infant-and-toddler-health/basics/infant-and-toddler-health/hlv-20049400)
-=======================================================================================================================
+[Healthy Lifestyle](/healthy-lifestyle)[Children's health](/healthy-lifestyle/childrens-health/basics/childrens-health/hlv-20049425)
+=============================================================================================
 
 
 
-[Print](/healthy-lifestyle/infant-and-toddler-health/in-depth/vaccines/art-20048334?p=1)
+[Print](/healthy-lifestyle/childrens-health/in-depth/acetaminophen/art-20046721?p=1)
 
 
 
 
 
 [Sections](#)
-1. [Basics](/healthy-lifestyle/infant-and-toddler-health/basics/infant-and-toddler-health/hlv-20049400)
-	1. [Infant and toddler health](/healthy-lifestyle/infant-and-toddler-health/basics/infant-and-toddler-health/hlv-20049400)
-	2. [Newborn health](/healthy-lifestyle/infant-and-toddler-health/basics/newborn-health/hlv-20049400)
-	3. [Infant health](/healthy-lifestyle/infant-and-toddler-health/basics/infant-health/hlv-20049400)
-	4. [Toddler health](/healthy-lifestyle/infant-and-toddler-health/basics/toddler-health/hlv-20049400)
-2. [In\-Depth](/healthy-lifestyle/infant-and-toddler-health/in-depth/hlv-20049400)
-3. [Expert Answers](/healthy-lifestyle/infant-and-toddler-health/expert-answers/hlv-20049400)
-4. [Multimedia](/healthy-lifestyle/infant-and-toddler-health/multimedia/hlv-20049400)
-5. [Resources](/healthy-lifestyle/infant-and-toddler-health/resources/hlv-20049400)
-6. [News From Mayo Clinic](/healthy-lifestyle/infant-and-toddler-health/news/hlv-20049400)
+1. [Basics](/healthy-lifestyle/childrens-health/basics/childrens-health/hlv-20049425)
+	1. [Children's health](/healthy-lifestyle/childrens-health/basics/childrens-health/hlv-20049425)
+	2. [Preschoolers](/healthy-lifestyle/childrens-health/basics/preschoolers/hlv-20049425)
+	3. [Elementary students](/healthy-lifestyle/childrens-health/basics/elementary-students/hlv-20049425)
+2. [In\-Depth](/healthy-lifestyle/childrens-health/in-depth/hlv-20049425)
+3. [Expert Answers](/healthy-lifestyle/childrens-health/expert-answers/hlv-20049425)
+4. [Multimedia](/healthy-lifestyle/childrens-health/multimedia/hlv-20049425)
+5. [Resources](/healthy-lifestyle/childrens-health/resources/hlv-20049425)
+6. [News From Mayo Clinic](/healthy-lifestyle/childrens-health/news/hlv-20049425)
+7. [What's New](/healthy-lifestyle/childrens-health/whats-new/hlv-20049425)
 
 
 
@@ -178,130 +163,92 @@ Request Appointment](/appointments)
 
 
 
-Childhood vaccines: Tough questions, straight answers
------------------------------------------------------
 
-*Do vaccines cause autism? Is it OK to skip certain vaccines? Get the facts on these and other common questions.*[By Mayo Clinic Staff](/about-this-site/meet-our-medical-editors)
 
+Acetaminophen and children: Why dose matters
+--------------------------------------------
 
-Part of taking care of kids is setting them up for a healthy future. Vaccines play a big part in health.
+*An acetaminophen overdose is serious aIÌ€â€šaÌ‚â€šÂ¬aÌ‚â‚¬ï¿1⁄2 and it can happen more easily than you might think. Here's how to protect your child.*[By Mayo Clinic Staff](/about-this-site/meet-our-medical-editors)
 
 
-Vaccines for illnesses such as diphtheria, rotavirus, polio, tetanus, whooping cough, also called pertussis, and others are given in the first year of life. If these diseases seem uncommon it's because vaccines are doing their job.
+Acetaminophen (Tylenol, others) has long been used to lower fever and ease pain in children. It's effective and sold without a prescription. But giving a child too much of this medicine can be harmful. It can cause a serious health concern called an acetaminophen overdose. Here's what you need to know about acetaminophen overdoses and children.
 
 
-Still, you might wonder about the benefits and risks of childhood vaccines. Here are answers to some common questions about childhood vaccines.
 
+### What might cause an acetaminophen overdose?
 
 
-### Is natural immunity better than vaccination?
 
 
+An acetaminophen overdose can happen fast. Situations that could lead you to give your child too much acetaminophen include the following:
 
 
-No. In general, it is better to prevent sickness by getting vaccinated rather than getting an infection.
+* **You're in a hurry.** If you rush, you might misread the instructions on the acetaminophen label. Or you might not carefully measure the medicine. It's also possible to give two doses too close together. That could happen if you don't realize that another caregiver already has given your child a dose.
+* **You combine medicines.** If your child has various cold symptoms, your instinct might be to combine acetaminophen with another over\-the\-counter medicine. If the other medicine contains acetaminophen, this can result in a dangerously high dose. Also, do not give cough and cold medicines to children younger than age 6\. These medicines may cause serious side effects.
+* **You use the wrong version.** You might cause an overdose if you give your child adult acetaminophen instead of a children's version.
+* **You decide that more is better.** If you don't think the recommended dose of acetaminophen helped enough, you might wonder if you should raise the dose. Or you might wonder if you should give the medicine more often. Don't take either step. Giving higher or more\-frequent doses of acetaminophen can cause an accidental overdose.
+* **Your child mistakes the medicine for candy or juice.** Acetaminophen comes in tablet, capsule and liquid forms. Overdoses often happen when a child mistakes acetaminophen for something safe to eat or drink. This can happen when an adult leaves the bottle open or within a child's reach after using medicine.
 
 
-Getting infected with a germ may provide some people with a longer lasting immune response but at higher risk. For example, getting a Haemophilus influenzae type b (Hib) bacterial infection could lead to permanent deafness, brain damage or even death.
 
+### What are the recommended acetaminophen doses?
 
-Childhood vaccines protect kids from serious diseases and complications. Vaccines also lower the chance of spreading a disease.
 
 
 
-### Do vaccines cause autism?
+If you give your child acetaminophen, read the product label carefully. It can help you figure out the correct dose based on your child's current weight. In general, doses can be given every four hours. But do not give a child acetaminophen more than five times in 24 hours.
 
 
 
+### What happens if the acetaminophen dose is too much?
 
-No. Vaccines do not cause autism. Researchers haven't found a connection between autism and childhood vaccines. The original study that ignited the controversy in 1998 was removed from the scientific record, also called retracted, in 2010\.
 
 
 
-### Are vaccine side effects dangerous?
+Too much acetaminophen can cause stomach irritation within hours. And it can cause liver damage within a few days.
 
 
+Early symptoms of an acetaminophen overdose can include:
 
 
-Most vaccine side effects are not dangerous. Any medicine, including vaccines, can cause side effects. Most of the time, these side effects are minor. Some examples are a low\-grade fever, headache, fussiness or soreness at the injection site.
+* Upset stomach or vomiting.
+* Drowsiness and lack of energy or alertness, also called lethargy.
+* Pain in the right upper part of the stomach area.
 
 
-Rarely, a child might experience a severe side effect, such as an allergic reaction or a seizure. These are rare side effects, and caregivers and health care providers monitor for them after vaccination.
+Get help if you notice these symptoms or if you're worried that a child may have an acetaminophen overdose.
 
 
-Of course, vaccines aren't given to children who have known allergies to specific parts of the vaccine. And if your child has a life\-threatening reaction to one vaccine, further doses of that vaccine won't be given.
+Contact your local poison center or seek emergency care. You also may have access to a poison help line, such as Poison Help at 800\-222\-1222 in the United States.
 
 
-The risk of a vaccine causing serious harm or death is very small. The benefits of getting a vaccine are much greater than the possible side effects for almost all children.
+If you can, note the strength or concentration of acetaminophen in the product. This information can help poison control or the emergency responders assess your child. If you seek medical help, take the medicine bottle with you.
 
 
+In the hospital, a child with an acetaminophen overdose gets a blood test. The test is done to find out if the amount of acetaminophen in the blood is toxic. If needed, medicine called an antidote might be given to reverse the effects of the acetaminophen.
 
-### Why are vaccines given so early?
 
 
+### How can you help prevent an acetaminophen overdose?
 
 
-Most babies are born with developing immune systems. Vaccination makes sure a baby has as much protection from disease and disease complications as is safely possible. It also helps prevent babies and children from spreading illness to others.
 
 
-Vaccines for children are timed carefully. Vaccines are given when protection inherited from the mother fades and the child's immune system is ready, but before kids come in contact with the germs that cause real infections.
+Before you give your child acetaminophen, ask yourself whether your child needs it. Fever is part of the body's defense against infections. So the purpose of using medicines for fever is to provide comfort rather than to get rid of the fever.
 
 
+If you give your child acetaminophen, use these tips to help prevent an overdose:
 
-### Is it OK to pick and choose vaccines?
 
+* Know your child's current weight. Follow the directions and weight\-based dose recommendations printed on medicine labels.
+* Use the measuring device that comes with your child's medicine. Don't use household teaspoons to measure liquid acetaminophen because they can vary in size.
+* Don't give your child acetaminophen when your child is taking other medicines that contain acetaminophen.
+* Don't give your child adult versions of acetaminophen.
+* Securely replace child\-resistant caps after using medicine.
+* Store all medicine in its original container. Keep it out of your child's reach and sight.
 
 
-
-It's not a good idea to skip some vaccines. That leaves your child without protection. It allows a child to spread disease to others. For some children, such as kids being treated for cancer, their main protection from disease is the immunity of the people around them.
-
-
-And because diseases are still spreading in many parts of the world, skipping vaccines puts your child at risk in the future.
-
-
-If you are worried about a certain vaccine, talk about your concerns with your child's health care provider. If your child falls behind the standard vaccine schedule, ask your child's health care provider how to catch up.
-
-
-[Have more questions? Read the vaccine guidance from Mayo Clinic.](/diseases-conditions/infectious-diseases/in-depth/vaccine-guidance/art-20536857)
-
-
-
-#### Mayo Clinic Minute: Why and when children should be vaccinated
-
-
-
-
-
-
-
-
-
-Show transcript for video Mayo Clinic Minute: Why and when children should be vaccinated
-
-**Elizabeth Cozine, M.D.:** Vaccination prevents a child from getting an illness. It also prevents them from spreading an illness.
-
-
-**Jason Howland:** Dr. Elizabeth Cozine, a Mayo Clinic family physician, says the Centers for Disease Control and Prevention has a standard immunization schedule for school\-age children that begins with ages 4 to 6\.
-
-
-**Dr. Cozine:**...which we think of as kindergarten shots. So that's measles, mumps, rubella and varicella.
-
-
-**Jason Howland:** She says the next set of routine immunizations is at age 11...
-
-
-**Dr. Cozine:**...which is tetanus, diphtheria and pertussis, and the meningococcal immunization.
-
-
-**Jason Howland:** It's also recommended every child get an annual flu shot. And HPV vaccination, which prevents cancer, can start as early as age 9\. Dr. Cozine says it's important to educate families on the importance of childhood vaccinations. She likens it to seat belt safety.
-
-
-**Dr. Cozine:** Immunizations are no different. If we have opportunities to protect our children against serious illness and potentially even death, even if the risk of that illness or the risk of death from that illness is really quite low, I'm all for it.
-
-
-**Jason Howland:** For the Mayo Clinic News Network, I'm Jason Howland.
-
-
+Careful use of acetaminophen and prompt treatment in case of an overdose can help prevent serious problems.
 
 
 

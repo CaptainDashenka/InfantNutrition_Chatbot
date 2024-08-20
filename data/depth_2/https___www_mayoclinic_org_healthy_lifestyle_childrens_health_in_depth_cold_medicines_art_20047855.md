@@ -3,22 +3,7 @@
 
 
 
- Childhood vaccines: Tough questions, straight answers \- Mayo Clinic
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+ Cold medicines for kids: What's the risk? \- Mayo Clinic
 
 
 
@@ -139,28 +124,28 @@ Request Appointment](/appointments)
 
 
 
-[Healthy Lifestyle](/healthy-lifestyle)[Infant and toddler health](/healthy-lifestyle/infant-and-toddler-health/basics/infant-and-toddler-health/hlv-20049400)
-=======================================================================================================================
+[Healthy Lifestyle](/healthy-lifestyle)[Children's health](/healthy-lifestyle/childrens-health/basics/childrens-health/hlv-20049425)
+=============================================================================================
 
 
 
-[Print](/healthy-lifestyle/infant-and-toddler-health/in-depth/vaccines/art-20048334?p=1)
+[Print](/healthy-lifestyle/childrens-health/in-depth/cold-medicines/art-20047855?p=1)
 
 
 
 
 
 [Sections](#)
-1. [Basics](/healthy-lifestyle/infant-and-toddler-health/basics/infant-and-toddler-health/hlv-20049400)
-	1. [Infant and toddler health](/healthy-lifestyle/infant-and-toddler-health/basics/infant-and-toddler-health/hlv-20049400)
-	2. [Newborn health](/healthy-lifestyle/infant-and-toddler-health/basics/newborn-health/hlv-20049400)
-	3. [Infant health](/healthy-lifestyle/infant-and-toddler-health/basics/infant-health/hlv-20049400)
-	4. [Toddler health](/healthy-lifestyle/infant-and-toddler-health/basics/toddler-health/hlv-20049400)
-2. [In\-Depth](/healthy-lifestyle/infant-and-toddler-health/in-depth/hlv-20049400)
-3. [Expert Answers](/healthy-lifestyle/infant-and-toddler-health/expert-answers/hlv-20049400)
-4. [Multimedia](/healthy-lifestyle/infant-and-toddler-health/multimedia/hlv-20049400)
-5. [Resources](/healthy-lifestyle/infant-and-toddler-health/resources/hlv-20049400)
-6. [News From Mayo Clinic](/healthy-lifestyle/infant-and-toddler-health/news/hlv-20049400)
+1. [Basics](/healthy-lifestyle/childrens-health/basics/childrens-health/hlv-20049425)
+	1. [Children's health](/healthy-lifestyle/childrens-health/basics/childrens-health/hlv-20049425)
+	2. [Preschoolers](/healthy-lifestyle/childrens-health/basics/preschoolers/hlv-20049425)
+	3. [Elementary students](/healthy-lifestyle/childrens-health/basics/elementary-students/hlv-20049425)
+2. [In\-Depth](/healthy-lifestyle/childrens-health/in-depth/hlv-20049425)
+3. [Expert Answers](/healthy-lifestyle/childrens-health/expert-answers/hlv-20049425)
+4. [Multimedia](/healthy-lifestyle/childrens-health/multimedia/hlv-20049425)
+5. [Resources](/healthy-lifestyle/childrens-health/resources/hlv-20049425)
+6. [News From Mayo Clinic](/healthy-lifestyle/childrens-health/news/hlv-20049425)
+7. [What's New](/healthy-lifestyle/childrens-health/whats-new/hlv-20049425)
 
 
 
@@ -178,130 +163,93 @@ Request Appointment](/appointments)
 
 
 
-Childhood vaccines: Tough questions, straight answers
------------------------------------------------------
+Cold medicines for kids: What's the risk?
+-----------------------------------------
 
-*Do vaccines cause autism? Is it OK to skip certain vaccines? Get the facts on these and other common questions.*[By Mayo Clinic Staff](/about-this-site/meet-our-medical-editors)
+*Cough and cold medicines can pose serious risks for young children. Know the facts and understand treatment alternatives.*[By Mayo Clinic Staff](/about-this-site/meet-our-medical-editors)
 
 
-Part of taking care of kids is setting them up for a healthy future. Vaccines play a big part in health.
+![ Jay L. Hoecker, M.D.](/-/media/kcms/gbs/patient-consumer/images/2015/04/22/08/29/hoeckerj_lg.jpg )
+Jay L. Hoecker, M.D.
 
 
-Vaccines for illnesses such as diphtheria, rotavirus, polio, tetanus, whooping cough, also called pertussis, and others are given in the first year of life. If these diseases seem uncommon it's because vaccines are doing their job.
+Over\-the\-counter cough and cold medicines are the best way to help a child who has a cold feel better aIÌ€â€šaÌ‚â€šÂ¬aÌ‚â‚¬ï¿1⁄2 right? Think again. Here's practical advice from Jay L. Hoecker, M.D., an emeritus pediatrics specialist at Mayo Clinic, Rochester, Minnesota.
 
 
-Still, you might wonder about the benefits and risks of childhood vaccines. Here are answers to some common questions about childhood vaccines.
 
+### What's the concern about cough and cold medicines for kids?
 
 
-### Is natural immunity better than vaccination?
 
 
+Over\-the\-counter cough and cold medicines are intended to treat the symptoms of coughs and colds, not the underlying disease. Research suggests that these medicines haven't been proved to work any better than inactive medicine (placebo). More important, these medications have potentially serious side effects, including fatal overdoses in children younger than 2 years old.
 
 
-No. In general, it is better to prevent sickness by getting vaccinated rather than getting an infection.
+Don't use over\-the\-counter medicines, except for fever reducers and pain relievers, to treat coughs and colds in children younger than 6 years old. Also, consider avoiding use of these medicines for children younger than 12 years old.
 
 
-Getting infected with a germ may provide some people with a longer lasting immune response but at higher risk. For example, getting a Haemophilus influenzae type b (Hib) bacterial infection could lead to permanent deafness, brain damage or even death.
 
+### What about antibiotics?
 
-Childhood vaccines protect kids from serious diseases and complications. Vaccines also lower the chance of spreading a disease.
 
 
 
-### Do vaccines cause autism?
+Antibiotics can be used to combat bacterial infections but have no effect on viruses, which cause colds. If your child has a cold, antibiotics won't help. Remember, the more your child uses antibiotics, the more likely he or she is to get sick with an antibiotic\-resistant infection in the future.
 
 
 
+### Can any medications help treat the common cold?
 
-No. Vaccines do not cause autism. Researchers haven't found a connection between autism and childhood vaccines. The original study that ignited the controversy in 1998 was removed from the scientific record, also called retracted, in 2010\.
 
 
 
-### Are vaccine side effects dangerous?
+An over\-the\-counter pain reliever aIÌ€â€šaÌ‚â€šÂ¬aÌ‚â‚¬ï¿1⁄2 such as acetaminophen (Tylenol, others) or ibuprofen (Advil, Children's Motrin, others) aIÌ€â€šaÌ‚â€šÂ¬aÌ‚â‚¬ï¿1⁄2 can reduce a fever and ease the pain of a sore throat. However, fevers are generally harmless. The main purpose for treating them is to help your child feel comfortable.
 
 
+If you give your child a pain reliever, follow the dosing guidelines carefully. For children younger than 3 months old, don't give acetaminophen until your baby has been seen by a doctor. Don't give ibuprofen to a child younger than 6 months old or to children who are vomiting constantly or are dehydrated.
 
 
-Most vaccine side effects are not dangerous. Any medicine, including vaccines, can cause side effects. Most of the time, these side effects are minor. Some examples are a low\-grade fever, headache, fussiness or soreness at the injection site.
+Also, use caution when giving aspirin to children or teenagers. Though aspirin is approved for use in children older than age 3, children and teenagers recovering from chickenpox or flu\-like symptoms should never take aspirin. This is because aspirin has been linked to Reye's syndrome, a rare but potentially life\-threatening condition, in such children.
 
 
-Rarely, a child might experience a severe side effect, such as an allergic reaction or a seizure. These are rare side effects, and caregivers and health care providers monitor for them after vaccination.
 
+### Is codeine OK?
 
-Of course, vaccines aren't given to children who have known allergies to specific parts of the vaccine. And if your child has a life\-threatening reaction to one vaccine, further doses of that vaccine won't be given.
 
 
-The risk of a vaccine causing serious harm or death is very small. The benefits of getting a vaccine are much greater than the possible side effects for almost all children.
 
+No. The Food and Drug Administration limits the use of prescription cough and cold medicines containing the opioids codeine or hydrocodone to adults age 18 and older. This is due to the potential for slowed or difficult breathing, misuse, risky use, addiction, overdose and even death.
 
 
-### Why are vaccines given so early?
 
+### How can I help my child feel better?
 
 
 
-Most babies are born with developing immune systems. Vaccination makes sure a baby has as much protection from disease and disease complications as is safely possible. It also helps prevent babies and children from spreading illness to others.
 
+To help your child cope with a cough or cold:
 
-Vaccines for children are timed carefully. Vaccines are given when protection inherited from the mother fades and the child's immune system is ready, but before kids come in contact with the germs that cause real infections.
 
+* **Offer fluids.** Liquids such as water, juice and broth might help thin secretions. Warm liquids, such as tea or chicken soup, might have a soothing effect, increase the flow of nasal mucus and loosen respiratory secretions.
+* **Run a cool\-mist humidifier.** This can add moisture to the air, which might decrease the drying of the nasal passages and throat. Place the humidifier near your child's bed. Clean the humidifier after every use.
+* **Use nasal saline.** Over\-the\-counter saline can keep nasal passages moist and loosen mucus. In younger children, apply saline nasal drops, wait for a short period and then use a suction bulb to draw mucus out of each nostril. For older children, use a saline nasal spray or saline nasal irrigation.
+* **Offer cold or frozen drinks or foods.** Ice cream, frozen fruit pops, ice or cold beverages might feel good on a sore throat.
+* **Encourage gargling with salt water.** For children age 6 years and older, gargling with warm salt water might soothe throat pain.
+* **Offer hard candy.** For children age 5 years and older, sucking on a piece of hard candy might soothe throat pain. Hard candy is probably as effective as medicated lozenges and less likely to have harmful effects. However, hard candy is a choking hazard and shouldn't be given to younger children.
 
 
-### Is it OK to pick and choose vaccines?
 
+### What's the best way to prevent the common cold?
 
 
 
-It's not a good idea to skip some vaccines. That leaves your child without protection. It allows a child to spread disease to others. For some children, such as kids being treated for cancer, their main protection from disease is the immunity of the people around them.
 
+To help your child stay healthy:
 
-And because diseases are still spreading in many parts of the world, skipping vaccines puts your child at risk in the future.
 
-
-If you are worried about a certain vaccine, talk about your concerns with your child's health care provider. If your child falls behind the standard vaccine schedule, ask your child's health care provider how to catch up.
-
-
-[Have more questions? Read the vaccine guidance from Mayo Clinic.](/diseases-conditions/infectious-diseases/in-depth/vaccine-guidance/art-20536857)
-
-
-
-#### Mayo Clinic Minute: Why and when children should be vaccinated
-
-
-
-
-
-
-
-
-
-Show transcript for video Mayo Clinic Minute: Why and when children should be vaccinated
-
-**Elizabeth Cozine, M.D.:** Vaccination prevents a child from getting an illness. It also prevents them from spreading an illness.
-
-
-**Jason Howland:** Dr. Elizabeth Cozine, a Mayo Clinic family physician, says the Centers for Disease Control and Prevention has a standard immunization schedule for school\-age children that begins with ages 4 to 6\.
-
-
-**Dr. Cozine:**...which we think of as kindergarten shots. So that's measles, mumps, rubella and varicella.
-
-
-**Jason Howland:** She says the next set of routine immunizations is at age 11...
-
-
-**Dr. Cozine:**...which is tetanus, diphtheria and pertussis, and the meningococcal immunization.
-
-
-**Jason Howland:** It's also recommended every child get an annual flu shot. And HPV vaccination, which prevents cancer, can start as early as age 9\. Dr. Cozine says it's important to educate families on the importance of childhood vaccinations. She likens it to seat belt safety.
-
-
-**Dr. Cozine:** Immunizations are no different. If we have opportunities to protect our children against serious illness and potentially even death, even if the risk of that illness or the risk of death from that illness is really quite low, I'm all for it.
-
-
-**Jason Howland:** For the Mayo Clinic News Network, I'm Jason Howland.
-
-
+* **Keep it clean.** Teach your child to wash his or her hands thoroughly and often. When soap and water aren't available, provide an alcohol\-based hand sanitizer. Keep toys and common household surfaces clean, too.
+* **Steer clear of colds.** When possible, help or encourage your child to avoid close contact with anyone who has a cold.
+* **Avoid touching his or her face.** Your child can get sick by touching something contaminated with germs and then touching his or her eyes, mouth or nose.
 
 
 

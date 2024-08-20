@@ -126,7 +126,7 @@ Children's food: safety and hygiene
 
 Babies and young children are especially vulnerable to bacteria that can cause [food poisoning](/conditions/food-poisoning/).
 
-Make sure your child isn't put at risk because of the way you prepare or serve food.
+Make sure your child isn't put at risk because of the way you prepare or serve food.
 
 * Always [wash your hands](/live-well/best-way-to-wash-your-hands/) before preparing food and after touching raw meat, chicken, fish and shellfish, raw vegetables and eggs.
 * Check that your child's hands are clean before feeding.

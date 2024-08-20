@@ -163,7 +163,7 @@ Menu
 	+ [Print Materials](/resources/print-materials)
 	+ [Graphics](/resources/graphics)
 	+ [Videos](/resources/videos)
-	+ [En Español](/resources/en-espanol)
+	+ [En Español](/resources/en-espanol)
 	+ [Multiple Languages](/myplate-multiple-languages)
 	+ [Partner Resources](/partner-resources)
 * Professionals
@@ -395,7 +395,7 @@ Image
 ### Healthy Eating
 
 
-It’s important for preschoolers to eat a variety of fruits, vegetables, grains, protein foods, and dairy and fortified soy alternatives. Choose options for meals, beverages, and snacks that have limited added sugars, saturated fat, and sodium.
+It’s important for preschoolers to eat a variety of fruits, vegetables, grains, protein foods, and dairy and fortified soy alternatives. Choose options for meals, beverages, and snacks that have limited added sugars, saturated fat, and sodium.
 
 
 The amount of food preschoolers need depends on a variety of factors, including age, sex, and physical activity level. Use the [MyPlate Plan](/myplate-plan "MyPlate Plan") as a general guide to how much they should eat from each food group every day.
@@ -478,7 +478,7 @@ MyPlate Tips on Alexa
 Get MyPlate nutrition information straight to your home on your Amazon Alexa smart speaker, or on your phone or tablet via the free Amazon Alexa app. For more information, visit our [MyPlate Alexa page](/myplateassistant "MyPlate Alexa page").
 
 
-Below are some of the many tips available for parents and caregivers on what and how to feed your preschooler. And just like the MyPlate.gov website and MyPlate tools, all of the information provided by MyPlate on Alexa is based on the [*Dietary Guidelines for Americans, 2020\-2025*](https://www.dietaryguidelines.gov/ "Dietary Guidelines for Americans, 2020-2025").
+Below are some of the many tips available for parents and caregivers on what and how to feed your preschooler. And just like the MyPlate.gov website and MyPlate tools, all of the information provided by MyPlate on Alexa is based on the [*Dietary Guidelines for Americans, 2020\-2025*](https://www.dietaryguidelines.gov/ "Dietary Guidelines for Americans, 2020-2025").
 
 
 
@@ -641,7 +641,7 @@ Image
 **Healthy Eating for Preschoolers Tip Sheet**
 
 
-**[English](/sites/default/files/2022-04/TipSheet_16_HealthyEatingForPreschoolers.pdf "Healthy Eating for Preschoolers Tip Sheet")    [Spanish](/sites/default/files/2022-04/SpTipSheet_16_HealthyEatingForPreschoolers.pdf "Alimentación Saludable para Niños en Edad Preescolar")**
+**[English](/sites/default/files/2022-04/TipSheet_16_HealthyEatingForPreschoolers.pdf "Healthy Eating for Preschoolers Tip Sheet")    [Spanish](/sites/default/files/2022-04/SpTipSheet_16_HealthyEatingForPreschoolers.pdf "Alimentación Saludable para Niños en Edad Preescolar")**
 
 
 
@@ -704,7 +704,7 @@ Image
 **Healthy Tips for Picky Eaters**
 
 
-**[English](/sites/default/files/2024-05/Healthy-Tips-for-Picky-Eaters.pdf "Healthy Tips for Picky Eaters")   [Spanish](/sites/default/files/2024-06/Healthy-Tips-for-Picky-Eaters-Spanish.pdf "Consejos Saludables para los Caprichosos con la Comida")**
+**[English](/sites/default/files/2024-05/Healthy-Tips-for-Picky-Eaters.pdf "Healthy Tips for Picky Eaters")   [Spanish](/sites/default/files/2024-06/Healthy-Tips-for-Picky-Eaters-Spanish.pdf "Consejos Saludables para los Caprichosos con la Comida")**
 
 
 
@@ -767,7 +767,7 @@ Image
 **MyPlate Coloring Sheet**
 
 
-**[English](/sites/default/files/2024-05/MyPlate-Coloring-Sheet.pdf "MyPlate Coloring Sheet")   [Spanish](/sites/default/files/2024-05/MyPlate-Coloring-Sheet-Spanish.pdf "Hoja para colorear MiPlato")**
+**[English](/sites/default/files/2024-08/MyPlate-Coloring-Sheet-With-Food-Groups-English.pdf "MyPlate Coloring Sheet")   [Spanish](/sites/default/files/2024-08/MyPlate-Coloring-Sheet-With-Food-Groups-Spanish.pdf "Hoja para colorear MiPlato")**
 
 
 
@@ -788,7 +788,7 @@ Image
 **MyPlate Coloring Sheet (Blank)**
 
 
-**[English](/sites/default/files/2024-05/MyPlate-Coloring-Sheet-Blank.pdf "MyPlate Coloring Sheet (Blank)")   [Spanish](/sites/default/files/2024-05/MyPlate-Coloring-Sheet-Blank-Spanish.pdf "Hoja para colorear MiPlato (en blanco)")**
+**[English](/sites/default/files/2024-08/MyPlate-Coloring-Sheet-Without-Food-Groups-English.pdf "MyPlate Coloring Sheet (Blank)")   [Spanish](/sites/default/files/2024-08/MyPlate-Coloring-Sheet-Without-Food-Groups-Spanish.pdf "Hoja para colorear MiPlato (en blanco)")**
 
 
 
@@ -851,7 +851,7 @@ Image
 **Help Me Be Healthy – I am 4**
 
 
-**[English](https://wicworks.fns.usda.gov/resources/help-me-be-healthy "Help Me Be Healthy I Am 4")   [Spanish](https://wicworks.fns.usda.gov/resources/help-me-be-healthy "Help Me Be Healthy Tengo 4 Años")**
+**[English](https://wicworks.fns.usda.gov/resources/help-me-be-healthy "Help Me Be Healthy I Am 4")   [Spanish](https://wicworks.fns.usda.gov/resources/help-me-be-healthy "Help Me Be Healthy Tengo 4 Años")**
 
 
 
@@ -872,7 +872,7 @@ Image
 **Help Me Be Healthy – I am 4 1/2**
 
 
-**[English](https://wicworks.fns.usda.gov/resources/help-me-be-healthy "Help Me Be Healthy I Am 4")   [Spanish](https://wicworks.fns.usda.gov/resources/help-me-be-healthy "Help Me Be Healthy Tengo 4 Años")**
+**[English](https://wicworks.fns.usda.gov/resources/help-me-be-healthy "Help Me Be Healthy I Am 4")   [Spanish](https://wicworks.fns.usda.gov/resources/help-me-be-healthy "Help Me Be Healthy Tengo 4 Años")**
 
 
 
@@ -995,7 +995,7 @@ Image
 **More Print Materials**
 
 
-**[English](/resources/print-materials "More Print Materials")   [Spanish](/resources/print-materials?f[0]=resource_type%3A1176 "Más materiales impresos")**
+**[English](/resources/print-materials "More Print Materials")   [Spanish](/resources/print-materials?f[0]=resource_type%3A1176 "Más materiales impresos")**
 
 
 
@@ -1106,7 +1106,7 @@ Image
 ### *Start Simple with MyPlate* App
 
 
-Build healthy eating habits one goal at a time! Download the *Start Simple with MyPlate* app today.
+Build healthy eating habits one goal at a time! Download the *Start Simple with MyPlate* app today.
 
 
 **[Learn more](/resources/tools/startsimple-myplate-app "Start Simple with MyPlate App")**

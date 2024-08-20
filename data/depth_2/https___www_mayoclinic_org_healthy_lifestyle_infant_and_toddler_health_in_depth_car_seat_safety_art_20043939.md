@@ -63,6 +63,12 @@
 
 
 
+
+
+
+
+
+
 This content does not have an English version.
 This content does not have an Arabic version.
 
@@ -337,7 +343,7 @@ Older children need booster seats to help an adult seat belt fit right. You can 
 
 
 
-You need to use booster seats with a lap and shoulder belt � never a lap\-only belt. Make sure the lap belt lies low across your child's thighs. Also make sure the shoulder belt crosses the middle of your child's chest and shoulder.
+You need to use booster seats with a lap and shoulder belt aIÌ€â€šaÌ‚â€šÂ¬aÌ‚â‚¬ï¿1⁄2 never a lap\-only belt. Make sure the lap belt lies low across your child's thighs. Also make sure the shoulder belt crosses the middle of your child's chest and shoulder.
 
 
 
@@ -351,7 +357,7 @@ Most kids can safely use an adult seat belt sometime between ages 8 and 12\. Her
 
 * Your child reaches a height of 4 feet 9 inches. That's nearly 1\.5 meters.
 * Your child sits against the back of the seat with their knees bent comfortably at the edge of the seat.
-* The lap belt lies low across your child's upper thighs � not the stomach. The shoulder belt rests on the middle of your child's chest and shoulder � not on the neck or face.
+* The lap belt lies low across your child's upper thighs aIÌ€â€šaÌ‚â€šÂ¬aÌ‚â‚¬ï¿1⁄2 not the stomach. The shoulder belt rests on the middle of your child's chest and shoulder aIÌ€â€šaÌ‚â€šÂ¬aÌ‚â‚¬ï¿1⁄2 not on the neck or face.
 
 
 Keep in mind that the back seat is the safest place for children younger than age 13\.
@@ -367,7 +373,7 @@ It can be a good idea take part in a local car seat clinic or inspection event. 
 
 
 
-�
+ 
 
 
 

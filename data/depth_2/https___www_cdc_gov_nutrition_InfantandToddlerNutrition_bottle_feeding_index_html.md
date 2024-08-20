@@ -60,7 +60,7 @@ Feeding From a Bottle \| Nutrition \| CDC
 [Skip directly to search](#headerSearch)
 
 
-[Español](/spanish/) \| 
+[EspanIÌ€Æ’ol](/spanish/) \| 
 [Other Languages](https://wwwn.cdc.gov/pubs/other-languages/)
 
 **Error processing SSI file**  
@@ -169,7 +169,7 @@ Feeding From a Bottle
 =====================
 
  
-[Español (Spanish)](/nutrition/infantandtoddlernutrition/bottle-feeding/index-es.html) [Print](#print)
+[EspanIÌ€Æ’ol (Spanish)](/nutrition/infantandtoddlernutrition/bottle-feeding/index-es.html) [Print](#print)
 
 
 
@@ -191,7 +191,7 @@ Cleaning Bottle Feeding Supplies
 Keeping your bottle feeding supplies clean is very important to keep germs from getting into the milk or infant formula you feed your baby. This includes the bottles and nipples, rings, caps, and any valves or membranes that are part of the bottle.
 
 
-Learn more about [how to clean your baby’s bottles and other feeding supplies](/healthywater/hygiene/healthychildcare/infantfeeding/cleansanitize.html).
+Learn more about [how to clean your babyaÌ‚â‚¬TMs bottles and other feeding supplies](/healthywater/hygiene/healthychildcare/infantfeeding/cleansanitize.html).
 
 
 Tips for Bottle Feeding
@@ -201,9 +201,9 @@ Tips for Bottle Feeding
 Getting started:
 
 
-Did You Know?**Don’t put cereal or other food in a bottle.**  
+Did You Know?**DonaÌ‚â‚¬TMt put cereal or other food in a bottle.**  
 
-Putting infant cereal or other solid foods in your baby’s bottle will not make him or her sleep longer and could increase your baby’s risk of choking.
+Putting infant cereal or other solid foods in your babyaÌ‚â‚¬TMs bottle will not make him or her sleep longer and could increase your babyaÌ‚â‚¬TMs risk of choking.
 
 
 
@@ -225,8 +225,8 @@ Things to remember:
 
 * Give your baby only breast milk or infant formula in a bottle.
 * Hold your baby close when you feed him or her a bottle.
-* Do not prop or leave the bottle in your baby’s mouth. This can increase your baby’s risk of choking, ear infections, and tooth decay. Your baby may also eat more than he or she needs.
-* Do not put your baby to bed with a bottle. Milk can pool around the baby’s teeth and this can cause tooth decay.
+* Do not prop or leave the bottle in your babyaÌ‚â‚¬TMs mouth. This can increase your babyaÌ‚â‚¬TMs risk of choking, ear infections, and tooth decay. Your baby may also eat more than he or she needs.
+* Do not put your baby to bed with a bottle. Milk can pool around the babyaÌ‚â‚¬TMs teeth and this can cause tooth decay.
 * Do not force your baby to finish the bottle if your baby is showing signs of fullness as this can lead to your baby eating more than he or she needs.
 
 
@@ -235,3 +235,13 @@ Things to remember:
 
 
 
+
+
+**Error processing SSI file**  
+
+
+
+
+
+
+ Last Reviewed:

@@ -170,10 +170,10 @@ I'm adopting a newborn, and I'd like to breastfeed the baby when I bring him hom
 With considerable dedication and preparation, breastfeeding without pregnancy (induced lactation) might be possible.
 
 
-Normally, the natural production of breast milk (lactation) is triggered by a complex interaction between three hormones � estrogen, progesterone and human placental lactogen � during the final months of pregnancy. At delivery, levels of estrogen and progesterone fall, allowing the hormone prolactin to increase and initiate milk production.
+Normally, the natural production of breast milk (lactation) is triggered by a complex interaction between three hormones aIÌ€â€šaÌ‚â€šÂ¬aÌ‚â‚¬ï¿1⁄2 estrogen, progesterone and human placental lactogen aIÌ€â€šaÌ‚â€šÂ¬aÌ‚â‚¬ï¿1⁄2 during the final months of pregnancy. At delivery, levels of estrogen and progesterone fall, allowing the hormone prolactin to increase and initiate milk production.
 
 
-Induced lactation depends on the successful replication of this process. If you have months to prepare, your health care provider might prescribe hormone therapy � such as supplemental estrogen or progesterone � to mimic the effects of pregnancy. Hormone therapy may last for months.
+Induced lactation depends on the successful replication of this process. If you have months to prepare, your health care provider might prescribe hormone therapy aIÌ€â€šaÌ‚â€šÂ¬aÌ‚â‚¬ï¿1⁄2 such as supplemental estrogen or progesterone aIÌ€â€šaÌ‚â€šÂ¬aÌ‚â‚¬ï¿1⁄2 to mimic the effects of pregnancy. Hormone therapy may last for months.
 
 
 About two months before you expect to start breastfeeding, you'll likely stop hormone therapy and begin pumping your breasts with a hospital\-grade electric breast pump. This encourages the production and release of prolactin. At first, pump for five minutes three times a day. Work up to pumping for 10 minutes every four hours, including at least once during the night. Then increase pumping time to 15 to 20 minutes every 2 to 3 hours. Continue the routine until the baby arrives.
@@ -182,7 +182,7 @@ About two months before you expect to start breastfeeding, you'll likely stop ho
 If you have a short time to prepare, hormone therapy might not be an option. Your health care provider might recommend other medications to help induce lactation. Pumping remains important for whatever time you have.
 
 
-When you begin to breastfeed the baby, your health care provider might recommend continued pumping � including after feedings � to help establish your milk supply. And even if you're able to successfully induce lactation, supplemental feedings with formula or pasteurized donor human milk might be needed � especially during the initial weeks of breastfeeding. To encourage continued nipple and breast stimulation, you might use a supplemental feeding aid that delivers donor breast milk or formula through a device that attaches to your breast. Supplemental feedings can also be given with a bottle. To protect your milk supply, pump each time your baby receives a bottle\-feeding.
+When you begin to breastfeed the baby, your health care provider might recommend continued pumping aIÌ€â€šaÌ‚â€šÂ¬aÌ‚â‚¬ï¿1⁄2 including after feedings aIÌ€â€šaÌ‚â€šÂ¬aÌ‚â‚¬ï¿1⁄2 to help establish your milk supply. And even if you're able to successfully induce lactation, supplemental feedings with formula or pasteurized donor human milk might be needed aIÌ€â€šaÌ‚â€šÂ¬aÌ‚â‚¬ï¿1⁄2 especially during the initial weeks of breastfeeding. To encourage continued nipple and breast stimulation, you might use a supplemental feeding aid that delivers donor breast milk or formula through a device that attaches to your breast. Supplemental feedings can also be given with a bottle. To protect your milk supply, pump each time your baby receives a bottle\-feeding.
 
 
 To learn more about induced lactation and how to increase your chances of establishing breastfeeding, contact a lactation consultant at a local hospital or clinic.
@@ -205,7 +205,7 @@ With
 
 
 
-�
+ 
 
 
 

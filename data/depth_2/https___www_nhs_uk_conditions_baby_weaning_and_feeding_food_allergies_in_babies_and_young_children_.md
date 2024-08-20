@@ -175,17 +175,17 @@ Allergic reactions usually happen quickly within a few minutes of exposure to an
 They can cause:
 
 * sneezing
-* a runny or blocked nose
+* a runny or blocked nose
 * red, itchy, watery eyes
 * wheezing and coughing
 * a red, itchy rash
-* worsening of [asthma](/conditions/asthma/) or [eczema](/conditions/atopic-eczema/) symptoms
+* worsening of [asthma](/conditions/asthma/) or [eczema](/conditions/atopic-eczema/) symptoms
 
 Most allergic reactions are mild, but occasionally a severe reaction called [anaphylaxis](/conditions/anaphylaxis/) or anaphylactic shock can occur.
 
-This is a medical emergency and needs urgent treatment.
+This is a medical emergency and needs urgent treatment.
 
-Do not be tempted to experiment by cutting out a major food, such as milk, because this could lead to your child not getting the nutrients they need.
+Do not be tempted to experiment by cutting out a major food, such as milk, because this could lead to your child not getting the nutrients they need.
 
 Talk to your health visitor or GP, who may refer you to a registered dietitian.
 
@@ -196,9 +196,9 @@ Food additives and children
 ---------------------------
 
 
-Food contains additives for many reasons, such as to preserve it, to help make it safe to eat for longer, and to give colour or texture.
+Food contains additives for many reasons, such as to preserve it, to help make it safe to eat for longer, and to give colour or texture.
 
-All food additives go through strict safety testing before they can be used. Food labelling must clearly show additives in the list of ingredients, including their name or "E" number and their function, such as "colour" or "preservative".
+All food additives go through strict safety testing before they can be used. Food labelling must clearly show additives in the list of ingredients, including their name or "E" number and their function, such as "colour" or "preservative".
 
 A few people have adverse reactions to some food additives, like sulphites, but reactions to ordinary foods, such as milk or soya, are much more common.
 

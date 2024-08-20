@@ -169,7 +169,7 @@ Request Appointment](/appointments)
 Spitting up in babies: What's normal, what's not
 ------------------------------------------------
 
-*Spitting up is a rite of passage for many babies. Here's what's behind spitting up � and when it might signal a more serious problem.*[By Mayo Clinic Staff](/about-this-site/meet-our-medical-editors)
+*Spitting up is a rite of passage for many babies. Here's what's behind spitting up aIÌ€â€šaÌ‚â€šÂ¬aÌ‚â‚¬ï¿1⁄2 and when it might signal a more serious problem.*[By Mayo Clinic Staff](/about-this-site/meet-our-medical-editors)
 
 
 You've just fed your baby breast milk or formula only to watch him or her spit up what seems like all of it. Is this normal? Find out the possible causes of spitting up, and what you can do about it.
@@ -215,7 +215,7 @@ If the muscle between the esophagus and the stomach relaxes when the stomach is 
 Spitting up is common in healthy babies. During their first three months, about half of all babies experience their stomach contents coming back up into the esophagus, a condition known as gastroesophageal reflux, infant reflux or infant acid reflux.
 
 
-Normally, a muscle between the esophagus and the stomach (lower esophageal sphincter) keeps stomach contents where they belong. Until this muscle has time to mature, spitting up might be an issue � especially if your baby is relatively full.
+Normally, a muscle between the esophagus and the stomach (lower esophageal sphincter) keeps stomach contents where they belong. Until this muscle has time to mature, spitting up might be an issue aIÌ€â€šaÌ‚â€šÂ¬aÌ‚â‚¬ï¿1⁄2 especially if your baby is relatively full.
 
 
 
@@ -224,7 +224,7 @@ Normally, a muscle between the esophagus and the stomach (lower esophageal sphin
 
 
 
-Spitting up is the easy flow of a baby's stomach contents through his or her mouth, possibly with a burp. Vomiting occurs when the flow is forceful � shooting out inches rather than dribbling from the mouth.
+Spitting up is the easy flow of a baby's stomach contents through his or her mouth, possibly with a burp. Vomiting occurs when the flow is forceful aIÌ€â€šaÌ‚â€šÂ¬aÌ‚â‚¬ï¿1⁄2 shooting out inches rather than dribbling from the mouth.
 
 
 
@@ -295,7 +295,7 @@ Treatment depends on what's causing the problem. Special feeding techniques migh
 
 
 
-�
+ 
 
 
 

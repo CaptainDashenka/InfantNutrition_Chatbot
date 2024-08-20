@@ -60,6 +60,12 @@
 
 
 
+
+
+
+
+
+
 This content does not have an English version.
 This content does not have an Arabic version.
 
@@ -169,7 +175,7 @@ A fold of skin (foreskin) covers the head of an uncircumcised penis. If your bab
 At birth, the foreskin of most male babies doesn't yet pull back (retract) fully. Treat the foreskin gently, being careful not to force it back. Forcing it could cause pain, tearing and bleeding.
 
 
-Consult a health care provider if your baby seems to have discomfort while urinating � especially if the foreskin fills with urine or balloons out during urination � or the foreskin becomes red, itchy or swollen.
+Consult a health care provider if your baby seems to have discomfort while urinating aIÌ€â€šaÌ‚â€šÂ¬aÌ‚â‚¬ï¿1⁄2 especially if the foreskin fills with urine or balloons out during urination aIÌ€â€šaÌ‚â€šÂ¬aÌ‚â‚¬ï¿1⁄2 or the foreskin becomes red, itchy or swollen.
 
 
 As your child gets older, the foreskin of the uncircumcised penis will begin to separate from the tip of the penis. This process, which may take several months or years, allows the foreskin to be retracted.
@@ -207,7 +213,7 @@ With
 
 
 
-�
+ 
 
 
 

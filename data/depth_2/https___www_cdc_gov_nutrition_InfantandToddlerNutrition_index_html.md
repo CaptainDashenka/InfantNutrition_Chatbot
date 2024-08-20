@@ -60,7 +60,7 @@ Infant and Toddler Nutrition \| Nutrition \| CDC
 [Skip directly to search](#headerSearch)
 
 
-[Español](/spanish/) \| 
+[EspanIÌ€Æ’ol](/spanish/) \| 
 [Other Languages](https://wwwn.cdc.gov/pubs/other-languages/)
 
 **Error processing SSI file**  
@@ -171,7 +171,7 @@ Infant and Toddler Nutrition
 ============================
 
  
-[Español (Spanish)](/nutrition/infantandtoddlernutrition/index-es.html) [Print](#print)
+[EspanIÌ€Æ’ol (Spanish)](/nutrition/infantandtoddlernutrition/index-es.html) [Print](#print)
 
 
 
@@ -207,3 +207,13 @@ Good nutrition during the first 2 years of life is vital for healthy growth and 
 
 
 
+
+
+**Error processing SSI file**  
+
+
+
+
+
+
+ Last Reviewed:

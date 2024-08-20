@@ -134,11 +134,11 @@ Fruit and vegetables
 
 Fruit and vegetables contain lots of vitamins, minerals and fibre. It's good to introduce lots of different types from around 6 months, whether fresh, frozen, canned or dried, so your baby can enjoy new textures and flavours. Try to make sure fruit and vegetables are included in every meal.
 
-Dried fruit, such as raisins, should be given to your toddler with meals, rather than as a snack in between, as the sugar they contain can cause [tooth decay](/conditions/tooth-decay/).
+Dried fruit, such as raisins, should be given to your toddler with meals, rather than as a snack in between, as the sugar they contain can cause [tooth decay](/conditions/tooth-decay/).
 
 Different fruit and vegetables contain different [vitamins and minerals](/conditions/vitamins-and-minerals/), so the more types your toddler eats, the better.
 
-Don't worry if they'll only eat 1 or 2 types at first. Keep offering them small amounts of other fruit and vegetables so they can learn to like different tastes and textures.
+Don't worry if they'll only eat 1 or 2 types at first. Keep offering them small amounts of other fruit and vegetables so they can learn to like different tastes and textures.
 
 Some children don't like cooked vegetables, but will nibble on raw vegetables while you're preparing a meal.
 
@@ -153,9 +153,9 @@ Bread, rice, potatoes, pasta and other starchy foods
 
 [Starchy foods and carbohydrates](/live-well/eat-well/food-types/starchy-foods-and-carbohydrates/), such as bread, breakfast cereals, potatoes, yams, rice, couscous, pasta and chapattis provide energy, nutrients and some fibre.
 
-You can give your child wholegrain foods, such as wholemeal bread, pasta and brown rice. But it's not a good idea to only give wholegrain starchy foods to under\-2s.
+You can give your child wholegrain foods, such as wholemeal bread, pasta and brown rice. But it's not a good idea to only give wholegrain starchy foods to under\-2s.
 
-Wholegrain foods can be high in fibre and they may fill your child up before they have taken in the calories and nutrients they need. After age 2 you can gradually introduce more wholegrain foods.
+Wholegrain foods can be high in fibre and they may fill your child up before they have taken in the calories and nutrients they need. After age 2 you can gradually introduce more wholegrain foods.
 
 
 
@@ -197,7 +197,7 @@ Full\-fat cheeses and dairy products, such a yoghurt and fromage frais, are reco
 Babies and young children shouldn't eat:
 
 * mould\-ripened soft cheeses, such as brie or camembert
-* mould\-ripened goats' milk soft cheese like chèvre
+* mould\-ripened goats' milk soft cheese like chèvre
 * soft blue\-veined cheese like roquefort
 * cheese made from unpasteurised milk, so always check the label
 
@@ -214,7 +214,7 @@ Beans, pulses, fish, eggs, meat and other proteins
 
 Young children need protein and iron to grow and develop.
 
-Beans, pulses, [fish](/live-well/eat-well/food-types/fish-and-shellfish-nutrition/), eggs, foods made from pulses (such as tofu, hummus and soya mince) and [meat](/live-well/eat-well/food-types/meat-nutrition/) are excellent sources of protein and iron.
+Beans, pulses, [fish](/live-well/eat-well/food-types/fish-and-shellfish-nutrition/), eggs, foods made from pulses (such as tofu, hummus and soya mince) and [meat](/live-well/eat-well/food-types/meat-nutrition/) are excellent sources of protein and iron.
 
 Try to give your child a minimum of 2 portions of protein from vegetable sources (beans, chickpeas, lentils and tofu) or 1 portion from animal sources (meat, fish and eggs) each day.
 
@@ -227,7 +227,7 @@ Remember, don't stop feeding your child oily fish – the health benefits are gr
 
 
 
-Helping your child get enough iron
+Helping your child get enough iron
 ----------------------------------
 
 
@@ -236,11 +236,11 @@ Helping your child get enough iron
 It comes in 2 forms:
 
 * the iron found in meat and fish, which is easily absorbed by the body
-* iron from plant foods, which isn't as easy for the body to absorb
+* iron from plant foods, which isn't as easy for the body to absorb
 
 If your child doesn't eat meat or fish, they'll get enough iron if you give them plenty of other iron\-rich foods, such as fortified breakfast cereals, green leafy vegetables, beans and lentils.
 
-Children who don't eat meat or fish are more likely to lack iron, which can lead to [iron\-deficiency anaemia](/conditions/iron-deficiency-anaemia/). This can affect your child's physical and mental development.
+Children who don't eat meat or fish are more likely to lack iron, which can lead to [iron\-deficiency anaemia](/conditions/iron-deficiency-anaemia/). This can affect your child's physical and mental development.
 
 
 
@@ -252,9 +252,9 @@ Young children, especially those under the age of 2, need the energy provided by
 
 This is why foods like whole milk, full\-fat yoghurt, cheese and oily fish are so important.
 
-Once your child is 2, you can gradually introduce lower\-fat dairy products and cut down on fat in other foods – provided your child is a good eater and growing well.
+Once your child is 2, you can gradually introduce lower\-fat dairy products and cut down on fat in other foods – provided your child is a good eater and growing well.
 
-By the time your child is 5 they can eat a healthy balanced diet like the one recommended for adults. 
+By the time your child is 5 they can eat a healthy balanced diet like the one recommended for adults. 
 
 Keep an eye on the amount of saturated fat in the food your family eats. Try to keep it to a minimum.
 
@@ -266,14 +266,14 @@ The following tips will help you reduce the amount of fat in your family's meals
 * take the skin off poultry
 * reduce the amount of meat you put in stews and casseroles. Make up the difference with lentils, split peas or soaked dried beans
 * for children over 2, use lower\-fat dairy products, such as low\-fat spreads and reduced\-fat cheeses
-* use as little cooking oil as possible. Choose one that's high in mono\- or polyunsaturates, such as rapeseed, soya or olive oil. In the UK, oil labelled vegetable oil is often actually rapeseed oil
+* use as little cooking oil as possible. Choose one that's high in mono\- or polyunsaturates, such as rapeseed, soya or olive oil. In the UK, oil labelled vegetable oil is often actually rapeseed oil
 
 [Read more about how to eat less saturated fat](/live-well/eat-well/how-to-eat-a-balanced-diet/eat-less-saturated-fat/)
 
 Sugar
 -----
 
-It's important to keep the amount of added sugar your child has to a minimum to help prevent tooth decay.
+It's important to keep the amount of added sugar your child has to a minimum to help prevent tooth decay.
 
 Try to:
 
@@ -281,7 +281,7 @@ Try to:
 * only offer sugary foods and drinks with meals rather than as a snack
 * avoid giving sugary foods and drinks to your child before bedtime
 
-Sugar is found in many different types of food and drink, including sweets, cakes, jam. yoghurts, fizzy drinks and juice drinks.
+Sugar is found in many different types of food and drink, including sweets, cakes, jam. yoghurts, fizzy drinks and juice drinks.
 
 Fizzy drinks can damage tooth enamel so they should not be given to young children. It's best to offer your child water or unsweetened milk to drink.
 
@@ -289,7 +289,7 @@ Children aged under 12 months do not need fruit juice or smoothies. If you choos
 
 From age 5, it's OK to give your child undiluted fruit juice or smoothies, but stick to no more than 1 glass (about 150ml) a day served with a meal.
 
-The sugar in raisins and other dried fruits can also cause tooth decay. It's best to give these to your toddler with meals rather than as a snack in between.
+The sugar in raisins and other dried fruits can also cause tooth decay. It's best to give these to your toddler with meals rather than as a snack in between.
 
 [Read more about sugar: the facts](/live-well/eat-well/food-types/how-does-sugar-in-our-diet-affect-our-health/)
 

@@ -115,7 +115,7 @@ Menu
 
 
 
-[Log in \| Register](/saml/login?destination=/life-stages/kids%3F_hsenc%3Dp2ANqtz-8fbtE4g2mF6mHdti736xHUwlaca-Zagre4IXggVOgqknSftuliWmftWqoKbpJAY_jKOzwOpfBpySc8QuIV-BqXw5e00Q%26_hsmi%3D218910614) 
+[Log in \| Register](/saml/login?destination=/life-stages/kids) 
 
 
 
@@ -163,7 +163,7 @@ Menu
 	+ [Print Materials](/resources/print-materials)
 	+ [Graphics](/resources/graphics)
 	+ [Videos](/resources/videos)
-	+ [En Español](/resources/en-espanol)
+	+ [En Español](/resources/en-espanol)
 	+ [Multiple Languages](/myplate-multiple-languages)
 	+ [Partner Resources](/partner-resources)
 * Professionals
@@ -206,7 +206,7 @@ Search
 
 
 
-[Log in \| Register](/saml/login?destination=/life-stages/kids%3F_hsenc%3Dp2ANqtz-8fbtE4g2mF6mHdti736xHUwlaca-Zagre4IXggVOgqknSftuliWmftWqoKbpJAY_jKOzwOpfBpySc8QuIV-BqXw5e00Q%26_hsmi%3D218910614) 
+[Log in \| Register](/saml/login?destination=/life-stages/kids) 
 
 
 
@@ -797,7 +797,7 @@ Image
 **Healthy Eating for Kids Tip Sheet**
 
 
-**[English](/sites/default/files/2022-04/TipSheet_17_HealthyEatingForKids.pdf "Healthy Eating for Kids Tip Sheet")    [Spanish](/sites/default/files/2022-04/SpTipSheet_17_HealthyEatingforKids.pdf "Alimentación Saludable para Niños. ")**
+**[English](/sites/default/files/2022-04/TipSheet_17_HealthyEatingForKids.pdf "Healthy Eating for Kids Tip Sheet")    [Spanish](/sites/default/files/2022-04/SpTipSheet_17_HealthyEatingforKids.pdf "Alimentación Saludable para Niños. ")**
 
 
 
@@ -860,7 +860,7 @@ Image
 **MyPlate Coloring Sheet**
 
 
-**[English](/sites/default/files/2024-05/MyPlate-Coloring-Sheet.pdf "MyPlate Coloring Sheet")   [Spanish](/sites/default/files/2024-05/MyPlate-Coloring-Sheet-Spanish.pdf "Hoja para colorear MiPlato")**
+**[English](/sites/default/files/2024-08/MyPlate-Coloring-Sheet-With-Food-Groups-English.pdf "MyPlate Coloring Sheet")   [Spanish](/sites/default/files/2024-08/MyPlate-Coloring-Sheet-With-Food-Groups-Spanish.pdf "Hoja para colorear MiPlato")**
 
 
 
@@ -881,7 +881,7 @@ Image
 **MyPlate Coloring Sheet (Blank)**
 
 
-**[English](/sites/default/files/2024-05/MyPlate-Coloring-Sheet-Blank.pdf "MyPlate Coloring Sheet (Blank)")   [Spanish](/sites/default/files/2024-05/MyPlate-Coloring-Sheet-Blank-Spanish.pdf "Hoja para colorear MiPlato (en blanco)")**
+**[English](/sites/default/files/2024-08/MyPlate-Coloring-Sheet-Without-Food-Groups-English.pdf "MyPlate Coloring Sheet (Blank)")   [Spanish](/sites/default/files/2024-08/MyPlate-Coloring-Sheet-Without-Food-Groups-Spanish.pdf "Hoja para colorear MiPlato (en blanco)")**
 
 
 
@@ -1064,7 +1064,7 @@ Image
 **School Meals Quizzes**
 
 
-**[School Breakfast](https://www.fns.usda.gov/tn/quizzes/school-breakfast "School Breakfast")   [School Lunch](https://www.fns.usda.gov/tn/quizzes/school-lunch "School Lunch")**
+**[School Breakfast](https://www.fns.usda.gov/tn/quizzes/school-breakfast "School Breakfast")   [School Lunch](https://www.fns.usda.gov/tn/quizzes/school-lunch "School Lunch")**
 
 
 
@@ -1085,7 +1085,7 @@ Image
 **MyPlate Tip Sheets**
 
 
-**[English](/myplate-tip-sheets "MyPlate Tip Sheets")    [Spanish](/es/resources/print-materials?f[0]=audience%3A1182&f[1]=resource_type%3A1181 "Hojas de consejos de MiPlato")**
+**[English](/myplate-tip-sheets "MyPlate Tip Sheets")    [Spanish](/es/resources/print-materials?f[0]=audience%3A1182&f[1]=resource_type%3A1181 "Hojas de consejos de MiPlato")**
 
 
 
@@ -1106,7 +1106,7 @@ Image
 **More Print Materials**
 
 
-**[English](/resources/print-materials "More Print Materials")   [Spanish](/resources/print-materials?f[0]=resource_type%3A1176 "Más materiales impresos")**
+**[English](/resources/print-materials "More Print Materials")   [Spanish](/resources/print-materials?f[0]=resource_type%3A1176 "Más materiales impresos")**
 
 
 
@@ -1217,7 +1217,7 @@ Image
 ### *Start Simple with MyPlate* App
 
 
-Build healthy eating habits one goal at a time! Download the *Start Simple with MyPlate* app today.
+Build healthy eating habits one goal at a time! Download the *Start Simple with MyPlate* app today.
 
 
 **[Learn more](/resources/tools/startsimple-myplate-app "Start Simple with MyPlate App")**

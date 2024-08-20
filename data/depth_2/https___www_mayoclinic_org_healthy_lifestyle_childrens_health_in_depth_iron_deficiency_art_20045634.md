@@ -3,7 +3,20 @@
 
 
 
- Infant and toddler health Multimedia \- Mayo Clinic
+ Iron deficiency in children: Prevention tips for parents \- Mayo Clinic
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -115,29 +128,28 @@ Request Appointment](/appointments)
 
 
 
-[Healthy Lifestyle](/healthy-lifestyle)[Infant and toddler health](/healthy-lifestyle/infant-and-toddler-health/basics/infant-and-toddler-health/hlv-20049400)
-=======================================================================================================================
+[Healthy Lifestyle](/healthy-lifestyle)[Children's health](/healthy-lifestyle/childrens-health/basics/childrens-health/hlv-20049425)
+=============================================================================================
 
 
 
+[Print](/healthy-lifestyle/childrens-health/in-depth/iron-deficiency/art-20045634?p=1)
 
 
 
 
 
 [Sections](#)
-1. [Basics](/healthy-lifestyle/infant-and-toddler-health/basics/infant-and-toddler-health/hlv-20049400)
-	1. [Infant and toddler health](/healthy-lifestyle/infant-and-toddler-health/basics/infant-and-toddler-health/hlv-20049400)
-	2. [Newborn health](/healthy-lifestyle/infant-and-toddler-health/basics/newborn-health/hlv-20049400)
-	3. [Infant health](/healthy-lifestyle/infant-and-toddler-health/basics/infant-health/hlv-20049400)
-	4. [Toddler health](/healthy-lifestyle/infant-and-toddler-health/basics/toddler-health/hlv-20049400)
-2. [In\-Depth](/healthy-lifestyle/infant-and-toddler-health/in-depth/hlv-20049400)
-3. [Expert Answers](/healthy-lifestyle/infant-and-toddler-health/expert-answers/hlv-20049400)
-4. [Multimedia](/healthy-lifestyle/infant-and-toddler-health/multimedia/hlv-20049400)
-5. [Resources](/healthy-lifestyle/infant-and-toddler-health/resources/hlv-20049400)
-6. [News From Mayo Clinic](/healthy-lifestyle/infant-and-toddler-health/news/hlv-20049400)
-
-
+1. [Basics](/healthy-lifestyle/childrens-health/basics/childrens-health/hlv-20049425)
+	1. [Children's health](/healthy-lifestyle/childrens-health/basics/childrens-health/hlv-20049425)
+	2. [Preschoolers](/healthy-lifestyle/childrens-health/basics/preschoolers/hlv-20049425)
+	3. [Elementary students](/healthy-lifestyle/childrens-health/basics/elementary-students/hlv-20049425)
+2. [In\-Depth](/healthy-lifestyle/childrens-health/in-depth/hlv-20049425)
+3. [Expert Answers](/healthy-lifestyle/childrens-health/expert-answers/hlv-20049425)
+4. [Multimedia](/healthy-lifestyle/childrens-health/multimedia/hlv-20049425)
+5. [Resources](/healthy-lifestyle/childrens-health/resources/hlv-20049425)
+6. [News From Mayo Clinic](/healthy-lifestyle/childrens-health/news/hlv-20049425)
+7. [What's New](/healthy-lifestyle/childrens-health/whats-new/hlv-20049425)
 
 
 
@@ -154,42 +166,145 @@ Request Appointment](/appointments)
 
 
 
-Multimedia
-----------
 
-### Images
+Iron deficiency in children: Prevention tips for parents
+--------------------------------------------------------
 
-* [![Double-clutch or double-football hold](/-/media/kcms/gbs/patient-consumer/images/2013/08/26/09/59/my01944_im04645_mcdc7_breastfeedingtwinsthu_jpg.png?h=78&w=140&bc=eeeeec&as=1&hash=F68C6C2A228F17D79A73C40D7DB40DBEB07B567E)Double\-clutch or double\-football hold.](/healthy-lifestyle/infant-and-toddler-health/multimedia/double-clutch-or-double-football-hold/img-20005711)
-* [![Umbilical cord at birth ](/-/media/kcms/gbs/patient-consumer/images/2013/08/26/10/02/pr00046_im00659_fl7_umbilicalcordatbirththu_jpg.png?h=78&w=140&bc=eeeeec&as=1&hash=F1EE4EDE05622CC9A605F19DB4DC0C8C6747D4C0)Umbilical cord at birth](/healthy-lifestyle/infant-and-toddler-health/multimedia/umbilical-cord-at-birth/img-20005866)
-* [![Sign for more](/-/media/kcms/gbs/patient-consumer/images/2013/08/26/10/20/an02127_im04529_mcdc7_baby_sign_language1thu_jpg.jpg?h=78&w=140&bc=eeeeec&as=1&hash=E677BD3F1DA7D4CE40FAEAB8C824698D9FEDF49E)Baby sign language: 'More'](/healthy-lifestyle/infant-and-toddler-health/multimedia/baby-sign-language-more/img-20006731)
-* [![Sign for eat](/-/media/kcms/gbs/patient-consumer/images/2013/08/26/10/20/an02127_im04531_mcdc7_baby_sign_language3thu_jpg.jpg?h=78&w=140&bc=eeeeec&as=1&hash=48E6EB187BC7CD797FA719FA047EB13614F39FE0)Baby sign language: 'Eat'](/healthy-lifestyle/infant-and-toddler-health/multimedia/baby-sign-language-eat/img-20006733)
-* [![Sign for drink](/-/media/kcms/gbs/patient-consumer/images/2013/08/26/10/20/an02127_im04530_mcdc7_baby_sign_language2thu_jpg.jpg?h=78&w=140&bc=eeeeec&as=1&hash=F767268B82E659072291B1FD2499CDACF5DF8500)Baby sign language: 'Drink'](/healthy-lifestyle/infant-and-toddler-health/multimedia/baby-sign-language-drink/img-20006732)
-* [![Baby wearing molded helmet](/-/media/kcms/gbs/patient-consumer/images/2013/08/26/11/01/pr00043_im03123_mcdc7_molded_helmetthu_jpg.png?h=78&w=140&bc=eeeeec&as=1&hash=DA0BE8372C31AE09D7A48C08C939E48AFA8B1436)Molded helmet](/healthy-lifestyle/infant-and-toddler-health/multimedia/molded-helmet/img-20008597)
-* [![Manual breast pump](/-/media/kcms/gbs/patient-consumer/images/2013/08/26/11/04/pr00002_im04382_mcdc7_manualbreastpumpthu_jpg.jpg?h=78&w=140&bc=eeeeec&as=1&hash=8915F7B824DB17BA832E882D1C4D07E46689EC60)Manual breast pump](/healthy-lifestyle/infant-and-toddler-health/multimedia/manual-breast-pump/img-20008704)
-* [![Electric breast pump](/-/media/kcms/gbs/patient-consumer/images/2013/08/26/11/11/pr00002_im04384_mcdc7_electricbreastpumpthu_jpg.jpg?h=78&w=140&bc=eeeeec&as=1&hash=BE7A7F8574D17B8584AC6E57B06F269A222CFDBD)Electric breast pump](/healthy-lifestyle/infant-and-toddler-health/multimedia/electric-breast-pump/img-20009019)
-* [![Baby with positional molding ](/-/media/kcms/gbs/patient-consumer/images/2013/08/26/11/10/pr00043_im04631_mcdc7_positional_moldingthu_jpg.png?h=78&w=140&bc=eeeeec&as=1&hash=463520C866A7B302377DF573FCED46B7CD96B81F)Positional molding](/healthy-lifestyle/infant-and-toddler-health/multimedia/positional-molding/img-20009002)
-* [![Baby in an infant-only car seat](/-/media/kcms/gbs/patient-consumer/images/2013/08/26/10/06/my00824_im04620_mcdc7_infant_only_carseatthu_jpg.png?h=78&w=140&bc=eeeeec&as=1&hash=78FE8E3307688AFD3608724DCAA5A7B6BB065566)Illustration of an infant\-only car seat](/healthy-lifestyle/infant-and-toddler-health/multimedia/illustration-of-an-infant-only-car-seat/img-20006029)
-* [![Baby in a convertible car seat ](/-/media/kcms/gbs/patient-consumer/images/2013/08/26/10/06/my00824_im04621_mcdc7_convertible_carseatthu_jpg.png?h=78&w=140&bc=eeeeec&as=1&hash=6EA2A6D2C7BBDA733E1478E1AF684997602935B5)Illustration of a convertible car seat](/healthy-lifestyle/infant-and-toddler-health/multimedia/illustration-of-a-convertible-car-seat/img-20006030)
-* [![Sign for father ](/-/media/kcms/gbs/patient-consumer/images/2013/08/26/10/20/an02127_im04533_mcdc7_baby_sign_language5thu_jpg.jpg?h=78&w=140&bc=eeeeec&as=1&hash=A08E9C915D0F50BFCB299B3394C68C2EBEFA927B)Baby sign language: 'Father'](/healthy-lifestyle/infant-and-toddler-health/multimedia/baby-sign-language-father/img-20006735)
-* [![Sign for mother](/-/media/kcms/gbs/patient-consumer/images/2013/08/26/10/20/an02127_im04532_mcdc7_baby_sign_language4thu_jpg.jpg?h=78&w=140&bc=eeeeec&as=1&hash=81E522184FF4F8714BA8338857A96FA1D8E55BBE)Baby sign language: 'Mother'](/healthy-lifestyle/infant-and-toddler-health/multimedia/baby-sign-language-mother/img-20006734)
-* [![How infant reflux occurs](/-/media/kcms/gbs/patient-consumer/images/2013/11/15/17/39/ds00787_-pr00044_im04004_r7_infant_acid_reflux_thu_jpg.jpg?h=78&w=140&bc=eeeeec&as=1&hash=BE5C0486802577A7AF97E746FD46CEBD647866C4)How infant reflux occurs](/diseases-conditions/infant-acid-reflux/multimedia/how-infant-reflux-occurs/img-20007010)
+*Iron deficiency in children can affect development and lead to anemia. Find out how much iron your child needs, the best sources of iron and more.*[By Mayo Clinic Staff](/about-this-site/meet-our-medical-editors)
 
-### Videos
 
-* [![](/-/media/kcms/gbs/patient-consumer/images/2013/12/23/08/28/video-babys-soft-spots-fontanels-thumbnail.png?h=78&w=140&bc=eeeeec&as=1)Baby's soft spots](/healthy-lifestyle/infant-and-toddler-health/multimedia/babys-soft-spots/vid-20084737)
-* [Vital Vaccinations](/healthy-lifestyle/infant-and-toddler-health/multimedia/vid-20078294)
-* [Shopping for Kids Shoes](/healthy-lifestyle/infant-and-toddler-health/multimedia/vid-20078378)
-* [![](/-/media/kcms/gbs/patient-consumer/images/2019/02/04/22/52/mayo-clinic-minute-are-you-keeping-your-child-as-safe-as-possible-in-the-car-60x601.jpg?h=78&w=140&bc=eeeeec&as=1)Mayo Clinic Minute: Are you keeping your child as safe as possible in the car?](/healthy-lifestyle/infant-and-toddler-health/multimedia/rear-facing-car-seat/vid-20452639)
-* [Mayo Clinic Minute: Why getting vaccinated for the flu is doubly important this season](/diseases-conditions/flu/multimedia/vid-20502769)
-* [When to Take Your Child to the E.D.](/healthy-lifestyle/childrens-health/multimedia/when-to-take-child-to-emergency-department/vid-20097418)
+Iron is a nutrient that your child needs to grow and develop properly. But some kids don't have enough iron. This also is called an iron deficiency. Find out its causes and symptoms. Then learn how to prevent it.
+
+
+
+### Why is iron important for children?
 
 
 
 
+Iron helps move oxygen from the lungs to the rest of the body. It also helps muscles store and use oxygen. If your child's diet lacks iron, you child might develop an iron deficiency.
+
+
+The condition is a common problem in children. It can range from mild to serious. Without treatment, it can affect a child's growth and development. Sometimes, being low on iron can leave the body without enough healthy red blood cells, which carry oxygen. This is a serious condition called iron deficiency anemia.
 
 
 
- 
+### How much iron do children need?
+
+
+
+
+Babies are born with iron stored in their bodies. But a steady amount of iron from food or vitamin supplements is needed to fuel a child's rapid growth and development. Here's a guide to iron needs at various ages:
+
+
+
+
+| Age group | Recommended amount of iron a day |
+| --- | --- |
+| 7 \- 12 months | 11 mg |
+| 1 \- 3 years | 7 mg |
+| 4 \- 8 years | 10 mg |
+| 9 \- 13 years | 8 mg |
+| 14 \- 18 years, girls | 15 mg |
+| 14 \- 18 years, boys | 11 mg |
+
+
+
+### Who's at risk of iron deficiency?
+
+
+
+
+Infants at highest risk of iron deficiency include those who:
+
+
+* Are born prematurely or have a low birth weight.
+* Drink cow's milk or goat's milk before age 1\.
+* Aren't given other foods that contain iron after age 6 months.
+* Drink formula that isn't fortified with iron.
+
+
+Children at highest risk of iron deficiency include those who:
+
+
+* Are ages 1 to 5 and drink more than 24 ounces (710 milliliters) of cow's milk, goat's milk or soy milk a day.
+* Have certain health conditions, such as chronic infections or restricted diets.
+* Have been exposed to lead.
+* Don't eat enough iron\-rich foods.
+* Are overweight or obese.
+
+
+Adolescent girls also are at higher risk of iron deficiency. Their bodies lose iron during menstruation.
+
+
+
+### What are the symptoms of iron deficiency in children?
+
+
+
+
+Too little iron can make it harder for your child to function well. But most symptoms of low iron in children don't appear until iron deficiency anemia happens. If your child has risk factors for an iron deficiency, talk to a member of your child's health care team.
+
+
+Symptoms of iron deficiency anemia might include:
+
+
+* Light pink color, also called pallor, to the lips, gums, edge of the eyelids or to the nail beds.
+* Tiredness and low energy, also called fatigue.
+* Shortness of breath during exercise.
+* Cold hands and feet.
+* Slowed growth and development.
+* Poor appetite.
+* Irregular rapid breathing.
+* Behavior problems or more short\-tempered than usual.
+* Frequent infections.
+* Unusual cravings for things that contain few or no nutrients, such as ice, dirt, paint or starch.
+
+
+
+### How can iron deficiency in children be prevented?
+
+
+
+
+If you feed your baby iron\-fortified formula, your baby is likely getting the recommended amount of iron. If you breastfeed, talk with your baby's health care professional about iron supplements. An iron supplement may be iron drops given at a specific amount, also called dose. Or it may be iron that's included in a vitamin supplement.
+
+
+Here are some general recommendations:
+
+
+* **Full\-term infants.** Start giving your baby an iron supplement at age 4 months. Keep giving your baby the supplement until the baby eats two or more servings a day of iron\-rich foods. These include iron\-fortified baby cereal, pureed meat and pureed sweet potato. Stop giving the supplement if you breastfeed and give your baby iron\-fortified formula, and most of your baby's feedings are from formula.
+* **Premature infants.** Start giving your baby an iron supplement at age 2 weeks. Keep giving your baby the supplement until 1 year of age, Stop giving the supplement if you breastfeed and give your baby fortified formula, and most of your baby's feedings are from formula.
+
+
+Other steps you can take to prevent iron deficiency include:
+
+
+* **Serve iron\-rich foods.** Most often, parents start serving their babies solid foods between ages 4 months and 6 months. When you begin serving solids, feed your baby foods with added iron. These include iron\-fortified baby cereal, pureed meats and pureed beans. For older children, good sources of iron include red meat, chicken, fish, beans and spinach.
+* **Do not serve too much milk.** Between ages 1 and 5, don't let your child drink more than 24 ounces (710 milliliters) of milk a day.
+* **Offer foods rich with vitamin C.** These help the body absorb iron. Foods that are high in vitamin C include citrus fruits, cantaloupe, strawberries, bell pepper, tomatoes and dark green vegetables.
+
+
+
+### Should I have my child checked for an iron deficiency?
+
+
+
+
+Most often, an iron deficiency and iron deficiency anemia are found through blood tests. The American Academy of Pediatrics recommends that all infants be tested for iron deficiency anemia starting between ages 9 months and 12 months. Those who have risk factors for iron deficiency should be tested again at later ages. Depending on the test's results, your child may need an iron supplement taken by mouth, a daily multivitamin or more testing.
+
+
+Iron deficiency in children can be prevented. To keep your child's growth and development on track, offer iron\-rich foods at meals and snacks. And talk to your child's health care team about the need for screening tests and iron supplements.
+
+
+
+
+
+
+
+
+
+ 
 
 
 

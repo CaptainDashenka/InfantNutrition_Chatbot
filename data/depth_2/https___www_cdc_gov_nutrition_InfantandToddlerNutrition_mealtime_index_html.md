@@ -60,7 +60,7 @@ Mealtime \| Nutrition \| CDC
 [Skip directly to search](#headerSearch)
 
 
-[Español](/spanish/) \| 
+[EspanIÌ€Æ’ol](/spanish/) \| 
 [Other Languages](https://wwwn.cdc.gov/pubs/other-languages/)
 
 **Error processing SSI file**  
@@ -171,7 +171,7 @@ Mealtime
 ========
 
  
-[Español (Spanish)](/nutrition/infantandtoddlernutrition/mealtime/index-es.html) [Print](#print)
+[EspanIÌ€Æ’ol (Spanish)](/nutrition/infantandtoddlernutrition/mealtime/index-es.html) [Print](#print)
 
 
 
@@ -193,3 +193,14 @@ Mealtime can be a fun, rewarding, and sometimes messy time for you and your chil
 ![A young couple and their toddler son interacting during a meal.](/nutrition/infantandtoddlernutrition/images/mealtime.jpg?_=77929)
 
 
+
+
+
+**Error processing SSI file**  
+
+
+
+
+
+
+ Last Reviewed:

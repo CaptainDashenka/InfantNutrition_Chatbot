@@ -191,7 +191,7 @@ Using waterproof labels and ink, label each container with the date you expresse
 Place the containers in the back of the refrigerator or freezer, where the temperature is the coolest. If you don't have access to a refrigerator or freezer, store the milk temporarily in an insulated cooler with ice packs.
 
 
-Fill individual containers with the milk your baby will need for one feeding. You might start with 2 to 4 ounces (60 to 120 milliliters), and then adjust as needed. Also consider storing smaller portions � 1 to 2 ounces (30 to 60 milliliters) � for unexpected situations or delays in regular feedings. Breast milk expands as it freezes, so don't fill containers to the brim.
+Fill individual containers with the milk your baby will need for one feeding. You might start with 2 to 4 ounces (60 to 120 milliliters), and then adjust as needed. Also consider storing smaller portions aIÌ€â€šaÌ‚â€šÂ¬aÌ‚â‚¬ï¿1⁄2 1 to 2 ounces (30 to 60 milliliters) aIÌ€â€šaÌ‚â€šÂ¬aÌ‚â‚¬ï¿1⁄2 for unexpected situations or delays in regular feedings. Breast milk expands as it freezes, so don't fill containers to the brim.
 
 
 
@@ -218,7 +218,7 @@ How long you can safely keep expressed breast milk depends on the storage method
 * **Deep freezer.** Freshly expressed breast milk can be stored in the back of a deep freezer for up to 12 months. However, using the frozen milk within six months is optimal.
 
 
-Keep in mind that research suggests that the longer you store breast milk � whether in the refrigerator or in the freezer � the greater the loss of vitamin C in the milk.
+Keep in mind that research suggests that the longer you store breast milk aIÌ€â€šaÌ‚â€šÂ¬aÌ‚â‚¬ï¿1⁄2 whether in the refrigerator or in the freezer aIÌ€â€šaÌ‚â€šÂ¬aÌ‚â‚¬ï¿1⁄2 the greater the loss of vitamin C in the milk.
 
 
 It's also important to note that your breast milk changes to meet your baby's needs. Breast milk expressed when a baby is a newborn won't as completely meet the same baby's needs when he or she is a few months older. Also, storage guidelines might differ for preterm, sick or hospitalized infants.
@@ -255,7 +255,7 @@ The color of your breast milk might vary slightly depending on your diet. Also, 
 
 
 
-�
+ 
 
 
 

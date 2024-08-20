@@ -124,7 +124,7 @@ Baby and toddler safety
 
 **Each year thousands of under\-5s are admitted to hospital following accidents, and lots of these accidents are preventable.**
 
-Here's how to protect your baby or toddler from some of the commonest accidents that affect young children.
+Here's how to protect your baby or toddler from some of the commonest accidents that affect young children.
 
 
 
@@ -133,11 +133,11 @@ Choking
 -------
 
 
-Food is the most common thing for babies and toddlers to choke on. Young children may also put small objects in their mouths that could cause choking.
+Food is the most common thing for babies and toddlers to choke on. Young children may also put small objects in their mouths that could cause choking.
 
 * If you give your baby a bottle, always hold the bottle and your baby while they're feeding.
-* Keep small objects, such as buttons, coins and small toy parts, out of your baby's reach.
-* Once your baby has started on solid food, always cut it up into small pieces. Babies can choke on something as small as a grape (these should be cut lengthways). Raw jelly cubes can be a choking hazard. If you're making jelly, make sure you always follow the manufacturer's instructions.
+* Keep small objects, such as buttons, coins and small toy parts, out of your baby's reach.
+* Once your baby has started on solid food, always cut it up into small pieces. Babies can choke on something as small as a grape (these should be cut lengthways). Raw jelly cubes can be a choking hazard. If you're making jelly, make sure you always follow the manufacturer's instructions.
 * Do not give young children hard foods, such as boiled sweets or whole nuts.
 * Keep small, silver button batteries well away from small children. As well as being a choking hazard, they can cause severe internal burns if swallowed.
 * Stay with your child when they're eating. Encourage them to sit still while they eat, as running around while eating could make them choke.
@@ -173,11 +173,11 @@ Strangulation
 
 
 * Do not tie a dummy to your baby's clothes, as the tie or ribbon could strangle them.
-* Always keep curtain or blind cords tied up out of reach – with a cleat hook for example – so that they're well out of your baby or toddler's reach. Unsecured blind and curtain ropes can quickly wrap themselves round a baby or toddler's neck. The [Royal Society for the Prevention of Accidents (RoSPA) has a video on blind safety you can view online](https://www.rospa.com/campaigns-fundraising/current/blind-cord).
+* Always keep curtain or blind cords tied up out of reach – with a cleat hook for example – so that they're well out of your baby or toddler's reach. Unsecured blind and curtain ropes can quickly wrap themselves round a baby or toddler's neck. The [Royal Society for the Prevention of Accidents (RoSPA) has a video on blind safety you can view online](https://www.rospa.com/campaigns-fundraising/current/blind-cord).
 * Do not leave any type of rope or cord lying around, including dressing gown cords and drawstring bags.
-* If the gaps between banisters or balcony railings are more than 6\.5cm (2\.5 inches) wide, cover them with boards or safety netting. Small babies may be able to squeeze their bodies through, but not their heads.
+* If the gaps between banisters or balcony railings are more than 6\.5cm (2\.5 inches) wide, cover them with boards or safety netting. Small babies may be able to squeeze their bodies through, but not their heads.
 * Keep toys and garden play equipment well away from washing lines, so that children cannot stand on them and reach the line.
-* Avoid using cot bumpers in your baby's cot – they are a hazard for choking, suffocation and strangulation. See more about [reducing the risk of sudden infant death syndrome (SIDS)](/conditions/baby/caring-for-a-newborn/reduce-the-risk-of-sudden-infant-death-syndrome/).
+* Avoid using cot bumpers in your baby's cot – they are a hazard for choking, suffocation and strangulation. See more about [reducing the risk of sudden infant death syndrome (SIDS)](/conditions/baby/caring-for-a-newborn/reduce-the-risk-of-sudden-infant-death-syndrome/).
 
 
 
@@ -193,8 +193,8 @@ Here are some things you can do to stop your baby being injured:
 * Change your baby's nappy on a changing mat on the floor.
 * Do not leave your baby unattended on a bed, sofa or changing table, even for a second, as they could roll off.
 * Always keep bouncing cradles or baby car seats on the floor, rather than on a table or kitchen worktop, as your baby's wriggling could tip it over the edge.
-* Hold on to the handrail when carrying your baby up and down stairs, in case you trip. Make sure the stairs are free of toys and other trip hazards.
-* If you get your baby a walker, make sure it complies with British Standard BS EN 1273:2005\. Older walkers may tip over more easily and harm your baby.
+* Hold on to the handrail when carrying your baby up and down stairs, in case you trip. Make sure the stairs are free of toys and other trip hazards.
+* If you get your baby a walker, make sure it complies with British Standard BS EN 1273:2005\. Older walkers may tip over more easily and harm your baby.
 * Watch where you're putting your feet while carrying your baby. It's easy to trip over something like a toy.
 * Use a 5\-point harness to secure your baby in a highchair or pram every time you put them in.
 
@@ -212,7 +212,7 @@ Here are some injury prevention tips for parents of crawling babies:
 
 
 
-Falls and injuries in toddlers
+Falls and injuries in toddlers
 ------------------------------
 
 
@@ -247,11 +247,11 @@ Poisoning
 
 
 
-Burns and scalds
+Burns and scalds
 ----------------
 
 
-A baby's skin burns more easily than an adult's. This means you need to take extra care to avoid burns and scalds. 
+A baby's skin burns more easily than an adult's. This means you need to take extra care to avoid burns and scalds. 
 
 * At bath time, run cold water into the bath first, then add some hot. Check the temperature with your elbow before your child gets in, and stay with them the whole time they are in the bath.
 * Babies and toddlers will grab at brightly coloured objects, such as mugs. If you're having a hot drink, put it down well out of reach before you hold your baby. Keep hot drinks well away from all young children. A hot drink can still scald 15 minutes after it was made.
@@ -283,15 +283,15 @@ Babies can drown in as little as 5cm (2 inches) of water. Drowning is one of the
 
 
 
-House fires
+House fires
 -----------
 
 
-Domestic fires are a significant risk to children. Smoke from a fire can kill a child in a few minutes. Cooking appliances, electrical equipment and cigarettes are common causes.
+Domestic fires are a significant risk to children. Smoke from a fire can kill a child in a few minutes. Cooking appliances, electrical equipment and cigarettes are common causes.
 
-* Never fill a chip pan more than one\-third full of oil, or get a deep fat fryer instead. If a chip pan does catch fire, switch off the hob, leave the room, close the door and call the fire brigade.
-* Extinguish and dispose of cigarettes, cigars and pipes carefully, particularly at night or if you are tired.
-* Fit smoke alarms on every level of your home. Test them every week and change the batteries every year.
+* Never fill a chip pan more than one\-third full of oil, or get a deep fat fryer instead. If a chip pan does catch fire, switch off the hob, leave the room, close the door and call the fire brigade.
+* Extinguish and dispose of cigarettes, cigars and pipes carefully, particularly at night or if you are tired.
+* Fit smoke alarms on every level of your home. Test them every week and change the batteries every year.
 * At night, switch off electrical items before you go to bed and close all doors to contain a potential fire.
 * Never overload electrical sockets.
 * Work out an escape plan for your family and tell your children what to do in case of a fire. Practise the plan regularly.
@@ -301,13 +301,13 @@ Domestic fires are a significant risk to children. Smoke from a fire can kill a
 
 
 
-Glass\-related injuries
+Glass\-related injuries
 -----------------------
 
 
 Broken glass can cause serious cuts. The following advice may help you keep your child safe.
 
-* Use safety glass at a low level, such as in doors and windows. This shatters less easily than normal glass. Look for the British Standards (BS) kitemark.
+* Use safety glass at a low level, such as in doors and windows. This shatters less easily than normal glass. Look for the British Standards (BS) kitemark.
 * Make existing glass safer by applying a shatter\-resistant film.
 * When buying furniture that includes glass, make sure it has the BS kitemark.
 * Always dispose of broken glass quickly and safely – wrap it in newspaper before throwing it in the bin.

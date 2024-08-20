@@ -60,7 +60,7 @@ Recommendations and Benefits \| Nutrition \| CDC
 [Skip directly to search](#headerSearch)
 
 
-[Español](/spanish/) \| 
+[EspanIÌ€Æ’ol](/spanish/) \| 
 [Other Languages](https://wwwn.cdc.gov/pubs/other-languages/)
 
 **Error processing SSI file**  
@@ -169,7 +169,7 @@ Recommendations and Benefits
 ============================
 
  
-[Español](/nutrition/infantandtoddlernutrition/breastfeeding/spanish/recomendaciones-y-beneficios.html) [Print](#print)
+[EspanIÌ€Æ’ol](/nutrition/infantandtoddlernutrition/breastfeeding/spanish/recomendaciones-y-beneficios.html) [Print](#print)
 
 
 
@@ -179,19 +179,19 @@ Related Pages
 
 
 
-![Mom breastfeeding her baby in a park while her toddler kisses the baby’s head.](/nutrition/infantandtoddlernutrition/images/benefits.jpg?_=42614)
+![Mom breastfeeding her baby in a park while her toddler kisses the babyaÌ‚â‚¬TMs head.](/nutrition/infantandtoddlernutrition/images/benefits.jpg?_=42614)
 Breastfeeding
 -------------
 
 
-The [U.S. Dietary Guidelines for Americans \[PDF\-30\.6MB]](https://www.dietaryguidelines.gov/sites/default/files/2020-12/Dietary_Guidelines_for_Americans_2020-2025.pdf#page=65) recommend that infants be [exclusively breastfed](/nutrition/infantandtoddlernutrition/definitions.html#Exclusivebreastfeeding) for about the first 6 months, and then continuing breastfeeding while introducing appropriate [complementary foods](/nutrition/infantandtoddlernutrition/definitions.html#complementaryfoods) until your child is 12 months old or older. The [American Academy of Pediatrics](https://publications.aap.org/pediatrics/article/150/1/e2022057988/188347/Policy-Statement-Breastfeeding-and-the-Use-of?searchresult=1?autologincheck=redirected) and the [World Health Organization](https://www.who.int/health-topics/breastfeeding) also recommend exclusive breastfeeding for about the first 6 months, with continued breastfeeding along with introducing appropriate complementary foods for up to 2 years of age or longer.
+The [U.S. Dietary Guidelines for Americans \[PDF\-30\.6MB]](https://www.dietaryguidelines.gov/sites/default/files/2020-12/Dietary_Guidelines_for_Americans_2020-2025.pdf#page=65) recommend that infants be [exclusively breastfed](/nutrition/infantandtoddlernutrition/definitions.html#Exclusivebreastfeeding) for about the first 6 months, and then continuing breastfeeding while introducing appropriate [complementary foods](/nutrition/infantandtoddlernutrition/definitions.html#complementaryfoods) until your child is 12 months old or older. The [American Academy of Pediatrics](https://publications.aap.org/pediatrics/article/150/1/e2022057988/188347/Policy-Statement-Breastfeeding-and-the-Use-of?searchresult=1?autologincheck=redirected) and the [World Health Organization](https://www.who.int/health-topics/breastfeeding) also recommend exclusive breastfeeding for about the first 6 months, with continued breastfeeding along with introducing appropriate complementary foods for up to 2 years of age or longer.
 
 
 Vitamins \& Minerals
 --------------------
 
 
-Breastfed babies need additional vitamin D and may need additional iron. Although breast milk is an excellent source of the nutrition your baby needs, he or she will need to get extra vitamin D (beginning at birth) and possibly iron from supplements. Learn more at [Vitamins \& Minerals](/nutrition/infantandtoddlernutrition/vitamins-minerals/index.html).
+Breastfed babies need additional vitamin D and may need additional iron. Although breast milk is an excellent source of the nutrition your baby needs, he or she will need to get extra vitamin D (beginning at birth) and possibly iron from supplements. Learn more at [Vitamins \& Minerals](/nutrition/infantandtoddlernutrition/vitamins-minerals/index.html).
 
 
 Benefits
@@ -233,3 +233,14 @@ Mothers who breastfeed their babies have a lower risk of:
 
 
 
+
+
+
+**Error processing SSI file**  
+
+
+
+
+
+
+ Last Reviewed:
