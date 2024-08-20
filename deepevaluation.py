@@ -1,15 +1,17 @@
 import warnings
 import csv
+import pandas
 from llama_index.llms.openai import OpenAI
 from llama_index.core import VectorStoreIndex, SimpleDirectoryReader, Settings
 from deepeval.metrics import AnswerRelevancyMetric, FaithfulnessMetric, ContextualRelevancyMetric
 from deepeval.test_case import LLMTestCase
 from deepeval.dataset import EvaluationDataset
+from deepeval.evaluate import dataclass
 
 
 # create the same vector store index as the chatbot 
 def load_data():
-    reader = SimpleDirectoryReader(input_dir="./data", recursive=True)
+    reader = SimpleDirectoryReader(input_dir="./data_reduced", recursive=True)
     docs = reader.load_data()
     Settings.llm = OpenAI(
         model="gpt-4o-mini",
@@ -57,15 +59,18 @@ with open(file_path, mode='r', newline='') as file:
         dataset.add_test_case(test_case)
 
         counter += 1
-        if counter >= 5:
+        if counter >= 3:
             break
 
 
 answer_relevancy_metric = AnswerRelevancyMetric(threshold=0.5)
 faithfullness_metric = FaithfulnessMetric()
 contextual_relevancy_metric = ContextualRelevancyMetric(threshold=0.7)
-dataset.evaluate([answer_relevancy_metric, faithfullness_metric, contextual_relevancy_metric])
+# result[dataclass] = list[]
+result = dataset.evaluate([answer_relevancy_metric, faithfullness_metric])
 
+mydf = pandas.DataFrame([vars(s) for s in result])
+print(mydf)
 
 '''
 # this block is using the llama index integration library by deepeval. not that useful for multiple questions and metrics
