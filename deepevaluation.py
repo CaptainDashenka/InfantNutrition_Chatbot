@@ -6,7 +6,7 @@ from llama_index.core import VectorStoreIndex, SimpleDirectoryReader, Settings
 from deepeval.metrics import AnswerRelevancyMetric, FaithfulnessMetric, ContextualRelevancyMetric
 from deepeval.test_case import LLMTestCase
 from deepeval.dataset import EvaluationDataset
-from deepeval.evaluate import dataclass
+from deepeval.evaluate import MetricData
 
 
 # create the same vector store index as the chatbot 
@@ -67,10 +67,30 @@ answer_relevancy_metric = AnswerRelevancyMetric(threshold=0.5)
 faithfullness_metric = FaithfulnessMetric()
 contextual_relevancy_metric = ContextualRelevancyMetric(threshold=0.7)
 # result[dataclass] = list[]
-result = dataset.evaluate([answer_relevancy_metric, faithfullness_metric])
+result = dataset.evaluate([answer_relevancy_metric])
 
-mydf = pandas.DataFrame([vars(s) for s in result])
-print(mydf)
+
+def process_object(obj):
+    processed_obj = []
+    for item in obj:
+        processed_item = {}
+        for attr, value in vars(item).items():
+            if isinstance(value, list):  # Check if the property is a list
+                if isinstance(value[0], MetricData):
+                    processed_item['name'] = value[0].name
+                    processed_item['score'] = value[0].score
+                    processed_item['score'] = value[0].success
+            else:
+                processed_item[attr] = value  # Save the property as is if it’s not a list
+            processed_obj.append(processed_item)
+    return processed_obj
+
+
+# mydf = pandas.DataFrame([vars(s) for s in result])
+# mydf = pandas.DataFrame(result, columns=['success', 'input', 'actual_output', 'metrics_data'])
+flat_results = process_object(result)
+mydf = pandas.DataFrame(flat_results)
+mydf.to_excel('test.xlsx')
 
 '''
 # this block is using the llama index integration library by deepeval. not that useful for multiple questions and metrics
