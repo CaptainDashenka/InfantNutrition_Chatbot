@@ -3,3 +3,4 @@
 .vscode/
 .deepeval-cache.json
 *.xlsx
+experiments/

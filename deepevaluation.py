@@ -8,10 +8,9 @@ from deepeval.test_case import LLMTestCase
 from deepeval.dataset import EvaluationDataset
 from deepeval.evaluate import MetricData
 
-
 # create the same vector store index as the chatbot 
 def load_data():
-    reader = SimpleDirectoryReader(input_dir="./data_reduced", recursive=True)
+    reader = SimpleDirectoryReader(input_dir="./experiments/data_reduced", recursive=True)
     docs = reader.load_data()
     Settings.llm = OpenAI(
         model="gpt-4o-mini",
@@ -31,13 +30,10 @@ rag_application = index.as_query_engine()
 dataset = EvaluationDataset()
 file_path = 'questions.txt'
 with open(file_path, mode='r', newline='') as file:
-    # Create a CSV reader object
-    #csv_reader = csv.reader(file)
-    lines = random.sample(file.readlines(),3)
+    lines = random.sample(file.readlines(),30)
 
     for line in lines:
         #print(row[0])
-        # maybe we'll need to remove the quotes and comma from the line string
         question_input = line.strip()
 
         # LlamaIndex returns a response object that contains both the output string and retrieved nodes
@@ -63,10 +59,10 @@ with open(file_path, mode='r', newline='') as file:
 answer_relevancy_metric = AnswerRelevancyMetric(threshold=0.5)
 faithfullness_metric = FaithfulnessMetric()
 contextual_relevancy_metric = ContextualRelevancyMetric(threshold=0.7)
-# result[dataclass] = list[]
+# use just one metric. TODO: add more metrics
 result = dataset.evaluate([answer_relevancy_metric])
 
-
+# function to create a flat datatable to store
 def process_object(obj):
     processed_obj = []
     for item in obj:
@@ -81,15 +77,13 @@ def process_object(obj):
                     processed_item['threshold'] = value[0].threshold
             else:
                 processed_item[attr] = value  # Save the property as is if it’s not a list
-            processed_obj.append(processed_item)
+        processed_obj.append(processed_item)
     return processed_obj
 
 
-# mydf = pandas.DataFrame([vars(s) for s in result])
-# mydf = pandas.DataFrame(result, columns=['success', 'input', 'actual_output', 'metrics_data'])
 flat_results = process_object(result)
 mydf = pandas.DataFrame(flat_results)
-mydf.to_excel('test.xlsx')
+mydf.to_excel('./experiments/test_50kb.xlsx')
 
 '''
 # this block is using the llama index integration library by deepeval. not that useful for multiple questions and metrics
