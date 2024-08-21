@@ -1,6 +1,6 @@
 import warnings
-import csv
 import pandas
+import random
 from llama_index.llms.openai import OpenAI
 from llama_index.core import VectorStoreIndex, SimpleDirectoryReader, Settings
 from deepeval.metrics import AnswerRelevancyMetric, FaithfulnessMetric, ContextualRelevancyMetric
@@ -32,12 +32,13 @@ dataset = EvaluationDataset()
 file_path = 'questions.txt'
 with open(file_path, mode='r', newline='') as file:
     # Create a CSV reader object
-    csv_reader = csv.reader(file)
+    #csv_reader = csv.reader(file)
+    lines = random.sample(file.readlines(),3)
 
-    counter = 0
-    for row in csv_reader:
+    for line in lines:
         #print(row[0])
-        question_input = row[0]
+        # maybe we'll need to remove the quotes and comma from the line string
+        question_input = line.strip()
 
         # LlamaIndex returns a response object that contains both the output string and retrieved nodes
         response_object = rag_application.query(question_input)
@@ -58,10 +59,6 @@ with open(file_path, mode='r', newline='') as file:
 
         dataset.add_test_case(test_case)
 
-        counter += 1
-        if counter >= 3:
-            break
-
 
 answer_relevancy_metric = AnswerRelevancyMetric(threshold=0.5)
 faithfullness_metric = FaithfulnessMetric()
@@ -79,7 +76,9 @@ def process_object(obj):
                 if isinstance(value[0], MetricData):
                     processed_item['name'] = value[0].name
                     processed_item['score'] = value[0].score
-                    processed_item['score'] = value[0].success
+                    processed_item['success'] = value[0].success
+                    processed_item['reason'] = value[0].reason
+                    processed_item['threshold'] = value[0].threshold
             else:
                 processed_item[attr] = value  # Save the property as is if it’s not a list
             processed_obj.append(processed_item)
