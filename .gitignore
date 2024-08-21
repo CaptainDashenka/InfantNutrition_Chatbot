@@ -2,3 +2,4 @@
 .venv/
 .vscode/
 .deepeval-cache.json
+*.xlsx
